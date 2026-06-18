@@ -1,1 +1,0 @@
-# wolf-claude-memory

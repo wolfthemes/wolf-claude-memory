@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "937bf8bec6a2604f",
+  "active": "1e0e7a320f92fc18",
   "lastOpenFiles": [
-    "README.md",
+    "Welcome.md",
     "CLAUDE.md",
+    "README.md",
     "output/plans",
     "output/instructions",
     "output/audits",
@@ -215,7 +216,6 @@
     "projects/wolfthemes-store/wolf-blocks.md",
     "projects/wolfthemes-store/wolf-store.md",
     "projects/wolfthemes-store/seijaku-fse.md",
-    "projects/wolfthemes-store/wolf-blank.md",
-    "Welcome.md"
+    "projects/wolfthemes-store/wolf-blank.md"
   ]
 }
