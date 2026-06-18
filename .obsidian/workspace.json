@@ -11,10 +11,14 @@
             "id": "937bf8bec6a2604f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CLAUDE"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CLAUDE"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CLAUDE"
             }
           },
           {
@@ -189,7 +196,26 @@
   },
   "active": "937bf8bec6a2604f",
   "lastOpenFiles": [
-    "Welcome.md",
-    "README.md"
+    "README.md",
+    "CLAUDE.md",
+    "output/plans",
+    "output/instructions",
+    "output/audits",
+    "output/changelogs",
+    "output",
+    "wiki/wolf-store.md",
+    "wiki/wolf-blocks.md",
+    "wiki/wolf-blank.md",
+    "wiki/seijaku-fse.md",
+    "wiki",
+    "raw/wolf-blocks",
+    "raw/wolf-store",
+    "raw/wolf-blank",
+    "raw/seijaku-fse",
+    "projects/wolfthemes-store/wolf-blocks.md",
+    "projects/wolfthemes-store/wolf-store.md",
+    "projects/wolfthemes-store/seijaku-fse.md",
+    "projects/wolfthemes-store/wolf-blank.md",
+    "Welcome.md"
   ]
 }
