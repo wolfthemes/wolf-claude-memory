@@ -1,6 +1,6 @@
 # FSE Stack Architecture
 
-The new WolfThemes development stack (2024–) is a pure Gutenberg/FSE monorepo-style setup. No Elementor, no page builders, no wolf-core. Everything is a WordPress block.
+The new WolfThemes development stack (2026–) is a pure Gutenberg/FSE monorepo-style setup. No Elementor, no page builders, no wolf-core. Everything is a WordPress block.
 
 ## Layers
 
