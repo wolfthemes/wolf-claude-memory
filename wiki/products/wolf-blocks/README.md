@@ -13,16 +13,28 @@ Provide data-driven / repeatable UI sections (stats, testimonials, pricing) that
 
 ## Blocks
 
-| Block | Status |
+| Block | Notes |
 |---|---|
-| Marquee | ✅ implemented |
-| Stats Counter | 🔲 scaffold |
-| Testimonial Card | 🔲 scaffold |
-| Pricing Table | 🔲 scaffold |
+| wolf-blocks/marquee | scrolling text band |
+| wolf-blocks/stats-counter | animated counter, IntersectionObserver view.js |
+| wolf-blocks/testimonial-card | quote + avatar + author |
+| wolf-blocks/pricing-table | pricing tiers, services list, offer price |
+| wolf-blocks/countdown | dynamic block (PHP render_callback), manual date or wolf-store offer, view.js ticker |
+| wolf-blocks/comparison-table | us vs competitor feature table, repeatable rows with reorder |
+| wolf-blocks/feature-grid | InnerBlocks grid, 2–4 columns, providesContext for columns |
+| wolf-blocks/feature-grid-item | child of feature-grid, @wordpress/icons picker, RichText title+desc |
 
 ## Architecture
 
 Same CSS boundary rule as wolf-store: blocks consume `--wolf-*` and `--wp--preset--*` tokens from the theme, never hardcode colors or spacing. See [[theme-plugin-css-contract]].
+
+## Toolchain versions (pinned — do not casually upgrade)
+
+- `@wordpress/scripts@^31.8.0` — React 18 support, ESLint v8 (still supports `.eslintrc.js` legacy config)
+- Do NOT upgrade to `@wordpress/scripts@32+` — ESLint v10 dropped `.eslintrc.js` support; requires flat config migration to `eslint.config.js`
+- wolf-store uses `@wordpress/scripts@24` (React 17 only) — wolf-blocks intentionally diverges here
+- `stylelint@^16` required by `@wordpress/stylelint-config@^23`; `.stylelintrc.json` must include `"customSyntax": "postcss-scss"` or `//` SCSS comments cause `CssSyntaxError`
+- Removed in stylelint v16 (do not set to `null`): `max-line-length`, `declaration-colon-space-after`
 
 ## Dev commands
 

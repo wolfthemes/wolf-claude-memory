@@ -55,7 +55,29 @@ Data passed to React via `wp_localize_script` as `window.wolfStoreData`.
 
 Entry: `src/scripts/plugin.js` → `build/app.js`. Mounts on `#wolf-store-root` injected by PHP templates. React island — WP handles header/footer/nav in PHP.
 
-Key components: `Archive.jsx` (theme grid + filtering), `Single.jsx` (detail page composed from `ThemeHero`, `ThemeGallery`, `ThemeDescription`, `ThemeFeatures`, `ThemeChangelog`, etc.).
+**Archive:** `Archive.jsx` (grid + filtering + search + pagination), `ThemeCard.jsx` (category badge + page builder label), `Sidebar.jsx`, `SearchBar.jsx`, `Pagination.jsx`, `SkeletonCard.jsx`.
+
+**Single:** `Single.jsx` composes `ThemeHero`, `ThemeGallery` (Fancybox lightbox), `ThemeDescription`, `ThemeStats` (animated count-up), `ThemeFeatures`, `ThemeBenefits`, `ThemeBrandStory`, `ThemeCTAs`, `ThemeComparisonTable`, `ThemePriceBox`, `ThemeChangelog`, `ThemeTechnicals`, `ThemeTestimonials`, `StickyCTA`, `RelatedThemes`, `CountdownTimer`, `SkeletonSingle`.
+
+**Infrastructure:** `ErrorBoundary.jsx`, hooks (`useThemes`, `useTheme`, `useTerms`).
+
+### Offer/coupon system
+
+`src/scripts/config/offers.js` — single source of truth for active promotions. `ACTIVE_OFFER = null` disables. `withCoupon(url)` appends `?coupon=CODE`. `discounted(price)` applies the discount factor.
+
+### CSS token system
+
+All design values (spacing, color, typography) are defined as `--ws-*` CSS custom properties in `src/styles/_tokens.scss`. SCSS utility functions (e.g. `sp()`) are defined there too. Component SCSS must use tokens — no hard-coded values.
+
+```
+src/styles/
+├── _tokens.scss         # --ws-* custom properties + SCSS functions
+├── _var.scss            # Legacy variables (being migrated to tokens)
+├── _archive.scss / _card.scss / _single.scss / _themes.scss
+├── main.scss / admin.scss
+├── components/          # Per-component BEM partials
+└── vendor/_fancybox.scss
+```
 
 ## CSS boundary
 

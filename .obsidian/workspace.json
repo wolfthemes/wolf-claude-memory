@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7c7dde16dfe9834f",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "da99a5368ccb0bc3",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "8febc9cb73145193",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/fse-stack-architecture.md",
-                "mode": "source",
+                "file": "wiki/products/themeforest-portfolio/README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fse-stack-architecture"
+              "title": "README"
             }
           }
         ]
@@ -191,15 +191,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "8febc9cb73145193",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "CLAUDE.md",
+    "wiki/products/themeforest-portfolio/README.md",
+    "Home.md",
+    "Home.md.tmp.58977.ff12221dda6f",
+    "wiki/products/themeforest-portfolio/README.md.tmp.58977.61b4fd49633f",
+    "wiki/products/themeforest-portfolio",
+    "raw/themefores-portfolio/theme-positioning.md",
+    "raw/themefores-portfolio",
+    "wiki/projects/wolfthemes-redesign/Design Direction.md.tmp.58977.0de057fc6b7b",
+    "Home.md.tmp.58977.9309fad9cbaf",
+    "wiki/products/wolf-store/README.md",
+    "wiki/products/wolf-blocks/README.md.tmp.49648.b65ffffa1b6d",
+    "wiki/products/wolf-store/README.md.tmp.53841.219141aea5fb",
+    "wiki/products/seijaku-fse/README.md.tmp.52116.3ec09791b584",
+    "wiki/concepts/fse-stack-architecture.md",
     "wiki/products/wolfthemes-wiki/README.md",
     "wiki/products/wolf-visual-composer/README.md",
-    "wiki/products/wolf-store/README.md",
     "wiki/products/wolf-core/README.md",
     "wiki/products/wolf-blocks/README.md",
     "wiki/products/wolf-blank/README.md",
@@ -208,30 +222,16 @@
     "wiki/products/ai-crew/README.md",
     "wiki/projects/README.md",
     "wiki/projects/wolfthemes-redesign/README.md",
-    "wiki/concepts/fse-stack-architecture.md",
     "wiki/concepts/wolfthemes-brand.md",
     "wiki/concepts/theme-plugin-css-contract.md",
     "wiki/products/ai-crew",
-    "wiki/products/wolfthemes-wiki",
-    "wiki/products/wolf-visual-composer",
-    "wiki/products/wolf-core",
-    "wiki/products/seijaku-fse/README.md.tmp.15000.2a583b03815c",
     "raw/constantin.saguin.com/index.md",
-    "wiki/products/constantin.saguin.com/README.md.tmp.33394.b1b220f46865",
-    "wiki/products/constantin.saguin.com",
     "raw/constantin.saguin.com/README.md",
     "raw/constantin.saguin.com/Screenshot 2026-06-18 170352.png",
-    "raw/constantin.saguin.com/WolfThemes Homepage Concepts.html",
-    "raw/constantin.saguin.com/Unconfirmed 325379.crdownload",
-    "raw/constantin.saguin.com",
     "wiki/projects/wolfthemes-redesign/Design Direction.md",
     "wiki/concepts/README.md",
     "wiki/products/README.md",
     "Welcome.md",
-    "README.md",
-    "wiki/wolf-store.md",
-    "wiki/wolf-blocks.md",
-    "wiki/wolf-blank.md",
-    "wiki/seijaku-fse.md"
+    "README.md"
   ]
 }

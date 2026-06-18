@@ -11,7 +11,8 @@ Long-lived assets and repositories. See [[fse-stack-architecture]] for how the F
 
 ## Legacy Stack (ThemeForest — maintained, not extended)
 
-- [wolf-core](wolf-core/README.md) — Core functions plugin shared across 40+ legacy themes.
+- [themeforest-portfolio](themeforest-portfolio/README.md) — 48 premium WordPress themes. Organized by category with positioning notes.
+- [wolf-core](wolf-core/README.md) — Core functions plugin shared across all legacy themes.
 - [wolf-visual-composer](wolf-visual-composer/README.md) — WPBakery Page Builder extension for legacy themes.
 
 ## Infrastructure & Tools
