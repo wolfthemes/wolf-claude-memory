@@ -32,7 +32,7 @@
 ### Legacy Stack (ThemeForest — maintained, not extended)
 | Product | Role |
 |---|---|
-| [[wiki/products/themeforest-portfolio/README\|themeforest-portfolio]] | 48 premium themes — full index + positioning by category |
+| [[wiki/products/themeforest-portfolio/README\|themeforest-portfolio]] | 47 premium themes — full index + optimized taxonomy by category |
 | [[wiki/products/wolf-core/README\|wolf-core]] | Shared functions for all legacy themes |
 | [[wiki/products/wolf-visual-composer/README\|wolf-visual-composer]] | WPBakery extension for legacy themes |
 
