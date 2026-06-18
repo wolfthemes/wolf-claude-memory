@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be64372394827a3d",
+        "id": "da99a5368ccb0bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "937bf8bec6a2604f",
+            "id": "8febc9cb73145193",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "CLAUDE"
             }
-          },
-          {
-            "id": "f245e60cabd02dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/projects/wolfthemes-redesign/Design Direction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design Direction"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/projects/wolfthemes-redesign/Design Direction.md",
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design Direction"
+              "title": "Backlinks for CLAUDE"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/projects/wolfthemes-redesign/Design Direction.md",
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Design Direction"
+              "title": "Outgoing links from CLAUDE"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/projects/wolfthemes-redesign/Design Direction.md",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Design Direction"
+              "title": "Outline of CLAUDE"
             }
           },
           {
@@ -209,10 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e0e7a320f92fc18",
+  "active": "8febc9cb73145193",
   "lastOpenFiles": [
-    "wiki/concepts/README.md",
+    "raw/constantin.saguin.com/index.md",
+    "wiki/products/constantin.saguin.com/README.md",
+    "wiki/products/constantin.saguin.com/README.md.tmp.33394.b1b220f46865",
+    "wiki/products/constantin.saguin.com",
+    "CLAUDE.md",
+    "raw/constantin.saguin.com/README.md",
+    "raw/constantin.saguin.com/Screenshot 2026-06-18 170352.png",
+    "raw/constantin.saguin.com/WolfThemes Homepage Concepts.html",
+    "raw/constantin.saguin.com/Unconfirmed 325379.crdownload",
     "wiki/projects/README.md",
+    "raw/constantin.saguin.com",
+    "wiki/projects/constantin.saguin.com",
+    "wiki/projects/wolfthemes-redesign/Design Direction.md",
+    "wiki/concepts/README.md",
     "wiki/products/README.md",
     "wiki/products/wolf-blocks/README.md",
     "wiki/products/seijaku-fse/README.md",
@@ -222,16 +219,8 @@
     "wiki/products/wolf-store",
     "wiki/products/wolf-blocks",
     "wiki/products/wolf-blank",
-    "wiki/products/seijaku-fse",
-    "wiki/products",
-    "CLAUDE.md",
-    "wiki/projects/wolfthemes-redesign/Design Direction.md",
-    "wiki/projects/wolfthemes-redesign",
-    "wiki/projects",
     "Welcome.md",
     "README.md",
-    "output/plans",
-    "output/instructions",
     "wiki/wolf-store.md",
     "wiki/wolf-blocks.md",
     "wiki/wolf-blank.md",
