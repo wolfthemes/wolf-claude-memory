@@ -1,6 +1,6 @@
 # ThemeForest Portfolio
 
-47 premium WordPress themes sold on ThemeForest under the WolfThemes brand. (Hyperbent removed from portfolio June 2026.) Legacy stack — actively maintained, no new development. All use Elementor or WPBakery + [[wiki/products/wolf-core/README|wolf-core]] + [[wiki/products/wolf-visual-composer/README|wolf-visual-composer]].
+47 premium WordPress themes sold on ThemeForest under the WolfThemes brand. (Hyperbent removed from portfolio June 2026.) Legacy stack — actively maintained, no new development. All use Elementor or WPBakery + [[wiki/products/wolf-core/wolf-core|wolf-core]] + [[wiki/products/wolf-visual-composer/wolf-visual-composer|wolf-visual-composer]].
 
 **Full positioning database:** `raw/themeforest-portfolio/theme-positioning.md`  
 **Taxonomy optimization source:** `raw/themeforest-portfolio/theme-taxonomie chat.md`  

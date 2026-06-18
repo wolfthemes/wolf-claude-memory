@@ -24,24 +24,24 @@
 ### FSE Stack (active development)
 | Product | Role | Key link |
 |---|---|---|
-| [[wiki/products/wolf-blank/README\|wolf-blank]] | FSE base theme — design token slots | [GitHub](https://github.com/wolfthemes/wolf-blank) |
-| [[wiki/products/seijaku-fse/README\|seijaku-fse]] | FSE child theme — wolfthemes.com | [GitHub](https://github.com/wolfthemes/seijaku-fse) · [Dev](http://localhost:8080) |
-| [[wiki/products/wolf-store/README\|wolf-store]] | Marketplace plugin (PHP + React) | [GitHub](https://github.com/wolfthemes/wolf-store) · [Staging](https://staging20.wolfthemes.com/store/) |
-| [[wiki/products/wolf-blocks/README\|wolf-blocks]] | Gutenberg blocks (stats, testimonials, pricing) | [GitHub](https://github.com/wolfthemes/wolf-blocks) |
+| [[wiki/products/wolf-blank/wolf-blank\|wolf-blank]] | FSE base theme — design token slots | [GitHub](https://github.com/wolfthemes/wolf-blank) |
+| [[wiki/products/seijaku-fse/seijaku-fse\|seijaku-fse]] | FSE child theme — wolfthemes.com | [GitHub](https://github.com/wolfthemes/seijaku-fse) · [Dev](http://localhost:8080) |
+| [[wiki/products/wolf-store/wolf-store\|wolf-store]] | Marketplace plugin (PHP + React) | [GitHub](https://github.com/wolfthemes/wolf-store) · [Staging](https://staging20.wolfthemes.com/store/) |
+| [[wiki/products/wolf-blocks/wolf-blocks\|wolf-blocks]] | Gutenberg blocks (stats, testimonials, pricing) | [GitHub](https://github.com/wolfthemes/wolf-blocks) |
 
 ### Legacy Stack (ThemeForest — maintained, not extended)
 | Product | Role |
 |---|---|
-| [[wiki/products/themeforest-portfolio/README\|themeforest-portfolio]] | 47 premium themes — full index + optimized taxonomy by category |
-| [[wiki/products/wolf-core/README\|wolf-core]] | Shared functions for all legacy themes |
-| [[wiki/products/wolf-visual-composer/README\|wolf-visual-composer]] | WPBakery extension for legacy themes |
+| [[wiki/products/themeforest-portfolio/themeforest-portfolio\|themeforest-portfolio]] | 47 premium themes — full index + optimized taxonomy by category |
+| [[wiki/products/wolf-core/wolf-core\|wolf-core]] | Shared functions for all legacy themes |
+| [[wiki/products/wolf-visual-composer/wolf-visual-composer\|wolf-visual-composer]] | WPBakery extension for legacy themes |
 
 ### Infrastructure & Tools
 | Product | Role |
 |---|---|
-| [[wiki/products/wolfthemes-wiki/README\|wolfthemes-wiki]] | VitePress docs at wiki.wolfthemes.com |
-| [[wiki/products/ai-crew/README\|ai-crew]] | Python/CrewAI support automation |
-| [[wiki/products/constantin.saguin.com/README\|constantin.saguin.com]] | Personal portfolio (terminal design, DM Mono, dark) |
+| [[wiki/products/wolfthemes-wiki/wolfthemes-wiki\|wolfthemes-wiki]] | VitePress docs at wiki.wolfthemes.com |
+| [[wiki/products/ai-crew/ai-crew\|ai-crew]] | Python/CrewAI support automation |
+| [[wiki/products/constantin.saguin.com/constantin.saguin.com\|constantin.saguin.com]] | Personal portfolio (terminal design, DM Mono, dark) |
 
 ---
 
@@ -59,7 +59,7 @@
 
 | Project | Status |
 |---|---|
-| [[wiki/projects/wolfthemes-redesign/README\|wolfthemes-redesign]] | Active — rebuilding wolfthemes.com on FSE/Gutenberg |
+| [[wiki/projects/wolfthemes-redesign/wolfthemes-redesign\|wolfthemes-redesign]] | Active — rebuilding wolfthemes.com on FSE/Gutenberg |
 
 ---
 
