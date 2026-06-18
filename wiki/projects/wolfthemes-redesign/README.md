@@ -22,13 +22,29 @@ See also: [[wolfthemes-brand]] (positioning) and [[fse-stack-architecture]] (tec
 
 ## Progress
 
+### Front page
 | Section | Status |
 |---|---|
 | Hero | ✅ |
-| Themes grid (`wolf-store/theme-index`) | ✅ |
-| Stats band | ⏳ wolf-blocks |
-| Testimonials | ⏳ wolf-blocks |
+| Themes grid (`wolf-store/theme-index`, featured-first) | ✅ |
 | About / brand story | ✅ |
-| Header | ✅ |
-| Footer | ✅ |
-| Pricing | ⏳ wolf-blocks |
+| Stats band | ⏳ wolf-blocks (static pattern placeholder) |
+| Testimonials | ⏳ wolf-blocks (static pattern placeholder) |
+| Header / Footer | ✅ |
+
+### Inner pages
+| Page | Status |
+|---|---|
+| About | ✅ (patterns: intro · story · values · CTA) |
+| Services | ✅ (patterns: hero · intro · process · pricing · FAQ · CTA) |
+| Contact | ✅ (patterns: intro · form · options) |
+| Music themes landing | ✅ |
+| Theme archive (`archive-wolf_theme`) | ✅ |
+| Single theme (`single-wolf_theme`) | ✅ |
+
+### Infrastructure
+| Item | Status |
+|---|---|
+| GitHub Actions CI (lint + build) | ✅ |
+| Auto-deploy to SiteGround (SSH rsync) | ✅ |
+| PHP patterns system (27+ patterns) | ✅ |

@@ -31,24 +31,47 @@ Full branding rationale: [[wolfthemes-brand]].
 
 Typography adds a `display` size (hero) above `3xl`. Spacing adds `11`/`12` clamp section steps.
 
-## Front page sections (`templates/front-page.html`)
+## Templates
 
-| Section | Status | Notes |
-|---|---|---|
-| Hero — full viewport, display heading, two CTAs | ✅ | `core/cover`, no image |
-| Themes grid — `wolf-store/theme-index` block | ✅ | featured-first |
-| Stats band — `$2M · 14 years · 36k` | ⏳ | `WOLF-BLOCKS: stats-counter` placeholder |
-| Testimonials | ⏳ | `WOLF-BLOCKS: testimonials` placeholder |
-| About — asymmetric columns, text + pull quote | ✅ | core blocks |
-| Footer | ✅ | minimal 3 cols, `parts/footer.html` |
-| Header | ✅ | wordmark left, nav + CTA right, `parts/header.html` |
+| Template | Notes |
+|---|---|
+| `front-page.html` | Overlay header · hero · themes grid · about · WOLF-BLOCKS placeholders |
+| `about.html` | Intro · story · values · CTA via patterns |
+| `services.html` | Hero · intro · process · pricing · FAQ · CTA via patterns |
+| `contact.html` | Intro · form · options via patterns |
+| `music-themes.html` | Overlay header · niche landing page |
+| `archive-wolf_theme.html` | Theme archive — `wolf-store/theme-index` grid |
+| `single-wolf_theme.html` | Individual theme product page |
+| `page.html` / `page-fullwidth.html` | Default page templates |
 
-Data-driven / repeatable sections (stats, testimonials, pricing) are deferred to [[wolf-blocks]].
+## Template parts
+
+- `parts/header.html` — wordmark left, nav + CTA right (standard pages)
+- `parts/header-overlay.html` — transparent variant (front-page, music-themes)
+- `parts/footer.html` — minimal 3 columns
+
+## Patterns (`patterns/` — PHP)
+
+27+ registered section patterns consumed by templates. Categories: hero, about, services, contact, social proof (stats/testimonials/why-wolfthemes/audience), global (CTA, marquee, sale-marquee, latest-themes), brand (logo marks).
+
+Stats, testimonials, and pricing are currently **static PHP patterns** and will be superseded by [[wolf-blocks]] when that plugin ships.
+
+## Build system
+
+`src/scripts/` + `src/styles/` → `build/` via `@wordpress/scripts` (webpack).  
+`npm run build` (prod) · `npm run start` (watch) · `npm run lint` · `composer install && npm run lint:php`
+
+## CI / deploy
+
+GitHub Actions (`.github/workflows/deploy.yml`) on push to `master` or `stage`:
+1. Lint JS + CSS (both branches) + PHP (master only via PHPCS/WordPress+VIP standards)
+2. Build assets
+3. Deploy to SiteGround via SSH rsync
 
 ## Active plugins
 
 - `wolf-store` — themes marketplace plugin, provides the `wolf-store/theme-index` block
-- `wolf-blocks` (planned) — pricing table, testimonials, stats counter
+- `wolf-blocks` (planned) — stats counter, testimonials, pricing table
 
 ## FSE gotcha
 
