@@ -10,6 +10,8 @@ WordPress plugin that powers the WolfThemes theme marketplace. OOP PHP backend +
 
 Replace ThemeForest as the primary distribution channel for WolfThemes themes. Provide a custom licensing, delivery, and storefront pipeline with full ownership of the customer relationship.
 
+**Theme product pages as SEO landing pages:** Post-production, each theme's single page (`single-wolf_theme`) at `wolfthemes.com/theme/<slug>` (e.g. `wolfthemes.com/theme/sable`) serves as the canonical SEO landing page for that theme. No separate landing page infrastructure needed.
+
 ## Tech stack
 
 | Layer | Technology |

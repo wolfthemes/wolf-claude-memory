@@ -1,5 +1,7 @@
 # constantin.saguin.com
 
+**Status: Paused — done until further notice (June 2026).**
+
 Personal portfolio site / CV at [constantin.saguin.com](https://constantin.saguin.com).
 
 ## Purpose

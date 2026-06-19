@@ -10,12 +10,11 @@
 
 | Project | Status | Blocker |
 |---|---|---|
-| wolfthemes-redesign | Front page live, inner pages done | wolf-blocks stats/testimonials/pricing pending |
-| wolf-blocks | Marquee, stats-counter, testimonial-card, pricing-table, countdown, comparison-table, feature-grid | — |
-| wolf-store | Active dev — React frontend expanding | CSS debt migration (`_var.scss` → tokens) |
-| constantin.saguin.com | Terminal design system live | — |
+| wolfthemes-redesign | Pre-production sprint — card/archive UI, deploy test | Target: week of 2026-06-23 |
+| wolf-blocks | In-page testing + newsletter sign-up block | — |
+| wolf-store | Active dev — theme pages = SEO landing pages post-prod | CSS debt migration |
 
-**Next milestone:** ship wolf-blocks → remove static PHP pattern placeholders from seijaku-fse.
+**Next milestone:** production deploy week of 2026-06-23.
 
 ---
 
