@@ -73,6 +73,10 @@ GitHub Actions (`.github/workflows/deploy.yml`) on push to `master` or `stage`:
 - `wolf-store` — themes marketplace plugin, provides the `wolf-store/theme-index` block
 - `wolf-blocks` (planned) — stats counter, testimonials, pricing table
 
+## Template generation
+
+Use the `/seijaku-fse-template` skill before generating any template or pattern — it loads live token values, existing valid templates as exemplars, and wolf-blocks schemas. See [[wiki/concepts/fse-block-grammar|FSE Block Grammar]] for known gotchas and the `/learnt` command to log new fixes.
+
 ## Template and pattern authoring rule
 
 > **Strip to the absolute minimum.** No custom inline styles, no extra custom classes, no pre-set custom settings. Design relies entirely on default block styles or `theme.json` variables. Maximum simplicity.
