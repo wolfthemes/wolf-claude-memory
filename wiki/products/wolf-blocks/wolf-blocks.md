@@ -23,6 +23,7 @@ Provide data-driven / repeatable UI sections (stats, testimonials, pricing) that
 | wolf-blocks/comparison-table | us vs competitor feature table, repeatable rows with reorder |
 | wolf-blocks/feature-grid | InnerBlocks grid, 2–4 columns, providesContext for columns |
 | wolf-blocks/feature-grid-item | child of feature-grid, @wordpress/icons picker, RichText title+desc |
+| wolf-blocks/newsletter-signup | ⏳ in progress — email opt-in block |
 
 ## Architecture
 
