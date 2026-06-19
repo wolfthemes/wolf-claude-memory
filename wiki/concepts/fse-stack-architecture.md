@@ -19,7 +19,7 @@ wolf-blank (FSE base theme)
 
 ## Dev environment
 
-All four repos are developed together in `wolf-store-docker`:
+All four repos are developed together in `wolf-store-docker`. Full setup details: [[wiki/concepts/dev-environment]].
 
 | Path | Repo |
 |---|---|
