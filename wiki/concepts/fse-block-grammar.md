@@ -152,8 +152,9 @@ For overlay header (front-page, music-themes):
 
 ## Known fixes
 
-*Entries added via `/learnt` as issues are discovered and resolved.*
+*Entries added via `/learn` as issues are discovered and resolved.*
 
 | Date | Block | Issue | Fix |
 |---|---|---|---|
-| 2026-06-19 | `wolf-blocks/marquee` | Inner HTML content flagged as invalid in block editor | Marquee block is self-closing — use `<!-- wp:wolf-blocks/marquee {...} /-->` with no inner HTML. Inner content belongs in the `text` attribute, not between block comment tags. |
+| 2026-06-19 | `wolf-blocks/marquee` | "Resolve Block" dialog appears — WordPress offers to convert inner HTML with `wolf-blocks-marquee__item` / `wolf-blocks-marquee__item-separator` spans | Marquee is self-closing. Never put inner HTML between its block tags. All content goes in the `text` attribute: `<!-- wp:wolf-blocks/marquee {"text":"Your text · "} /-->` |
+| 2026-06-19 | PHP patterns (e.g. `seijaku-fse/testimonials`) | "Block contains unexpected or invalid content" on templates that include PHP patterns outputting raw HTML | PHP patterns must output valid Gutenberg block markup, not raw HTML. Every element must be wrapped in a registered block comment (`<!-- wp:html -->` for raw HTML fallback, or ideally a proper block). Raw HTML outside block comments is unparseable by the editor. |

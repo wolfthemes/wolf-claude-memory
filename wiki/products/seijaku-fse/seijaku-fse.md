@@ -75,7 +75,7 @@ GitHub Actions (`.github/workflows/deploy.yml`) on push to `master` or `stage`:
 
 ## Template generation
 
-Use the `/seijaku-fse-template` skill before generating any template or pattern — it loads live token values, existing valid templates as exemplars, and wolf-blocks schemas. See [[wiki/concepts/fse-block-grammar|FSE Block Grammar]] for known gotchas and the `/learnt` command to log new fixes.
+Use the `/seijaku-fse-template` skill before generating any template or pattern — it loads live token values, existing valid templates as exemplars, and wolf-blocks schemas. See [[wiki/concepts/fse-block-grammar|FSE Block Grammar]] for known gotchas and the `/learn` command to log new fixes.
 
 ## Template and pattern authoring rule
 
