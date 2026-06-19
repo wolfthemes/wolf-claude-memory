@@ -2,7 +2,7 @@
 
 **Goal:** Replace wolfthemes.com (old Seijaku + Elementor site) with a modern FSE / Gutenberg-only storefront.
 
-**Status:** Active — front page built, stats/testimonials/pricing pending wolf-blocks plugin.
+**Status:** Active — all pages built. wolf-blocks in-page testing underway. Pre-production sprint in progress, targeting production deployment next week.
 
 ## What this is
 
@@ -28,19 +28,27 @@ See also: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]] (positioning) and 
 | Hero | ✅ |
 | Themes grid (`wolf-store/theme-index`, featured-first) | ✅ |
 | About / brand story | ✅ |
-| Stats band | ⏳ wolf-blocks (static pattern placeholder) |
-| Testimonials | ⏳ wolf-blocks (static pattern placeholder) |
+| Stats band | 🧪 wolf-blocks in-page testing |
+| Testimonials | 🧪 wolf-blocks in-page testing |
 | Header / Footer | ✅ |
+| Countdown (current site main pages) | ⏳ pending |
 
 ### Inner pages
 | Page | Status |
 |---|---|
-| About | ✅ (patterns: intro · story · values · CTA) |
-| Services | ✅ (patterns: hero · intro · process · pricing · FAQ · CTA) |
-| Contact | ✅ (patterns: intro · form · options) |
+| About | ✅ |
+| Services | ✅ |
+| Contact | ✅ |
 | Music themes landing | ✅ |
-| Theme archive (`archive-wolf_theme`) | ✅ |
+| Theme archive (`archive-wolf_theme`) | 🔧 UI refinement — filtering + search |
 | Single theme (`single-wolf_theme`) | ✅ |
+
+### Theme card + archive UI
+| Item | Status |
+|---|---|
+| Theme card design refinement | ⏳ in sprint |
+| Archive filtering appearance | ⏳ in sprint |
+| Archive search UI | ⏳ in sprint |
 
 ### Infrastructure
 | Item | Status |
@@ -48,3 +56,17 @@ See also: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]] (positioning) and 
 | GitHub Actions CI (lint + build) | ✅ |
 | Auto-deploy to SiteGround (SSH rsync) | ✅ |
 | PHP patterns system (27+ patterns) | ✅ |
+| Deployment re-test | 🔧 today |
+| Switch to dev branches (pre-production) | ⏳ after deploy test |
+| Performance optimization | ⏳ post-card/archive sprint |
+
+### Production checklist
+| Item | Status |
+|---|---|
+| wolf-blocks in-page tests pass | 🧪 |
+| Theme card + archive UI done | ⏳ |
+| Countdown added to current site | ⏳ |
+| Deployment pipeline verified | 🔧 |
+| Dev branches merged / ready | ⏳ |
+| Performance pass | ⏳ |
+| **Production deploy** | 🎯 target: week of 2026-06-23 |
