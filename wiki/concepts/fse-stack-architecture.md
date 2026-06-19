@@ -33,6 +33,10 @@ Each is an **independent Git repo** with its own remote and branch. `wolf-store`
 
 **Site:** http://localhost:8080 · **Adminer:** http://localhost:8081
 
+## Development standards
+
+All code follows **WordPress coding standards**, uses modern best practices, and stays aligned with official WordPress documentation. Solutions must be robust and maintainable. These standards are assumed on every task — they do not need to be restated per request.
+
 ## Design constraints
 
 - FSE / Gutenberg only — no Elementor, no WPBakery, no wolf-core

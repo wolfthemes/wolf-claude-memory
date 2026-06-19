@@ -42,6 +42,10 @@ When something is genuinely temporary or task-level, leave it out of the wiki en
 
 Default to small, in-place edits. If a change would touch many pages or alter the categories above, describe the change and wait for a go-ahead first.
 
+## Development standards
+
+Every technical solution must follow **WordPress coding standards**, use **modern best practices**, be **robust and maintainable**, and stay **well-aligned with official WordPress documentation**. These standards apply to all tasks by default — they do not need to be restated per request.
+
 ## Working principles
 
 - Simplicity over completeness. A short, accurate page beats a thorough, sprawling one.
