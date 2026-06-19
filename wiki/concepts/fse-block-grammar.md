@@ -49,8 +49,16 @@ Reference for generating valid Gutenberg block markup in seijaku-fse templates a
 ```
 text: string      direction: "left"|"right"    animationDuration: number    link: string
 ```
+The `text` attribute is rendered via `dangerouslySetInnerHTML` — it must contain the full inner HTML of each item, including any separator spans. Use JSON-escaped quotes for HTML attributes inside the value.
 ```html
-<!-- wp:wolf-blocks/marquee {"text":"WolfThemes · ","direction":"left","animationDuration":30} /-->
+<!-- wp:wolf-blocks/marquee {"text":" WolfThemes <span class=\"wolf-blocks-marquee__item-separator\">✦</span> Premium WordPress Themes <span class=\"wolf-blocks-marquee__item-separator\">✦</span> ","direction":"left","animationDuration":30} -->
+<div class="wp-block-wolf-blocks-marquee wolf-blocks-marquee is-dark" style="--wolf-marquee-duration:30s">
+    <div class="wolf-blocks-marquee__track wolf-blocks-marquee__track--left">
+        <span class="wolf-blocks-marquee__item"> WolfThemes <span class="wolf-blocks-marquee__item-separator">✦</span> Premium WordPress Themes <span class="wolf-blocks-marquee__item-separator">✦</span> </span>
+        <!-- × 6 identical spans total -->
+    </div>
+</div>
+<!-- /wp:wolf-blocks/marquee -->
 ```
 
 ### wolf-blocks/stats-counter
@@ -156,5 +164,7 @@ For overlay header (front-page, music-themes):
 
 | Date | Block | Issue | Fix |
 |---|---|---|---|
-| 2026-06-19 | `wolf-blocks/marquee` | "Resolve Block" dialog appears — WordPress offers to convert inner HTML with `wolf-blocks-marquee__item` / `wolf-blocks-marquee__item-separator` spans | Marquee is self-closing. Never put inner HTML between its block tags. All content goes in the `text` attribute: `<!-- wp:wolf-blocks/marquee {"text":"Your text · "} /-->` |
-| 2026-06-19 | PHP patterns (e.g. `seijaku-fse/testimonials`) | "Block contains unexpected or invalid content" on templates that include PHP patterns outputting raw HTML | PHP patterns must output valid Gutenberg block markup, not raw HTML. Every element must be wrapped in a registered block comment (`<!-- wp:html -->` for raw HTML fallback, or ideally a proper block). Raw HTML outside block comments is unparseable by the editor. |
+| 2026-06-19 | `wolf-blocks/marquee` | "Resolve Block" — pattern `text` attribute was plain text (e.g. `"WolfThemes · "`) but static HTML had `<span class="wolf-blocks-marquee__item-separator">✦</span>` elements inside each item. `save()` uses `dangerouslySetInnerHTML={{ __html: text }}`, so the attribute value must exactly match the inner HTML of each item span. | Put the full HTML — including separator spans — directly in the `text` attribute value, with JSON-escaped quotes: `{"text":" WolfThemes <span class=\"wolf-blocks-marquee__item-separator\">✦</span> Premium WordPress Themes <span class=\"wolf-blocks-marquee__item-separator\">✦</span> "}`. The static HTML must then match this rendered output. |
+| 2026-06-19 | `wolf-blocks/testimonial-card` | "Resolve Block" — star spans in pattern static HTML used `★` (HTML entity) but `save()` JSX outputs the literal Unicode character `★`. WP block validator does exact string comparison, so entity ≠ literal char. | Always use the literal Unicode character `★` (U+2605) in static HTML, never the HTML entity `★`. The same principle applies to any character rendered from JSX — JSX renders literals, not entities. |
+| 2026-06-19 | `wp:group` with `style.spacing.padding` | "Block contains unexpected or invalid content" — group block comment had `"style":{"spacing":{"padding":{...}}}` but the static `<section>` / `<div>` tag was missing the corresponding inline `style` attribute. WP validates static HTML against `save()` output, which inlines the spacing as a `style` attribute. | Always include the inline style on the wrapper element: `<section ... style="padding-top:var(--wp--preset--spacing--11);padding-bottom:var(--wp--preset--spacing--11)">`. The token path `var:preset|spacing|11` serializes to `var(--wp--preset--spacing--11)`. |
+| 2026-06-19 | `wp:cover` with `dimRatio` | "Resolve Block" — `dimRatio:55` in block attributes but static HTML had `has-background-dim-50` on the background span. `dimRatioToClass(ratio)` rounds to nearest 10: `55 → 60`, `45 → 50`. `dimRatio:50` returns `null` (no numbered class, only `has-background-dim`). | Match the span class to what `dimRatioToClass` produces: use multiples of 10 for `dimRatio`, and set the class accordingly (`has-background-dim-60` for `dimRatio:60`). Avoid non-round values like 55. |
