@@ -2,7 +2,7 @@
 
 > **Constantin Saguin** — Senior WordPress engineer. Founder of WolfThemes.  
 > 14 years · 40+ themes/plugins · 36,000+ customers · $2M+ ThemeForest sales.  
-> Based in Alsace, France. Available remote.
+> Based in Alsace, France.
 
 ---
 
