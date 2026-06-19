@@ -42,6 +42,12 @@ When something is genuinely temporary or task-level, leave it out of the wiki en
 
 Default to small, in-place edits. If a change would touch many pages or alter the categories above, describe the change and wait for a go-ahead first.
 
+## Automatic rules
+
+**seijaku-fse template/pattern generation:** Whenever asked to create or modify a template, template part, or pattern in seijaku-fse — automatically load the context from `~/.claude/commands/seijaku-fse-template.md` before generating anything. Do not wait to be asked. This applies any time the request involves `templates/`, `parts/`, or `patterns/` in the seijaku-fse repo.
+
+**After fixing a block grammar error:** Once a fix is confirmed working, automatically run `/learnt` to log the fix into `wiki/concepts/fse-block-grammar.md` and commit it. Do not wait to be asked.
+
 ## Development standards
 
 Every technical solution must follow **WordPress coding standards**, use **modern best practices**, be **robust and maintainable**, and stay **well-aligned with official WordPress documentation**. These standards apply to all tasks by default — they do not need to be restated per request.
