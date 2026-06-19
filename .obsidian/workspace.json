@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c49d246791b5b02",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "06d8414c3a706398",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -191,8 +191,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "06d8414c3a706398",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "raw/constantin.saguin.com/README.md",
     "raw/index.md",
     "wiki/concepts/fse-stack-architecture.md",
@@ -213,7 +214,6 @@
     "raw/themeforest-portfolio/theme-positioning.md",
     "raw/themeforest-portfolio/theme-taxonomie chat.md",
     "wiki/products/themeforest-portfolio/themeforest-portfolio.md",
-    "Home.md",
     "wiki/concepts/toolchain.md",
     "wiki/concepts/dev-environment.md",
     "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md",
