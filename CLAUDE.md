@@ -46,6 +46,15 @@ Default to small, in-place edits. If a change would touch many pages or alter th
 
 Every technical solution must follow **WordPress coding standards**, use **modern best practices**, be **robust and maintainable**, and stay **well-aligned with official WordPress documentation**. These standards apply to all tasks by default — they do not need to be restated per request.
 
+## Task capture & reminders
+
+Two files at the vault root sit outside the wiki schema above — they're ephemeral, not durable knowledge:
+
+- `TASKS.md` — the active to-do list (Active / Waiting On / Someday / Done).
+- `Inbox.md` — raw scratch pad for voice-dictated or quickly jotted notes, cleared after triage.
+
+A daily scheduled task triages `Inbox.md`. For each line: a task or commitment with no specific date/time goes into `TASKS.md` under Active; a note naming a specific date/time becomes its own one-off scheduled reminder instead (not a TASKS.md entry); anything that's actually a decision, architecture note, or other durable knowledge gets filed into the appropriate `wiki/` page per the schema above. Processed lines are removed from `Inbox.md`.
+
 ## Working principles
 
 - Simplicity over completeness. A short, accurate page beats a thorough, sprawling one.

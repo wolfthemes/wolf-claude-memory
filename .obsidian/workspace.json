@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STATUS.md",
+                "file": "TASKS.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STATUS"
+              "title": "TASKS"
             }
           }
         ]
@@ -195,8 +195,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1e0e7a320f92fc18",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Inbox.md",
+    "STATUS.md",
+    "TASKS.md.tmp.41368.9dd7e7a59d01",
+    "TASKS.md",
+    "Inbox.md.tmp.48352.1ce4559445dd",
+    "CLAUDE.md.tmp.58977.0edc67103c0a",
     "wiki/products/wolf-blocks/wolf-blocks.md.tmp.58977.b10b90e0a551",
     "STATUS.md.tmp.58977.ae2e402403ca",
     "wiki/products/seijaku-fse/seijaku-fse.md.tmp.58977.906aaf377bc3",
@@ -208,14 +214,9 @@
     "wiki/products/themeforest-portfolio/themeforest-portfolio.md",
     "Home.md",
     "wiki/concepts/fse-stack-architecture.md.tmp.58977.48fd5ff9ba96",
-    "wiki/concepts/concepts.md.tmp.58977.3593f65bd12a",
     "raw/index.md",
-    "raw/index.md.tmp.58977.90f0bbe09468",
     "wiki/concepts/toolchain.md",
-    "wiki/concepts/toolchain.md.tmp.58977.f85d972a393b",
     "wiki/concepts/dev-environment.md",
-    "wiki/concepts/dev-environment.md.tmp.58977.2e8fab43b51e",
-    "STATUS.md",
     "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md",
     "wiki/products/wolfthemes-wiki/wolfthemes-wiki.md",
     "wiki/products/wolf-visual-composer/wolf-visual-composer.md",
@@ -231,8 +232,6 @@
     "wiki/concepts/concepts.md",
     "wiki/products/ai-crew/README.md",
     "wiki/products/themeforest-portfolio/README.md",
-    "CLAUDE.md",
-    "wiki/products/wolf-store/README.md",
     "raw/constantin.saguin.com/Screenshot 2026-06-18 170352.png"
   ]
 }
