@@ -73,6 +73,12 @@ GitHub Actions (`.github/workflows/deploy.yml`) on push to `master` or `stage`:
 - `wolf-store` — themes marketplace plugin, provides the `wolf-store/theme-index` block
 - `wolf-blocks` (planned) — stats counter, testimonials, pricing table
 
+## Template and pattern authoring rule
+
+> **Strip to the absolute minimum.** No custom inline styles, no extra custom classes, no pre-set custom settings. Design relies entirely on default block styles or `theme.json` variables. Maximum simplicity.
+
+Applies to everything in `templates/`, `parts/`, and `patterns/`. If a visual value can be expressed via a token, it must be — never as an inline `style` attribute. See [[wiki/concepts/fse-stack-architecture|FSE Stack Architecture]] for the broader constraint.
+
 ## FSE gotcha
 
 After editing any `templates/` or `parts/` file, go to **Appearance → Editor → Templates → Clear customizations** to force WordPress to reload the file version (FSE caches templates in the DB).

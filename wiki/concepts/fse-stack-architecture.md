@@ -40,6 +40,12 @@ Each is an **independent Git repo** with its own remote and branch. `wolf-store`
 - `theme.json` is strict JSON — no comments
 - Plugins consume CSS custom properties from the theme, never define raw values
 
+## Template and pattern authoring rule
+
+> **Strip to the absolute minimum.** No custom inline styles, no extra custom classes, no pre-set custom settings. Design relies entirely on default block styles or `theme.json` variables. Maximum simplicity.
+
+Any markup beyond what the block requires to render correctly is a violation. If a style can be expressed via a `theme.json` token, it must be — not as an inline `style` attribute on the block.
+
 ## Legacy stack (separate)
 
 The legacy ThemeForest portfolio (40+ themes) runs on Elementor + [[wiki/products/wolf-core/wolf-core|wolf-core]] + [[wiki/products/wolf-visual-composer/wolf-visual-composer|wolf-visual-composer]]. These are maintained but not the direction for new development. Keep the two stacks completely separate.
