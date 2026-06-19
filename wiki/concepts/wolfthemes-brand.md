@@ -31,8 +31,8 @@ The experience must stay clean, modern, and easy to use. Handcrafted accents sho
 
 ## wolfthemes.com redesign (seijaku-fse)
 
-Current implementation target for these principles: [[seijaku-fse]].
+Current implementation target for these principles: [[wiki/products/seijaku-fse/seijaku-fse|seijaku-fse]].
 
 Design language for the site itself: light skin, editorial, big negative space, electric-blue accent (`#0c10ff`) used sparingly. Reference energy: Linear.app, Stripe, Rauno.me. Fonts: Lexend (headings) + Rethink Sans (body).
 
-Note: this site-level aesthetic (light, minimal, blue accent) is separate from the terminal/dark aesthetic used on [[constantin.saguin.com]], which is a personal portfolio.
+Note: this site-level aesthetic (light, minimal, blue accent) is separate from the terminal/dark aesthetic used on [[wiki/products/constantin.saguin.com/constantin.saguin.com|constantin.saguin.com]], which is a personal portfolio.

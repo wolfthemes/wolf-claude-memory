@@ -7,7 +7,7 @@ Minimal FSE (Full Site Editing) WordPress boilerplate theme. Zero default stylin
 
 ## Purpose
 
-Provide a valid, activatable WordPress block theme that strips all WP default styling and exposes design tokens as named placeholders. Child themes (e.g. [[seijaku-fse]]) fill the tokens — they never edit this file.
+Provide a valid, activatable WordPress block theme that strips all WP default styling and exposes design tokens as named placeholders. Child themes (e.g. [[wiki/products/seijaku-fse/seijaku-fse|seijaku-fse]]) fill the tokens — they never edit this file.
 
 **Requirements:** WordPress 6.5+, PHP 8.0+.
 
@@ -33,7 +33,7 @@ All visual values live in `theme.json`. Nothing is hardcoded.
 
 **Spacing** — `settings.spacing.spacingSizes` scale 1–10, base-4 rem.
 
-**Wolf contract vars** — `settings.custom.wolf` in `theme.json` emits `--wp--custom--wolf--*` which `global.css` section 6 aliases to `--wolf-border-color`, `--wolf-radius-md`, `--wolf-btn-radius`, `--wolf-shadow-card`, `--wolf-dur-slow`, `--wolf-ease-out`. These are the tokens plugins (wolf-store, wolf-blocks) expect from any active theme. See [[theme-plugin-css-contract]].
+**Wolf contract vars** — `settings.custom.wolf` in `theme.json` emits `--wp--custom--wolf--*` which `global.css` section 6 aliases to `--wolf-border-color`, `--wolf-radius-md`, `--wolf-btn-radius`, `--wolf-shadow-card`, `--wolf-dur-slow`, `--wolf-ease-out`. These are the tokens plugins (wolf-store, wolf-blocks) expect from any active theme. See [[wiki/concepts/theme-plugin-css-contract|Theme–Plugin CSS Contract]].
 
 ## How child themes extend this
 

@@ -1,6 +1,6 @@
 # seijaku-fse
 
-FSE child theme of [[wolf-blank]]. Redesigns wolfthemes.com — the WolfThemes storefront. Replaces the old Seijaku + Elementor site with a pure block theme.
+FSE child theme of [[wiki/products/wolf-blank/wolf-blank|wolf-blank]]. Redesigns wolfthemes.com — the WolfThemes storefront. Replaces the old Seijaku + Elementor site with a pure block theme.
 
 **GitHub:** https://github.com/wolfthemes/seijaku-fse  
 **Dev environment:** `wolf-store-docker` at `themes/seijaku-fse` (http://localhost:8080)  
@@ -14,7 +14,7 @@ Light, editorial, minimal. Big negative space, bold typography, one strong elect
 - **Accent:** `#0c10ff` (electric blue) — primary and accent slots
 - **Not:** corporate, decorative, template-looking
 
-Full branding rationale: [[wolfthemes-brand]].
+Full branding rationale: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]].
 
 ## Token values (finalized)
 
@@ -54,7 +54,7 @@ Typography adds a `display` size (hero) above `3xl`. Spacing adds `11`/`12` clam
 
 27+ registered section patterns consumed by templates. Categories: hero, about, services, contact, social proof (stats/testimonials/why-wolfthemes/audience), global (CTA, marquee, sale-marquee, latest-themes), brand (logo marks).
 
-Stats, testimonials, and pricing are currently **static PHP patterns** and will be superseded by [[wolf-blocks]] when that plugin ships.
+Stats, testimonials, and pricing are currently **static PHP patterns** and will be superseded by [[wiki/products/wolf-blocks/wolf-blocks|wolf-blocks]] when that plugin ships.
 
 ## Build system
 
@@ -79,4 +79,4 @@ After editing any `templates/` or `parts/` file, go to **Appearance → Editor �
 
 ## CSS contract
 
-This theme defines all `--wolf-*` tokens via `theme.json → settings.custom.wolf`, which wolf-blank's `global.css` aliases for plugins to consume. See [[theme-plugin-css-contract]].
+This theme defines all `--wolf-*` tokens via `theme.json → settings.custom.wolf`, which wolf-blank's `global.css` aliases for plugins to consume. See [[wiki/concepts/theme-plugin-css-contract|Theme–Plugin CSS Contract]].

@@ -15,7 +15,7 @@ wolf-blank (FSE base theme)
 
 **seijaku-fse** fills the tokens for wolfthemes.com. It never modifies wolf-blank files; it overrides via child `theme.json` and adds its own templates/parts.
 
-**wolf-store** and **wolf-blocks** are plugins that consume tokens from the active theme. They never hardcode visual values. See [[theme-plugin-css-contract]].
+**wolf-store** and **wolf-blocks** are plugins that consume tokens from the active theme. They never hardcode visual values. See [[wiki/concepts/theme-plugin-css-contract|Theme–Plugin CSS Contract]].
 
 ## Dev environment
 
@@ -42,4 +42,4 @@ Each is an **independent Git repo** with its own remote and branch. `wolf-store`
 
 ## Legacy stack (separate)
 
-The legacy ThemeForest portfolio (40+ themes) runs on Elementor + [[wolf-core]] + [[wolf-visual-composer]]. These are maintained but not the direction for new development. Keep the two stacks completely separate.
+The legacy ThemeForest portfolio (40+ themes) runs on Elementor + [[wiki/products/wolf-core/wolf-core|wolf-core]] + [[wiki/products/wolf-visual-composer/wolf-visual-composer|wolf-visual-composer]]. These are maintained but not the direction for new development. Keep the two stacks completely separate.

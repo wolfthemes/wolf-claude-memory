@@ -7,9 +7,9 @@ Reusable Gutenberg blocks for WolfThemes projects. All visual tokens consumed fr
 
 ## Purpose
 
-Provide data-driven / repeatable UI sections (stats, testimonials, pricing) that don't belong in any single theme. [[seijaku-fse]] uses these for the front page sections that can't be built with core blocks alone.
+Provide data-driven / repeatable UI sections (stats, testimonials, pricing) that don't belong in any single theme. [[wiki/products/seijaku-fse/seijaku-fse|seijaku-fse]] uses these for the front page sections that can't be built with core blocks alone.
 
-**Requirements:** WordPress 6.0+, PHP 7.4+, Node 18+. Active theme must define `--wolf-*` CSS custom properties. See [[theme-plugin-css-contract]].
+**Requirements:** WordPress 6.0+, PHP 7.4+, Node 18+. Active theme must define `--wolf-*` CSS custom properties. See [[wiki/concepts/theme-plugin-css-contract|Theme–Plugin CSS Contract]].
 
 ## Blocks
 
@@ -26,7 +26,7 @@ Provide data-driven / repeatable UI sections (stats, testimonials, pricing) that
 
 ## Architecture
 
-Same CSS boundary rule as wolf-store: blocks consume `--wolf-*` and `--wp--preset--*` tokens from the theme, never hardcode colors or spacing. See [[theme-plugin-css-contract]].
+Same CSS boundary rule as wolf-store: blocks consume `--wolf-*` and `--wp--preset--*` tokens from the theme, never hardcode colors or spacing. See [[wiki/concepts/theme-plugin-css-contract|Theme–Plugin CSS Contract]].
 
 ## Toolchain versions (pinned — do not casually upgrade)
 

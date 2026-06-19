@@ -81,4 +81,4 @@ src/styles/
 
 ## CSS boundary
 
-Wolf Store never hardcodes colors, fonts, or spacing scale values. All visual tokens come from the active theme. See [[theme-plugin-css-contract]] for the full contract.
+Wolf Store never hardcodes colors, fonts, or spacing scale values. All visual tokens come from the active theme. See [[wiki/concepts/theme-plugin-css-contract|Theme–Plugin CSS Contract]] for the full contract.

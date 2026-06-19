@@ -8,9 +8,9 @@
 
 A full site rebuild, not a reskin. The new site is:
 - Pure block theme — no Elementor, no page builders
-- Built on [[wolf-blank]] (FSE base theme) + [[seijaku-fse]] (child theme)
-- Powered by [[wolf-store]] (theme marketplace plugin) for the themes grid
-- Pending [[wolf-blocks]] for data-driven sections (stats counter, testimonials, pricing)
+- Built on [[wiki/products/wolf-blank/wolf-blank|wolf-blank]] (FSE base theme) + [[wiki/products/seijaku-fse/seijaku-fse|seijaku-fse]] (child theme)
+- Powered by [[wiki/products/wolf-store/wolf-store|wolf-store]] (theme marketplace plugin) for the themes grid
+- Pending [[wiki/products/wolf-blocks/wolf-blocks|wolf-blocks]] for data-driven sections (stats counter, testimonials, pricing)
 
 ## Design direction
 
@@ -18,7 +18,7 @@ See [Design Direction.md](Design Direction.md) for the full brand rationale.
 
 Summary: light, editorial, minimal. Big negative space, bold typography (Lexend + Rethink Sans), one electric-blue accent (`#0c10ff`). Reference energy: Linear.app, Stripe, Rauno.me.
 
-See also: [[wolfthemes-brand]] (positioning) and [[fse-stack-architecture]] (technical structure).
+See also: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]] (positioning) and [[wiki/concepts/fse-stack-architecture|FSE Stack Architecture]] (technical structure).
 
 ## Progress
 
