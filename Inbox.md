@@ -24,6 +24,7 @@ One line per item. No formatting needed.
 
  - ref: https://21st.dev/community/components
  - ref: https://showit.com/ (CRO ref — wolfthemes redesign)
+ - ref: https://www.facebook.com/share/p/1ffJh8KCne/ (CRO ref — wolfthemes redesign)
  - ref: https://neuform.ai (AI landing page generator — 400+ design systems, export HTML/DESIGN.md, remixable)
  - ref: https://aura.build (AI landing page builder — export HTML & Figma, 177k+ users)
  - ref: https://lovable.dev (AI full-stack app builder — prompt → code + design + infra)
