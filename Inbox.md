@@ -15,6 +15,7 @@ TODO:
  - fix: wolf-store: lateral padding in single theme page on smaller screen (below wrapper widfht) need to match with WP width contrain system
  - feaqt: wolf-store theme card style refinement
  - todo: social posts along with the newsletter on Tuesday
+ - todo: check the site "stich"
 
  - ref: https://21st.dev/community/components
  - ref: https://showit.com/ (CRO ref — wolfthemes redesign)
