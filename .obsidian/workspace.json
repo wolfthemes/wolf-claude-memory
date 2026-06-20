@@ -191,8 +191,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c2311faff25eab4d",
   "lastOpenFiles": [
+    "commands/wp-cache-flush.md",
+    "commands/seijaku-fse-template.md",
+    "commands/push-and-watch.md",
+    "commands/learn.md",
+    "commands/format-and-lint.md",
+    "commands/digest.md",
+    "commands/commit-and-push.md",
+    "commands",
     "Home.md",
     "raw/constantin.saguin.com/README.md",
     "raw/index.md",
@@ -210,7 +218,6 @@
     "Home.md.tmp.58977.856d205fb720",
     "TASKS.md.tmp.58977.d2381434318c",
     "STATUS.md.tmp.58977.c9e046504eef",
-    "wiki/products/wolf-store/wolf-store.md.tmp.58977.d0f782bcff60",
     "raw/themeforest-portfolio/theme-positioning.md",
     "raw/themeforest-portfolio/theme-taxonomie chat.md",
     "wiki/products/themeforest-portfolio/themeforest-portfolio.md",
@@ -222,13 +229,6 @@
     "wiki/products/wolf-store/wolf-store.md",
     "wiki/products/wolf-core/wolf-core.md",
     "wiki/products/wolf-blocks/wolf-blocks.md",
-    "wiki/products/wolf-blank/wolf-blank.md",
-    "wiki/products/seijaku-fse/seijaku-fse.md",
-    "wiki/products/constantin.saguin.com/constantin.saguin.com.md",
-    "wiki/products/ai-crew/ai-crew.md",
-    "wiki/projects/projects.md",
-    "wiki/products/products.md",
-    "wiki/concepts/concepts.md",
     "raw/constantin.saguin.com/Screenshot 2026-06-18 170352.png"
   ]
 }
