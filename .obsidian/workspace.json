@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
             }
           }
         ]
@@ -191,8 +195,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2311faff25eab4d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "STATUS.md",
+    "Inbox.md",
+    "TASKS.md",
     "commands/wp-cache-flush.md",
     "commands/seijaku-fse-template.md",
     "commands/push-and-watch.md",
@@ -205,16 +212,13 @@
     "raw/constantin.saguin.com/README.md",
     "raw/index.md",
     "wiki/concepts/fse-stack-architecture.md",
-    "STATUS.md",
     "wiki/concepts/fse-block-grammar.md.tmp.102099.afc6206b5a72",
-    "TASKS.md",
     "wiki/concepts/concepts.md.tmp.58977.394b89341c7f",
     "wiki/concepts/fse-block-grammar.md.tmp.58977.149f2d20c96f",
     "CLAUDE.md.tmp.58977.b5f8413639ae",
     "wiki/products/seijaku-fse/seijaku-fse.md.tmp.58977.1168cd23b8a0",
     "wiki/concepts/fse-block-grammar.md",
     "wiki/concepts/fse-block-grammar.md.tmp.58977.95b65fe3d778",
-    "Inbox.md",
     "Home.md.tmp.58977.856d205fb720",
     "TASKS.md.tmp.58977.d2381434318c",
     "STATUS.md.tmp.58977.c9e046504eef",

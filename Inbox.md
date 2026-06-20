@@ -4,4 +4,15 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 
 One line per item. No formatting needed.
 
+TODO:
+ - fix: seijaku-fse hero collage thumbns jump down after anmation is finished
+ - fix: wolf store taxonomy pages empty
+ - feat: add more icons to wolf blocks  feature grid item
+ - feat: seijaku-fse button size helper?
+ - feat:: seijaku-fse details/toggle WP block styling (icon and slide down/up animation)
+ - feat: seijaku-fse form styling (contact form and mailchimp form)
+ - feat: seijeku-fse paragraph maxwidht (deaftul WP class available?)
+ - fix: wolf-store: lateral padding in single theme page on smaller screen (below wrapper widfht) need to match with WP width contrain system
+ - feaqt: wolf-store theme card style refinement
+
 ---
