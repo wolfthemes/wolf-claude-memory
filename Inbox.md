@@ -16,6 +16,7 @@ TODO:
  - feaqt: wolf-store theme card style refinement
 
  - ref: https://21st.dev/community/components
+ - ref: https://showit.com/ (CRO ref — wolfthemes redesign)
  - feat: wolf-blocks/stats-counter — ajouter un champ subtitle/detail affiché sous le chiffre, pour contextualiser chaque stat (ex: sous "36 000+" → "clients ThemeForest")
 
 ---
