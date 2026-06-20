@@ -1,4 +1,4 @@
-# ~/.claude/commands/learnt.md
+# ~/.claude/commands/learn-fse.md
 
 Store a discovered block grammar fix into the KB so it is available in every future session.
 
@@ -7,7 +7,7 @@ Store a discovered block grammar fix into the KB so it is available in every fut
 **Automatically** — Claude runs this after confirming a template/pattern fix works in
 the block editor. No action needed from you.
 
-**Manually** — You run `/learnt` and provide one of:
+**Manually** — You run `/learn-fse` and provide one of:
 - A screenshot of the WordPress "Resolve Block" dialog (before/after markup)
 - A paste of the before/after markup
 - A plain description: "wolf-blocks/X was broken because Y, fixed by Z"
@@ -35,7 +35,7 @@ File: `wiki/concepts/fse-block-grammar.md` in wolf-claude-memory vault
 ### 3. Commit
 ```
 git add wiki/concepts/fse-block-grammar.md
-git commit -m "learnt: <block-name> — <one-line fix description>"
+git commit -m "learn-fse: <block-name> — <one-line fix description>"
 git push origin master
 ```
 
