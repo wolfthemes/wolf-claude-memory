@@ -19,6 +19,11 @@ TODO:
 
  - ref: https://21st.dev/community/components
  - ref: https://showit.com/ (CRO ref — wolfthemes redesign)
+ - ref: https://neuform.ai (AI landing page generator — 400+ design systems, export HTML/DESIGN.md, remixable)
+ - ref: https://aura.build (AI landing page builder — export HTML & Figma, 177k+ users)
+ - ref: https://lovable.dev (AI full-stack app builder — prompt → code + design + infra)
+ - ref: https://base44.com (vibe coding platform — full apps with backend from a prompt, no code)
+ - ref: https://stitch.withgoogle.com (Google Labs — prompt/sketch → UI, export Figma/HTML/Tailwind/Vue/Angular/Flutter/SwiftUI)
  - feat: wolf-blocks/stats-counter — ajouter un champ subtitle/detail affiché sous le chiffre, pour contextualiser chaque stat (ex: sous "36 000+" → "clients ThemeForest")
 
 ---
