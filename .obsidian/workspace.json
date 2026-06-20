@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Inbox.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -197,8 +197,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "STATUS.md",
+    "Home.md",
     "Inbox.md",
+    "Inbox.md.tmp.43684.4ecbf85503a5",
+    "Inbox.md.tmp.43684.415b2c07e402",
+    "commands/learn-fse.md",
+    "STATUS.md",
     "TASKS.md",
     "commands/wp-cache-flush.md",
     "commands/seijaku-fse-template.md",
@@ -208,7 +212,6 @@
     "commands/digest.md",
     "commands/commit-and-push.md",
     "commands",
-    "Home.md",
     "raw/constantin.saguin.com/README.md",
     "raw/index.md",
     "wiki/concepts/fse-stack-architecture.md",
@@ -220,8 +223,6 @@
     "wiki/concepts/fse-block-grammar.md",
     "wiki/concepts/fse-block-grammar.md.tmp.58977.95b65fe3d778",
     "Home.md.tmp.58977.856d205fb720",
-    "TASKS.md.tmp.58977.d2381434318c",
-    "STATUS.md.tmp.58977.c9e046504eef",
     "raw/themeforest-portfolio/theme-positioning.md",
     "raw/themeforest-portfolio/theme-taxonomie chat.md",
     "wiki/products/themeforest-portfolio/themeforest-portfolio.md",
@@ -231,8 +232,6 @@
     "wiki/products/wolfthemes-wiki/wolfthemes-wiki.md",
     "wiki/products/wolf-visual-composer/wolf-visual-composer.md",
     "wiki/products/wolf-store/wolf-store.md",
-    "wiki/products/wolf-core/wolf-core.md",
-    "wiki/products/wolf-blocks/wolf-blocks.md",
     "raw/constantin.saguin.com/Screenshot 2026-06-18 170352.png"
   ]
 }
