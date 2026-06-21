@@ -195,8 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c2311faff25eab4d",
   "lastOpenFiles": [
+    "Inbox.md.tmp.58848.517715e25859",
+    "TASKS.md.tmp.58848.9355fdeee637",
     "wiki/concepts/concepts.md",
     "wiki/products/ai-crew/ai-crew.md",
     "Inbox.md",
@@ -224,7 +226,6 @@
     "raw/index.md",
     "wiki/concepts/fse-stack-architecture.md",
     "wiki/concepts/fse-block-grammar.md.tmp.102099.afc6206b5a72",
-    "wiki/concepts/concepts.md.tmp.58977.394b89341c7f",
     "wiki/concepts/fse-block-grammar.md",
     "raw/themeforest-portfolio/theme-positioning.md",
     "raw/themeforest-portfolio/theme-taxonomie chat.md",
@@ -233,7 +234,6 @@
     "wiki/concepts/dev-environment.md",
     "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md",
     "wiki/products/wolfthemes-wiki/wolfthemes-wiki.md",
-    "wiki/products/wolf-visual-composer/wolf-visual-composer.md",
     "raw/constantin.saguin.com/Screenshot 2026-06-18 170352.png"
   ]
 }
