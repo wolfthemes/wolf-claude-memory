@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "TASKS.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "TASKS"
             }
           }
         ]
@@ -197,12 +197,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
+    "STATUS.md",
     "Inbox.md",
+    "Home.md",
     "Inbox.md.tmp.43684.4ecbf85503a5",
     "Inbox.md.tmp.43684.415b2c07e402",
     "commands/learn-fse.md",
-    "STATUS.md",
     "TASKS.md",
     "commands/wp-cache-flush.md",
     "commands/seijaku-fse-template.md",
