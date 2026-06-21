@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASKS.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASKS"
+              "title": "Inbox"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "TASKS.md",
     "TASKS.md.tmp.55753.a15acab81d74",
     "TASKS.md.tmp.46619.65ce77673794",
     "raw/index.md.tmp.46619.7875b1199f7e",
@@ -209,7 +210,6 @@
     "Inbox.md.tmp.43684.4ecbf85503a5",
     "Inbox.md.tmp.43684.415b2c07e402",
     "commands/learn-fse.md",
-    "TASKS.md",
     "commands/wp-cache-flush.md",
     "commands/seijaku-fse-template.md",
     "commands/push-and-watch.md",
@@ -223,7 +223,6 @@
     "wiki/concepts/fse-stack-architecture.md",
     "wiki/concepts/fse-block-grammar.md.tmp.102099.afc6206b5a72",
     "wiki/concepts/concepts.md.tmp.58977.394b89341c7f",
-    "wiki/concepts/fse-block-grammar.md.tmp.58977.149f2d20c96f",
     "wiki/concepts/fse-block-grammar.md",
     "raw/themeforest-portfolio/theme-positioning.md",
     "raw/themeforest-portfolio/theme-taxonomie chat.md",

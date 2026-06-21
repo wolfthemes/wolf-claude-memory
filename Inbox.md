@@ -6,4 +6,13 @@ One line per item. No formatting needed.
 
 ## TODO:
 
+Add this to ~/.claude/settings.json (merge with existing content, don't overwrite):
+
+"statusLine": {
+  "type": "command",
+  "command": "echo \"📁 $(git remote get-url origin 2>/dev/null | sed 's/.*[/:]//;s/\\.git$//' || basename \"$PWD\")\""
+}
+
+This shows the git repo name in the status bar (falls back to folder name if no remote).
+
 ---
