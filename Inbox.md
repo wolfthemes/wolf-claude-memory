@@ -6,6 +6,8 @@ One line per item. No formatting needed.
 
 ## TODO:
 
+Fix/check in seijaku-fse details toggle jump/lagg on fadeUp
+
 Add this to ~/.claude/settings.json (merge with existing content, don't overwrite):
 
 "statusLine": {
