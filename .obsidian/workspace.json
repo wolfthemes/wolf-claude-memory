@@ -195,8 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2311faff25eab4d",
+  "active": "1e0e7a320f92fc18",
   "lastOpenFiles": [
+    "Inbox.md.tmp.41072.505ea41ff224",
+    "Inbox.md.tmp.41072.aaa7c242e440",
     "Inbox.md.tmp.58848.517715e25859",
     "TASKS.md.tmp.58848.9355fdeee637",
     "wiki/concepts/concepts.md",
@@ -221,11 +223,9 @@
     "commands/format-and-lint.md",
     "commands/digest.md",
     "commands/commit-and-push.md",
-    "commands",
     "raw/constantin.saguin.com/README.md",
     "raw/index.md",
     "wiki/concepts/fse-stack-architecture.md",
-    "wiki/concepts/fse-block-grammar.md.tmp.102099.afc6206b5a72",
     "wiki/concepts/fse-block-grammar.md",
     "raw/themeforest-portfolio/theme-positioning.md",
     "raw/themeforest-portfolio/theme-taxonomie chat.md",
