@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/wolfthemes-brand.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wolfthemes-brand"
+              "title": "Inbox"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1e0e7a320f92fc18",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wiki/concepts/wolfthemes-brand.md",
     "Inbox.md.tmp.41072.505ea41ff224",
     "Inbox.md.tmp.41072.aaa7c242e440",
     "Inbox.md.tmp.58848.517715e25859",
@@ -214,7 +215,6 @@
     "STATUS.md",
     "Home.md",
     "Inbox.md.tmp.43684.4ecbf85503a5",
-    "Inbox.md.tmp.43684.415b2c07e402",
     "commands/learn-fse.md",
     "commands/wp-cache-flush.md",
     "commands/seijaku-fse-template.md",
