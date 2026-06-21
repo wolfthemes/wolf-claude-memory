@@ -20,3 +20,4 @@ When something from raw/ is distilled into durable knowledge, it goes into `wiki
 | `seijaku-fse/images/legacy images/` | Legacy photo | Stock photography from the old Seijaku + Elementor site |
 | `themeforest-portfolio/theme-positioning.md` | Positioning database | Full market positioning for all 47 ThemeForest themes — value props, target audience, competitive notes, store headlines. Canonical source for all marketing copy. |
 | `themeforest-portfolio/theme-taxonomie chat.md` | Taxonomy optimization chat | Full Claude conversation (June 2026) that produced the category/tag/color/style taxonomy overhaul for all 47 themes |
+| `wolf-store/single-theme-page-container-lateral-padding-issue.png` | Screenshot | Visual showing the lateral padding bug on single theme pages at viewport widths below 1600px — reference for the TASKS.md fix |
