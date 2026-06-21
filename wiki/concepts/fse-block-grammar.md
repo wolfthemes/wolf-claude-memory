@@ -121,6 +121,20 @@ emptyNameMessage: string
 
 ## Valid token slugs (seijaku-fse / wolf-blank)
 
+> **🔑 Convention — always tokenize.** Never hardcode raw `px`/`rem`/hex for spacing,
+> font sizes, colors, radii, or motion. Always reference the theme.json scale:
+> - **Block markup** → preset slugs/vars: `fontSize` attr, `var:preset|spacing|N`
+>   (serializes to `var(--wp--preset--spacing--N)`), `var(--wp--preset--font-size--lg)`,
+>   `var(--wp--preset--color--primary)`.
+> - **SCSS** → the token functions/vars in `src/styles/partials/_tokens.scss`: `fs(slug)`
+>   for font size, `space(n)` for spacing, the `$c-*` color vars, and the `--wolf-*`
+>   custom props (radius, duration, easing, tracking, line-height).
+>
+> Before writing any literal value, check theme.json (`settings.typography.fontSizes`,
+> `settings.spacing.spacingSizes`, `settings.color.palette`, `settings.custom.wolf`) for an
+> existing token. If a needed value doesn't exist, add it to theme.json/`_tokens.scss`
+> rather than inlining a one-off. Keeps the design system the single source of truth.
+
 ### Colors (`textColor`, `backgroundColor`, `overlayColor`)
 `primary` · `primary-light` · `secondary` · `accent` · `base` · `base-2` · `contrast` · `contrast-2`
 
