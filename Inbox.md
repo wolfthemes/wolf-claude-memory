@@ -8,13 +8,8 @@ One line per item. No formatting needed.
 
 Fix/check in seijaku-fse details toggle jump/lagg on fadeUp
 
-Add this to ~/.claude/settings.json (merge with existing content, don't overwrite):
+mobile menu design
 
-"statusLine": {
-  "type": "command",
-  "command": "echo \"📁 $(git remote get-url origin 2>/dev/null | sed 's/.*[/:]//;s/\\.git$//' || basename \"$PWD\")\""
-}
-
-This shows the git repo name in the status bar (falls back to folder name if no remote).
+Feature: flag some themes as Awwwards nominees (undecided: extra theme meta vs. a taxonomy) and show an "Awwwards nominee" ribbon on those themes. ~3 themes qualify.
 
 ---

@@ -10,6 +10,12 @@ Customers aren't buying a template. They're getting access to the experience of 
 
 **Desired perception:** Professional. Human. Experienced. Independent. Creative. Trustworthy. Craft-driven.
 
+## Credibility signals
+
+**Awwwards nominees.** Five WolfThemes designs have been nominated at Awwwards: **Prequelle, Phase, Tune, Zample, Loud**. Independent recognition of design quality and a strong trust signal.
+
+**CRO use:** third-party validation like this is conversion-relevant — surface it where buyers decide. A ribbon/badge on the nominated themes (and an aggregate "Awwwards-nominated designs" claim site-wide) reinforces the craft-driven positioning at the point of purchase. Tracked per-theme on [[wiki/products/themeforest-portfolio/themeforest-portfolio|ThemeForest Portfolio]]; the ribbon implementation is queued in `Inbox.md`.
+
 ## Visual direction
 
 **Craft-inspired, professionally executed.** The aesthetic combines:

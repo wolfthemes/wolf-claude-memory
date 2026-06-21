@@ -17,6 +17,12 @@
 
 ---
 
+## Awwwards nominees
+
+Five designs nominated at Awwwards — independent design recognition, a brand-level credibility signal (see [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]]): **Prequelle, Phase, Tune, Zample, Loud**.
+
+---
+
 ## Music (22 themes)
 
 ### All-purpose / Feature-complete
