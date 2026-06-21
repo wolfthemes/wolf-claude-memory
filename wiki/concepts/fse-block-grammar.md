@@ -125,7 +125,14 @@ emptyNameMessage: string
 `primary` · `primary-light` · `secondary` · `accent` · `base` · `base-2` · `contrast` · `contrast-2`
 
 ### Font sizes (`fontSize`)
-`xs` · `sm` · `md` · `lg` · `xl` · `2xl` · `3xl` · `display`
+`xxs` · `xs` · `sm` · `base` · `md` · `lg` · `xl` · `2-xl` · `3-xl` · `display` · `hero`
+
+⚠️ The large slugs are **hyphenated** — `2-xl` / `3-xl`, NOT `2xl` / `3xl`. WordPress
+serializes the utility class verbatim as `has-{slug}-font-size`, so the slug must match
+across all four places: `theme.json` slug, the block `fontSize` attribute, the
+`has-…-font-size` class in static markup, and the SCSS `fs('2-xl')` token
+(`var(--wp--preset--font-size--2-xl)`). Heading scale (Major Third ×1.25): h1=`3-xl`,
+h2=`2-xl`, h3=`xl`, h4=`lg`, h5=`md`, h6=`base`; `display`=inner-page hero, `hero`=cover.
 
 ### Spacing (`style.spacing.padding/margin` use scale slugs)
 `1` through `12` (e.g. `{"top":"var:preset|spacing|8"}`)
@@ -169,3 +176,4 @@ For overlay header (front-page, music-themes):
 | 2026-06-19 | `wp:group` with `style.spacing.padding` | "Block contains unexpected or invalid content" — group block comment had `"style":{"spacing":{"padding":{...}}}` but the static `<section>` / `<div>` tag was missing the corresponding inline `style` attribute. WP validates static HTML against `save()` output, which inlines the spacing as a `style` attribute. | Always include the inline style on the wrapper element: `<section ... style="padding-top:var(--wp--preset--spacing--11);padding-bottom:var(--wp--preset--spacing--11)">`. The token path `var:preset|spacing|11` serializes to `var(--wp--preset--spacing--11)`. |
 | 2026-06-21 | PHP pattern file (any block) | BOM (`\xEF\xBB\xBF`) prepended before `<?php` caused PHP to emit raw bytes before any HTML output. In FSE this broke block parsing entirely — the Site Editor showed a "Resolve Block" / blank-page error and the frontend had a visible gap at the top of the page. | Pattern `.php` files must be saved as **UTF-8 without BOM**. The BOM is invisible in most editors. Symptom: `git diff` shows `﻿<?php` (BOM before `<?php`). Fix: remove the BOM — in most editors "Save as UTF-8 without BOM"; in code, `Edit` the file replacing `﻿<?php` with `<?php`. |
 | 2026-06-19 | `wp:cover` with `dimRatio` | "Resolve Block" — `dimRatio:55` in block attributes but static HTML had `has-background-dim-50` on the background span. `dimRatioToClass(ratio)` rounds to nearest 10: `55 → 60`, `45 → 50`. `dimRatio:50` returns `null` (no numbered class, only `has-background-dim`). | Match the span class to what `dimRatioToClass` produces: use multiples of 10 for `dimRatio`, and set the class accordingly (`has-background-dim-60` for `dimRatio:60`). Avoid non-round values like 55. |
+| 2026-06-21 | `wp:heading` / `wp:post-title` (`fontSize`) | Font-size preset slugs in `theme.json` were `2xl`/`3xl`, but patterns carried class `has-2-xl-font-size` and SCSS used `fs('2-xl')`. WP derives the class and CSS var straight from the slug (`has-{slug}-font-size`, `--wp--preset--font-size--{slug}`), so a `2xl` slug emits `--2xl` while the markup/SCSS referenced `--2-xl` — the var was undefined and the heading silently fell back to an unstyled size. The mismatch was invisible (no "Resolve Block" error) because the `fontSize` attr `2xl` still validated against the preset; only the rendered size was wrong. | Use **hyphenated** slugs `2-xl`/`3-xl` and keep them identical in all four places: `theme.json` slug, block `fontSize` attr, `has-…-font-size` class, and SCSS `fs()` token. Renamed `2xl→2-xl`, `3xl→3-xl` in theme.json, `services-intro.php`, `page.html`, `_about.scss`; rebuilt `main.css`. Numeric-leading slugs are fine — WP keeps them verbatim. |
