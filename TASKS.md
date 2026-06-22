@@ -29,9 +29,10 @@
 
 ## Waiting On
 
+- [ ] NNC trader bot — testing passed - need testing on live account
+
 ## Someday
 
-- [ ] NNC trader bot — testing pass
 - [ ] Buffer social posting script (Python, source: themeforest positioning DB)
 
 ## Done

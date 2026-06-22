@@ -9,6 +9,9 @@ NNC trader bot tested in demo mode and is functional. Next add security to avoid
 ## Create a doc/reminder For nvim
  -  Spectre:  *leader* sr the  *leader*  R
 
+## TODOS
+  - [ ] staging: set _Available Post Types_ taxonomy for each themes
+
 ### AI Agent idea
 
 - [ ] Market report
