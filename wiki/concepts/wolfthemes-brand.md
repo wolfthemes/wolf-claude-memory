@@ -18,13 +18,16 @@ Customers aren't buying a template. They're getting access to the experience of 
 
 ## Visual direction
 
-**Craft-inspired, professionally executed.** The aesthetic combines:
+**Clean editorial with artisan human touch.** The direction sharpened (June 2026) from a Linear/Stripe-inspired minimal aesthetic toward something warmer — still clean and editorial, but with deliberate traces of craft.
 
-- Clean structure and editorial layouts
-- Strong typography with generous whitespace
-- Subtle handcrafted elements (brush strokes, doodles, organic imperfections, restrained textures) used intentionally — never decorative for its own sake
+Core combination:
+- Clean editorial layouts, generous whitespace, restrained palette
+- Strong, considered typography
+- Small handcrafted accents that signal one person made this — the brushstroke logo is the clearest example: wordmark rendered in an organic brushstroke, not a geometric sans
 
-The experience must stay clean, modern, and easy to use. Handcrafted accents should feel purposeful, not ornamental.
+The handcrafted elements should feel like a signature, not decoration. One or two per surface, never stacked. The overall impression is still professional and easy to use — the "artisan" reads as authenticity, not rusticity.
+
+**Primary reference:** the WolfThemes brushstroke logo — the north star for how craft and editorial coexist in the brand.
 
 ## Avoid
 
@@ -39,6 +42,6 @@ The experience must stay clean, modern, and easy to use. Handcrafted accents sho
 
 Current implementation target for these principles: [[wiki/products/seijaku-fse/seijaku-fse|seijaku-fse]].
 
-Design language for the site itself: light skin, editorial, big negative space, electric-blue accent (`#0c10ff`) used sparingly. Reference energy: Linear.app, Stripe, Rauno.me. Fonts: Lexend (headings) + Rethink Sans (body).
+Design language for the site itself: light skin, editorial, big negative space. Black and white palette — CTAs and UI elements are pure black/white. Gold `#D3A043` is the sole accent, used very punctually. Reference energy: Linear.app, Stripe, Rauno.me. Fonts: Urbanist (headings) + Rethink Sans (body).
 
 Note: this site-level aesthetic (light, minimal, blue accent) is separate from the terminal/dark aesthetic used on [[wiki/products/constantin.saguin.com/constantin.saguin.com|constantin.saguin.com]], which is a personal portfolio.
