@@ -45,7 +45,7 @@
 ## Someday
 
 - [ ] Buffer social posting script (Python, source: themeforest positioning DB)
-- [ ] nvim: Spectre keybindings — `<leader>sr` (search/replace), `<leader>R` (replace in file)
+- [ ] nvim: Spectre keybindings — `<leader>sr` (search/replace), `<leader>R` create entry in a Nvim doc
 - [ ] AI agent: market report generator
 - [ ] AI agent: Freemius + Envato sales analyser
 - [ ] AI agent: email replier
