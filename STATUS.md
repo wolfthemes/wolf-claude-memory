@@ -6,18 +6,18 @@
 
 ## Active Work
 
-| Task | Status | Target |
-|---|---|---|
-| wolf-blocks: in-page testing (stats, testimonials, pricing) | 🧪 testing | This week |
-| wolf-blocks: newsletter sign-up block | 🔧 in progress | This week |
-| seijaku-fse: theme card design refinement | ⏳ in sprint | This week |
-| seijaku-fse: archive filtering + search UI | ⏳ in sprint | This week |
-| seijaku-fse: overall template + design refinement | ⏳ in sprint | This week |
-| Deployment re-test (staging → SiteGround) | ⏳ in sprint | This week |
-| Switch repos to dev branches (pre-production) | ⏳ after deploy test | This week |
-| Add countdown to current wolfthemes.com main pages | ⏳ pending | This week |
-| Performance optimization pass | ⏳ post-card/archive | This week |
-| **Production deployment** | 🎯 target | Week of 2026-06-23 |
+| Task                                                        | Status              | Target             |
+| ----------------------------------------------------------- | ------------------- | ------------------ |
+| wolf-blocks: in-page testing (stats, testimonials, pricing) | 🧪 testing          | This week          |
+| wolf-blocks: newsletter sign-up block                       | 🔧 done             | This week          |
+| seijaku-fse: theme card design refinement                   | ⏳ in sprint         | This week          |
+| seijaku-fse: archive filtering + search UI                  | ⏳ in sprint         | This week          |
+| seijaku-fse: overall template + design refinement           | ⏳ in sprint         | This week          |
+| Deployment re-test (staging → SiteGround)                   | ⏳ in sprint         | This week          |
+| Switch repos to dev branches (pre-production)               | ✅ done              | This week          |
+| Add countdown to current wolfthemes.com main pages          | ✅ done              | This week          |
+| Performance optimization pass                               | ⏳ post-card/archive | This week          |
+| **Production deployment**                                   | 🎯 target           | Week of 2026-06-23 |
 
 ---
 

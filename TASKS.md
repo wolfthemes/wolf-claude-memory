@@ -3,10 +3,19 @@
 ## Active
 
 - [ ] **Send newsletter** (Mailchimp) — due Tuesday 2026-06-23 morning
+- [ ] **staging: push new FSE theme/plugins**
 
 ### Fixes
 
 - [ ] **seijaku-fse: hero collage thumbnails jump down after animation finishes**
+- [ ] **staging: set _Available Post Types_ taxonomy for each theme**
+
+
+### wolf-store (from inbox 2026-06-22)
+
+- [ ] **wolf-store: theme archive load more pagination**
+- [ ] **wolf-store: audit filter and overall archive UI**
+- [ ] **wolf-store: audit single theme pages**
 
 ### Features
 
@@ -31,11 +40,15 @@
 
 ## Waiting On
 
-- [ ] NNC trader bot — testing passed - need testing on live account
+- [ ] NNC trader bot — demo mode functional; before live account testing: add lot-size cap, SL tightness guard, and review worst-case scenario safeguards
 
 ## Someday
 
 - [ ] Buffer social posting script (Python, source: themeforest positioning DB)
+- [ ] nvim: Spectre keybindings — `<leader>sr` (search/replace), `<leader>R` (replace in file)
+- [ ] AI agent: market report generator
+- [ ] AI agent: Freemius + Envato sales analyser
+- [ ] AI agent: email replier
 
 ## Done
 
