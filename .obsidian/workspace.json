@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASKS.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASKS"
+              "title": "Inbox"
             }
           }
         ]
@@ -195,13 +195,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2311faff25eab4d",
+  "active": "1e0e7a320f92fc18",
   "lastOpenFiles": [
-    "wiki/concepts/wolfthemes-brand.md.tmp.16819.181543152f61",
-    "wiki/concepts/wolfthemes-brand.md.tmp.16819.6f58e8525083",
-    "Inbox.md",
+    "Home.md",
+    "wiki/projects/projects.md",
     "TASKS.md",
     "STATUS.md",
+    "Inbox.md",
+    "wiki/concepts/wolfthemes-brand.md.tmp.16819.181543152f61",
+    "wiki/concepts/wolfthemes-brand.md.tmp.16819.6f58e8525083",
     "TASKS.md.tmp.536.158c9fb31b66",
     "wiki/concepts/wolfthemes-brand.md",
     "Inbox.md.tmp.41072.505ea41ff224",
@@ -213,9 +215,7 @@
     "TASKS.md.tmp.55753.a15acab81d74",
     "TASKS.md.tmp.46619.65ce77673794",
     "raw/index.md.tmp.46619.7875b1199f7e",
-    "wiki/concepts/fse-block-grammar.md.tmp.32580.df553c1473c0",
     "raw/wolf-store/single-theme-page-container-lateral-padding-issue.png",
-    "Home.md",
     "commands/learn-fse.md",
     "commands/wp-cache-flush.md",
     "commands/seijaku-fse-template.md",
