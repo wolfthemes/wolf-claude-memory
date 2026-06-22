@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "TASKS"
             }
           }
         ]
@@ -197,6 +197,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Inbox.md",
+    "TASKS.md",
+    "STATUS.md",
+    "TASKS.md.tmp.536.158c9fb31b66",
     "wiki/concepts/wolfthemes-brand.md",
     "Inbox.md.tmp.41072.505ea41ff224",
     "Inbox.md.tmp.41072.aaa7c242e440",
@@ -204,17 +208,13 @@
     "TASKS.md.tmp.58848.9355fdeee637",
     "wiki/concepts/concepts.md",
     "wiki/products/ai-crew/ai-crew.md",
-    "Inbox.md",
-    "TASKS.md",
     "TASKS.md.tmp.55753.a15acab81d74",
     "TASKS.md.tmp.46619.65ce77673794",
     "raw/index.md.tmp.46619.7875b1199f7e",
     "wiki/concepts/fse-block-grammar.md.tmp.32580.df553c1473c0",
     "raw/wolf-store/single-theme-page-container-lateral-padding-issue.png",
     "raw/wolf-store/Unconfirmed 846203.crdownload",
-    "STATUS.md",
     "Home.md",
-    "Inbox.md.tmp.43684.4ecbf85503a5",
     "commands/learn-fse.md",
     "commands/wp-cache-flush.md",
     "commands/seijaku-fse-template.md",
@@ -233,7 +233,6 @@
     "wiki/concepts/toolchain.md",
     "wiki/concepts/dev-environment.md",
     "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md",
-    "wiki/products/wolfthemes-wiki/wolfthemes-wiki.md",
     "raw/constantin.saguin.com/Screenshot 2026-06-18 170352.png"
   ]
 }

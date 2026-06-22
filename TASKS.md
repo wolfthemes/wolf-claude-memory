@@ -17,7 +17,15 @@
 - [ ] **seijaku-fse: mobile menu design**
 - [ ] **seijaku-fse: form styling** — contact form and Mailchimp form (input and textarea helper with transparent bg)
 - [ ] **seijaku-fse: paragraph max-width** — check if a default WP class is available before building custom
-- [ ] **wolf-store: Awwwards nominee ribbon** — show ribbon on Prequelle, Phase, Tune, Zample, Loud; decide: extra theme meta vs. taxonomy (⚠️ undecided)
+- [x] **wolf-store: Awwwards nominee ribbon** — show ribbon on Prequelle, Phase, Tune, Zample, Loud; decide: extra theme meta vs. taxonomy (⚠️ undecided)
+- [x] **wolf-store: add Awwwards ribbon image asset** — needed for the Awwwards nominee ribbon task above
+
+### From inbox (2026-06-22)
+
+- [x] **Explore Neuform as a Claude design-context source** — neuform.ai offers downloadable DESIGN.md design systems usable directly as design context/prompt input in a Claude workflow
+- [x] **Review design reference** — https://supahero.io/
+- [x] **Review design reference (FB video)** — https://www.facebook.com/share/r/1PFdEc5vGb/
+- [x] **Review design reference (FB video)** — https://www.facebook.com/share/r/18kpJzetYp/
 
 ## Waiting On
 
