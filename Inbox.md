@@ -6,6 +6,9 @@ One line per item. No formatting needed.
 
 NNC trader bot tested in demo mode and is functional. Next add security to avoid lot size too big, SL too tight, check what exist and think about security to avoid works case scenarii
 
+## Create a doc/reminder For nvim
+ -  Spectre:  *leader* sr the  *leader*  R
+
 ### AI Agent idea
 
 - [ ] Market report
