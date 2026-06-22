@@ -13,6 +13,7 @@
 - [ ] **wolf-store: theme card style refinement** — part of redesign sprint, see wiki/projects/wolfthemes-redesign
 - [ ] **wolf-blocks: add more icons to feature grid item**
 - [ ] **wolf-blocks/stats-counter: add paragraph detail field** — shown under the number and subtitle (e.g. under "4.5/5 rating", "Out of 1600+ review, users have left positive reviews for these awesome products")
+- [ ] **seijaku-fse: Animation engine for subtle entrance and scrolling animation - feature
 - [ ] **seijaku-fse: details/toggle WP block styling** — paragraph content padding causing laggy animation. Removing padding fix it, but we must find a way to add space below the content paragraph
 - [ ] **seijaku-fse: mobile menu design**
 - [ ] **seijaku-fse: form styling** — contact form and Mailchimp form (input and textarea helper with transparent bg)
