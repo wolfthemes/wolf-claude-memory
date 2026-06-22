@@ -11,6 +11,7 @@ NNC trader bot tested in demo mode and is functional. Next add security to avoid
 
 ## TODOS
   - [ ] staging: set _Available Post Types_ taxonomy for each themes
+  - [ ] stagin: push new FSE theme/plugins
   - [ ] wolf-store: theme archive load more pagination
   - [ ] wolf-store: audit filter and overall archive UI
   - [ ] wolf-store audit single theme pages
