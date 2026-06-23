@@ -3,8 +3,8 @@
 ## Active
 
 - [x] **Send newsletter** (Mailchimp) — due Tuesday 2026-06-23 morning
-- [ ] Social posts to promote WoflThemes store launch 1st july
-- [ ] **seijaku-fse: music themes page** — ⚠️ important
+- [x] Social posts to promote WoflThemes store launch 1st july
+- [x] **seijaku-fse: music themes page** — ⚠️ important
 - [ ] **staging: push new FSE theme/plugins**
 - [ ] **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ must be done before end of June 2026-06-30
 
@@ -51,7 +51,7 @@
 - [ ] Buffer social posting script (Python, source: themeforest positioning DB)
 - [ ] nvim: Spectre keybindings — `<leader>sr` (search/replace), `<leader>R` create entry in a Nvim doc
 - [ ] Envato license manager: add slug detection in activation process
-- [ ] Aurenza: fire loader only on first load (use cookie or localStorage?)
+- [x] Aurenza: fire loader only on first load (use cookie or localStorage?)
 - [ ] wolf-supertheme: implement "loader once" pattern from Aurenza to more themes
 - [ ] AI agent: market report generator
 - [ ] AI agent: Freemius + Envato sales analyser
