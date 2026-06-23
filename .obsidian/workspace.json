@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASKS.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASKS"
+              "title": "Inbox"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "TASKS.md",
     "STATUS.md",
     "Inbox.md",
     "Inbox.md.tmp.51493.3f2625e59c9d",
@@ -204,7 +205,6 @@
     "Inbox.md.tmp.51493.98d50f4e7598",
     "TASKS.md.tmp.51493.d3894ea23e8c",
     "TASKS.md.tmp.51493.5525f98617be",
-    "TASKS.md",
     "Home.md",
     "Inbox.md.tmp.19522.f5cbdd2afc66",
     "TASKS.md.tmp.19522.018f6b5eb81a",
