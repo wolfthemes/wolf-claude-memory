@@ -2,6 +2,8 @@
 
 **Week of 2026-06-19 — pre-production sprint**
 
+> ⚠️ **HARD DEADLINE: everything must be ready on prod by the evening of 2026-06-30 — launch is 1 July.**
+
 ---
 
 ## Active Work
@@ -17,7 +19,7 @@
 | Switch repos to dev branches (pre-production)               | ✅ done              | This week          |
 | Add countdown to current wolfthemes.com main pages          | ✅ done              | This week          |
 | Performance optimization pass                               | ⏳ post-card/archive | This week          |
-| **Production deployment**                                   | 🎯 target           | Week of 2026-06-23 |
+| **Production deployment**                                   | 🎯 target           | ⚠️ HARD: 2026-06-30 |
 
 ---
 
