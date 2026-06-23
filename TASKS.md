@@ -4,6 +4,7 @@
 
 - [x] **Send newsletter** (Mailchimp) — due Tuesday 2026-06-23 morning
 - [ ] Social posts to promote WoflThemes store launch 1st july
+- [ ] **seijaku-fse: music themes page** — ⚠️ important
 - [ ] **staging: push new FSE theme/plugins**
 - [ ] **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ must be done before end of June 2026-06-30
 
