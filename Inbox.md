@@ -4,6 +4,6 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 
 One line per item. No formatting needed.
 
- - feat: seijaku-fse blog template design
-
 ---
+
+Envato license manager: allow license reset from user (logic eit on the plugin side, need server side action)

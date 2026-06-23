@@ -26,6 +26,7 @@
 - [ ] **seijaku-fse: details/toggle WP block styling** — paragraph content padding causing laggy animation. Removing padding fix it, but we must find a way to add space below the content paragraph
 - [ ] **seijaku-fse: mobile menu design**
 - [ ] **seijaku-fse: need all images set (hero and inner images)
+- [ ] **seijaku-fse: blog template design** — feat (from inbox 2026-06-23)
 - [ ] **seijaku-fse: form styling** — contact form and Mailchimp form (input and textarea helper with transparent bg)
 - [ ] **seijaku-fse: paragraph max-width** — check if a default WP class is available before building custom
 - [x] **wolf-store: Awwwards nominee ribbon** — show ribbon on Prequelle, Phase, Tune, Zample, Loud; decide: extra theme meta vs. taxonomy (⚠️ undecided)
