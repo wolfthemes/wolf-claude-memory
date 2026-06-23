@@ -6,4 +6,6 @@ One line per item. No formatting needed.
 
 ---
 
-Envato license manager: allow license reset from user (logic eit on the plugin side, need server side action)
+Envato license manager: add slug detection in activation process - (someday)
+Renew SSL certificate on wolfthemes.store domains wolfthemes.cloud domains - !important
+Aurenza loader: fire loader only on first load (use cookie?)

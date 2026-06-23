@@ -2,7 +2,8 @@
 
 ## Active
 
-- [ ] **Send newsletter** (Mailchimp) — due Tuesday 2026-06-23 morning
+- [x] **Send newsletter** (Mailchimp) — due Tuesday 2026-06-23 morning
+- [ ] Social posts to promote WoflThemes store launch 1st july
 - [ ] **staging: push new FSE theme/plugins**
 
 ### Fixes
