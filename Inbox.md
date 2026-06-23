@@ -7,5 +7,5 @@ One line per item. No formatting needed.
 ---
 
 Envato license manager: add slug detection in activation process - (someday)
-Renew SSL certificate on wolfthemes.store domains wolfthemes.cloud domains - !important
+Renew SSL certificate on wolfthemes.store domains wolfthemes.cloud domains - !important bfore end of June
 Aurenza loader: fire loader only on first load (use cookie?)
