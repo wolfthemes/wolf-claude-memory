@@ -13,3 +13,4 @@ seijaku-fse: technicals styling (link color)
 seijaku-fse: tagline helper class for max width - e.g tagline above pricing table in services page
 staging: check purchase link for each theme
 prod: redeploy all freemius themes
+wolf-store: make theme card cat badge clickable
