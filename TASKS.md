@@ -9,8 +9,8 @@
 
 ### Fixes
 
-- [ ] **seijaku-fse: hero collage thumbnails jump down after animation finishes**
-- [ ] **staging: set _Available Post Types_ taxonomy for each theme**
+- [x] **seijaku-fse: hero collage thumbnails jump down after animation finishes**
+- [ ] **staging website: set _Available Post Types_ taxonomy for each theme**
 
 
 ### wolf-store (from inbox 2026-06-22)
@@ -51,6 +51,7 @@
 - [ ] nvim: Spectre keybindings — `<leader>sr` (search/replace), `<leader>R` create entry in a Nvim doc
 - [ ] Envato license manager: add slug detection in activation process
 - [ ] Aurenza: fire loader only on first load (use cookie or localStorage?)
+- [ ] wolf-supertheme: implement "loader once" pattern from Aurenza to more themes
 - [ ] AI agent: market report generator
 - [ ] AI agent: Freemius + Envato sales analyser
 - [ ] AI agent: email replier

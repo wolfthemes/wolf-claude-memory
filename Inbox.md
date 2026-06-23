@@ -6,4 +6,3 @@ One line per item. No formatting needed.
 
 ---
 
-wolf-supertheme: implement the "loader once" from Aurenza to more themes
