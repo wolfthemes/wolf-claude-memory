@@ -1,0 +1,140 @@
+{
+    "slug": "staaw",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/nav-logo-white.png",
+                "label": "logo-light",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/nav-logo.png",
+                "label": "logo-dark",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/home.png",
+                "label": "home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/home-alt.png",
+                "label": "home-alt",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/split-home.png",
+                "label": "split-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/inetractiv-links-600x289.png",
+                "label": "inetractiv-links",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/04/shop-grid-600x289.png",
+                "label": "shop-grid",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/04/lateral-600x289.png",
+                "label": "lateral",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/04/minimal-600x289.png",
+                "label": "minimal",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/nlog-home-600x289.png",
+                "label": "nlog-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/coming-soon-2-600x289.png",
+                "label": "coming-soon",
+                "section": "General"
+            }
+        ],
+        "1-Click Demo Import": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/printful-blogriche.png",
+                "label": "View",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/Untitled-1.png",
+                "label": "View",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/about-us-600x289.png",
+                "label": "about-us",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/faq-600x289.png",
+                "label": "faq",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/customer-service-600x289.png",
+                "label": "customer-service",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/contact-600x289.png",
+                "label": "contact",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/coming-soon-2-600x289.png",
+                "label": "coming-soon",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/maintenance-600x289.png",
+                "label": "maintenance",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/save-money.png",
+                "label": "View",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/t\u00e9l\u00e9chargement-80x80.png",
+                "label": "t\u00e9l\u00e9chargement",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/icon-revo-80x80.png",
+                "label": "icon-revo",
+                "section": "1-Click Demo Import"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/33/2020/03/new_avatar80_80.png",
+                "label": "new_avatar80_80",
+                "section": "1-Click Demo Import"
+            }
+        ]
+    },
+    "total": 26
+}

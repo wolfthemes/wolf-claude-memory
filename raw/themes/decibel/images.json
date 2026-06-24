@@ -1,0 +1,135 @@
+{
+    "slug": "decibel",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/nav_logo_dark.png",
+                "label": "loading logo",
+                "section": "General"
+            },
+            {
+                "url": "https://preview.wolfthemes.store/app/uploads/sites/26/2019/05/nav_logo.svg",
+                "label": "logo-svg",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/05/nav_logo.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/05/maxresdefault-3.jpg",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/original-home-443x276.jpg",
+                "label": "original-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/band-443x276.jpg",
+                "label": "band",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/artist-443x276.jpg",
+                "label": "artist",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/one-page-1-443x276.jpg",
+                "label": "one-page",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/discography-home-1-443x276.jpg",
+                "label": "discography-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/shop-home-1-443x276.jpg",
+                "label": "shop-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/interactive-links-443x276.jpg",
+                "label": "interactive-links",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/splash-443x276.jpg",
+                "label": "splash",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/animated-panels-1-443x276.jpg",
+                "label": "animated-panels",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/blog-iome-443x276.jpg",
+                "label": "blog-iome",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/lateral-menu-443x276.jpg",
+                "label": "lateral-menu",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/coming-soon-443x276.jpg",
+                "label": "coming-soon",
+                "section": "General"
+            }
+        ],
+        "One-Click Demo Install": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/about-us-443x276.jpg",
+                "label": "about-us",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/about-me-443x276.jpg",
+                "label": "about-me",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/the-band-443x276.jpg",
+                "label": "the-band",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/contact-443x276.jpg",
+                "label": "contact",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/get-in-touch-443x276.jpg",
+                "label": "get-in-touch",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/06/maintenance-443x276.jpg",
+                "label": "maintenance",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/05/5stars.png",
+                "label": "View",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/26/2019/05/default-user-2962fd43ee315eafee8bfc08f02fee84687beb0499de44e5ab2873399944b0fe-150x150.jpg",
+                "label": "testimonial-avatar",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "One-Click Demo Install"
+            }
+        ]
+    },
+    "total": 25
+}

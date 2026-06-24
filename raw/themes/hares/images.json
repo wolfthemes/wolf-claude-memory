@@ -1,0 +1,276 @@
+{
+    "slug": "hares",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview.wolfthemes.store/app/uploads/sites/9/2017/11/nav-logo.svg",
+                "label": "logo-svg",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "bricks",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/barber-400x257.jpg",
+                "label": "View",
+                "section": "General"
+            }
+        ],
+        "Barber Shop": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/tattoo_shop-400x257.jpg",
+                "label": "View",
+                "section": "Barber Shop"
+            }
+        ],
+        "Tattoo Parlour": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/mc-400x257.jpg",
+                "label": "View",
+                "section": "Tattoo Parlour"
+            }
+        ],
+        "Motorcycle Club": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/portfolio_lateral-400x257.jpg",
+                "label": "View",
+                "section": "Motorcycle Club"
+            }
+        ],
+        "Portfolio Lateral": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/albums-1-400x257.jpg",
+                "label": "View",
+                "section": "Portfolio Lateral"
+            }
+        ],
+        "Albums Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/brewery-400x257.jpg",
+                "label": "View",
+                "section": "Albums Home"
+            }
+        ],
+        "Brewry": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/main-400x257.jpg",
+                "label": "View",
+                "section": "Brewry"
+            }
+        ],
+        "Main Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/blog_home-400x257.jpg",
+                "label": "View",
+                "section": "Main Home"
+            }
+        ],
+        "Blog Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2018/01/resto-400x257.jpg",
+                "label": "View",
+                "section": "Blog Home"
+            }
+        ],
+        "Pub/Restaurant": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/shop-home-400x257.jpg",
+                "label": "View",
+                "section": "Pub/Restaurant"
+            }
+        ],
+        "Shop Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/fishing-400x257.jpg",
+                "label": "View",
+                "section": "Shop Home"
+            }
+        ],
+        "Fishing": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/video-400x257.jpg",
+                "label": "View",
+                "section": "Fishing"
+            }
+        ],
+        "Full Screen Video": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/interactive-links-400x257.jpg",
+                "label": "View",
+                "section": "Full Screen Video"
+            }
+        ],
+        "Interactive Links": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/vcard-400x257.jpg",
+                "label": "View",
+                "section": "Interactive Links"
+            }
+        ],
+        "V-Card": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/parallax-400x257.jpg",
+                "label": "View",
+                "section": "V-Card"
+            }
+        ],
+        "Parallax Presentation": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/11/portfolio-160x160.jpg",
+                "label": "portfolio",
+                "section": "Parallax Presentation"
+            }
+        ],
+        "Beautiful Portfolio": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/11/gallery-160x160.jpg",
+                "label": "gallery",
+                "section": "Beautiful Portfolio"
+            }
+        ],
+        "Elegant Galleries": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/11/store-160x160.jpg",
+                "label": "store",
+                "section": "Elegant Galleries"
+            }
+        ],
+        "WooCommerce Store": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/11/builder-160x160.jpg",
+                "label": "builder",
+                "section": "WooCommerce Store"
+            }
+        ],
+        "Tailored Page Builder": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/11/slider-160x160.jpg",
+                "label": "slider",
+                "section": "Tailored Page Builder"
+            }
+        ],
+        "Slider Revolution": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/11/demo-160x160.jpg",
+                "label": "demo",
+                "section": "Slider Revolution"
+            }
+        ],
+        "One-click Demo Install": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "One-click Demo Install"
+            }
+        ],
+        "NO CODING REQUIRED": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/Design-Lazy-iPad-Pro-Mockup-600x360.png",
+                "label": "Design-Lazy-iPad-Pro-Mockup",
+                "section": "NO CODING REQUIRED"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/our-process-400x257.jpg",
+                "label": "View",
+                "section": "NO CODING REQUIRED"
+            }
+        ],
+        "Our Process": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/our-menu-400x257.jpg",
+                "label": "View",
+                "section": "Our Process"
+            }
+        ],
+        "Our Menu": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/get-in-touch-400x257.jpg",
+                "label": "View",
+                "section": "Our Menu"
+            }
+        ],
+        "Get in Touch": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/faq-400x257.jpg",
+                "label": "View",
+                "section": "Get in Touch"
+            }
+        ],
+        "F.A.Q": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/our-workflow-400x257.jpg",
+                "label": "View",
+                "section": "F.A.Q"
+            }
+        ],
+        "Our Workflow": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/our-services-400x257.jpg",
+                "label": "View",
+                "section": "Our Workflow"
+            }
+        ],
+        "Our Services": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/contact-me-400x257.jpg",
+                "label": "View",
+                "section": "Our Services"
+            }
+        ],
+        "Contact Me": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/contact-us-400x257.jpg",
+                "label": "View",
+                "section": "Contact Me"
+            }
+        ],
+        "Contact Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/about-me-400x257.jpg",
+                "label": "View",
+                "section": "Contact Us"
+            }
+        ],
+        "About Me": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/about-us-400x257.jpg",
+                "label": "View",
+                "section": "About Me"
+            }
+        ],
+        "About Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/coming-soon-400x257.jpg",
+                "label": "View",
+                "section": "About Us"
+            }
+        ],
+        "Coming Soon": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/maintenance-400x257.jpg",
+                "label": "View",
+                "section": "Coming Soon"
+            }
+        ],
+        "Maintenance": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/9/2017/12/iMac-Pro-shop-1-530x556.png",
+                "label": "iMac-Pro-shop",
+                "section": "Maintenance"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "Maintenance"
+            }
+        ]
+    },
+    "total": 40
+}

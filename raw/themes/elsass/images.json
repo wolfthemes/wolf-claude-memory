@@ -1,0 +1,110 @@
+{
+    "slug": "elsass",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview.wolfthemes.store/app/themes/elsass/assets/img/t/elsass/svg/bag.svg",
+                "label": "Cart Icon",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/elsass/2022-05-10_09-04-03_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/elsass/2022-05-10_09-03-46_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/elsass/2022-05-10_09-03-23_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/elsass/2022-05-09_11-15-52_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/elsass/2022-05-09_11-12-57_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/elsass/2022-05-09_11-10-14_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/main-home-ppm6cohs18e07llp81n798clyulav8xagpgxlouyhw.jpg",
+                "label": "main-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/winehouse-ppmqwtkrhvl45wi8bh4m3yk14cj2va8f82dwkdg10k.jpg",
+                "label": "winehouse",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/vineyard-home-ppm66xpa9oix9dy2rk9a0oj7a2wjtu4cc9y40tdkis.jpg",
+                "label": "vineyard-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/wine-bar-1-ppmpu0sle2h0xcv4vpd06r12drrn527ak0ydf6z1us.jpg",
+                "label": "wine-bar",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/v-card-ppmhhyrbpzpuqkpp004e8gvvpqphzezymvuebbvc4k.jpg",
+                "label": "v-card",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/store-ppmr0cgz4ietp9dwqhz8ykj9bd5mqf86piggcq7vok.jpg",
+                "label": "store",
+                "section": "General"
+            }
+        ],
+        "6 Months Support": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/about-us-ppmp5x7k5zje3jlt8m1ibtxg97u0izrnmcrwa4qqdo.jpg",
+                "label": "about-us",
+                "section": "6 Months Support"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/contact-us-ppmp62ulazr417dmboh9qsi7tj27t6e1n4ot5sidcc.jpg",
+                "label": "contact-us",
+                "section": "6 Months Support"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/our-story-ppmp67js95xjn96sk8iel9bisgf1vnwpbry8k6beh8.jpg",
+                "label": "our-story",
+                "section": "6 Months Support"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/our-team-ppmp6c8z7c3z9azyssjjfq4trdrvy5fd0f7nyk4fm4.jpg",
+                "label": "our-team",
+                "section": "6 Months Support"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/pricing-plans-ppmp6g0byo94jqui6u61pp6o4x9csxuacxtlvnyux8.jpg",
+                "label": "pricing-plans",
+                "section": "6 Months Support"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/44/elementor/thumbs/visitu-us-ppmp6jroq0e9u6p1kvsjzo8iigqtnq97pgfjsrta8c.jpg",
+                "label": "visitu-us",
+                "section": "6 Months Support"
+            }
+        ]
+    },
+    "total": 20
+}

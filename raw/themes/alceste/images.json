@@ -1,0 +1,195 @@
+{
+    "slug": "alceste",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview.wolfthemes.store/app/uploads/sites/22/2019/04/alceste_nav_logo.svg",
+                "label": "logo-svg",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing Page",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/main-home-633x304.jpg",
+                "label": "main-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/splash-633x304.jpg",
+                "label": "splash",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/full-slider-1-633x304.jpg",
+                "label": "full-slider",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/stor-grid-1-633x304.jpg",
+                "label": "stor-grid",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/metro-home-1-633x304.jpg",
+                "label": "metro-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/home-video-1-633x304.jpg",
+                "label": "home-video",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/il-1-633x304.jpg",
+                "label": "il",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/panels-633x304.jpg",
+                "label": "panels",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/portfolio-home-633x304.jpg",
+                "label": "portfolio-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/home-blog-633x304.jpg",
+                "label": "home-blog",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/prod_01-500x620.jpg",
+                "label": "prod_01",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/product_03-500x620.jpg",
+                "label": "product_03",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/product_06-500x620.jpg",
+                "label": "product_06",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/product_05-500x620.jpg",
+                "label": "product_05",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/product_04-500x620.jpg",
+                "label": "product_04",
+                "section": "General"
+            }
+        ],
+        "Live Currency Converter": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing Page",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/about-us-2-403x482.jpg",
+                "label": "about-us",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/contact-us-1-403x482.jpg",
+                "label": "contact-us",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/about-us-855x481.jpg",
+                "label": "about-us",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/coming-soon-1-855x481.jpg",
+                "label": "coming-soon",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/our-team-403x482.jpg",
+                "label": "our-team",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/brand-403x482.jpg",
+                "label": "brand",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/store-locator-403x482.jpg",
+                "label": "store-locator",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/get-in-touch-403x482.jpg",
+                "label": "get-in-touch",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/maintenance-855x481.jpg",
+                "label": "maintenance",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/404-1-855x481.jpg",
+                "label": "404",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/pricing-1-403x482.jpg",
+                "label": "pricing",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/faq-2-403x482.jpg",
+                "label": "faq",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/wpml.png",
+                "label": "wpml",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/cf7.png",
+                "label": "cf7",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/rs.png",
+                "label": "rs",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/wc.png",
+                "label": "wc",
+                "section": "Live Currency Converter"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/22/2019/04/WPB.png",
+                "label": "WPB",
+                "section": "Live Currency Converter"
+            }
+        ]
+    },
+    "total": 37
+}

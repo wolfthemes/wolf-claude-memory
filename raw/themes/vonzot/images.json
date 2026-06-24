@@ -1,0 +1,164 @@
+{
+    "slug": "vonzot",
+    "sections": {
+        "#SALES": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/08/celestino-kestuvafer-360x360.jpg",
+                "label": "Watcha Gonna Do",
+                "section": "#SALES"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/08/here-lies-the-ocean-360x360.jpg",
+                "label": "Revelation",
+                "section": "#SALES"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/08/gloirous-arty-360x360.jpg",
+                "label": "Glorious",
+                "section": "#SALES"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/08/was-hed-ou-360x360.jpg",
+                "label": "Was Hed Out",
+                "section": "#SALES"
+            }
+        ],
+        "Folow Us": [
+            {
+                "url": "https://preview.wolfthemes.store/app/uploads/sites/16/2018/08/nav_logo.svg",
+                "label": "logo-svg",
+                "section": "Folow Us"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "Folow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/main-home-410x256.jpg",
+                "label": "Main Home",
+                "section": "Folow Us"
+            }
+        ],
+        "Main Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/vinyl-store-410x256.jpg",
+                "label": "Vinyl Store",
+                "section": "Main Home"
+            }
+        ],
+        "Vinyl Store": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/short-store-410x256.jpg",
+                "label": "T-Shirt Store",
+                "section": "Vinyl Store"
+            }
+        ],
+        "T-Shirt Store": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/vinyl-store-alt-410x256.jpg",
+                "label": "Store w/ Slider",
+                "section": "T-Shirt Store"
+            }
+        ],
+        "Store w/ Slider": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/vertical-slides-1-410x256.jpg",
+                "label": "Vertical Slides",
+                "section": "Store w/ Slider"
+            }
+        ],
+        "Vertical Slides": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/metro-home-1-410x256.jpg",
+                "label": "Metro Home",
+                "section": "Vertical Slides"
+            }
+        ],
+        "Metro Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/big-carousel-410x256.jpg",
+                "label": "Records Carousel",
+                "section": "Metro Home"
+            }
+        ],
+        "Records Carousel": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/search-home-1-410x256.jpg",
+                "label": "Search Home",
+                "section": "Records Carousel"
+            }
+        ],
+        "Search Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/lateral-menu-410x256.jpg",
+                "label": "Lateral Menu",
+                "section": "Search Home"
+            }
+        ],
+        "Lateral Menu": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/blog-home-1-410x256.jpg",
+                "label": "Blog Home",
+                "section": "Lateral Menu"
+            }
+        ],
+        "Blog Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/portfolio-home-410x256.jpg",
+                "label": "Portfolio Home",
+                "section": "Blog Home"
+            }
+        ],
+        "Portfolio Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/buy-now-410x256.png",
+                "label": "buy-now",
+                "section": "Portfolio Home"
+            }
+        ],
+        "Support Included": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "Support Included"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/09/RESPONSIVE-MOCKUP-IPHONEX-IQUII.jpg",
+                "label": "View",
+                "section": "Support Included"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "Support Included"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/08/wpml-350x72.png",
+                "label": "wpml",
+                "section": "Support Included"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/08/cf7-350x72.png",
+                "label": "cf7",
+                "section": "Support Included"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/08/rs-350x72.png",
+                "label": "rs",
+                "section": "Support Included"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/08/wc-350x72.png",
+                "label": "wc",
+                "section": "Support Included"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/16/2018/08/WPB-350x72.png",
+                "label": "WPB",
+                "section": "Support Included"
+            }
+        ]
+    },
+    "total": 26
+}

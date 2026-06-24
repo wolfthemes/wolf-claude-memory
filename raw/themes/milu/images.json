@@ -1,0 +1,161 @@
+{
+    "slug": "milu",
+    "sections": {
+        "General": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/main-440x306.jpg",
+                "label": "main",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/home-2-440x306.jpg",
+                "label": "home-2",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/home-3-440x306.jpg",
+                "label": "home-3",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/home-blocks-1-440x306.jpg",
+                "label": "home-blocks",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/agency-1-440x306.jpg",
+                "label": "agency",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/app-1-440x306.jpg",
+                "label": "app",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/coming-soon-440x306.jpg",
+                "label": "coming-soon",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/interactive-links-1-440x306.jpg",
+                "label": "interactive-links",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/one-page-440x306.jpg",
+                "label": "one-page",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/95.png",
+                "label": "95",
+                "section": "General"
+            }
+        ],
+        "WPBakery Page Builder": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/111.png",
+                "label": "111",
+                "section": "WPBakery Page Builder"
+            }
+        ],
+        "Slider Revolution": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/225.png",
+                "label": "225",
+                "section": "Slider Revolution"
+            }
+        ],
+        "Demo Graphics Inlcuded": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/115.png",
+                "label": "115",
+                "section": "Demo Graphics Inlcuded"
+            }
+        ],
+        "1-Click Demo Import": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/216.png",
+                "label": "216",
+                "section": "1-Click Demo Import"
+            }
+        ],
+        "WooCommerce": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/122.png",
+                "label": "122",
+                "section": "WooCommerce"
+            }
+        ],
+        "Portfolio": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/2.png",
+                "label": "2",
+                "section": "Portfolio"
+            }
+        ],
+        "Blog": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/176.png",
+                "label": "176",
+                "section": "Blog"
+            }
+        ],
+        "Fully Customizable": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "Fully Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/about-us-440x549.jpg",
+                "label": "about-us",
+                "section": "Fully Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/services-440x549.jpg",
+                "label": "services",
+                "section": "Fully Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/pricing-440x549.jpg",
+                "label": "pricing",
+                "section": "Fully Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/about-me-440x264.jpg",
+                "label": "about-me",
+                "section": "Fully Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/conrtact-us-440x264.jpg",
+                "label": "conrtact-us",
+                "section": "Fully Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/28/2019/07/maintenance-440x264.jpg",
+                "label": "maintenance",
+                "section": "Fully Customizable"
+            }
+        ],
+        "E-Commerce Ready": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "E-Commerce Ready"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "E-Commerce Ready"
+            }
+        ]
+    },
+    "total": 27
+}

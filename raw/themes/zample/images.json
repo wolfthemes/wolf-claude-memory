@@ -1,0 +1,156 @@
+{
+    "slug": "zample",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview.wolfthemes.store/app/uploads/sites/13/2018/06/logo.svg",
+                "label": "logo-svg",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/06/main-fixed-540x332.jpg",
+                "label": "main-fixed",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/06/duotone-540x332.jpg",
+                "label": "duotone",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/06/pink-540x332.jpg",
+                "label": "pink",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/06/colorful-540x332.jpg",
+                "label": "colorful",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/06/studio-540x332.jpg",
+                "label": "studio",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/06/dark-hoodie-540x332.jpg",
+                "label": "dark-hoodie",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/06/minimal-540x332.jpg",
+                "label": "minimal",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/coming-soon-540x332.jpg",
+                "label": "coming-soon",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/wpml.jpg",
+                "label": "wpml",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/cf7.jpg",
+                "label": "cf7",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/revslider.jpg",
+                "label": "revslider",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/woo.jpg",
+                "label": "woo",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/wpb.jpg",
+                "label": "wpb",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/Brush.png",
+                "label": "Brush",
+                "section": "General"
+            }
+        ],
+        "Outstanding One-Page Animations": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/Games.png",
+                "label": "Games",
+                "section": "Outstanding One-Page Animations"
+            }
+        ],
+        "No Coding Required": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/Coffee.png",
+                "label": "Coffee",
+                "section": "No Coding Required"
+            }
+        ],
+        "One-click Demo Install": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/Record.png",
+                "label": "Record",
+                "section": "One-click Demo Install"
+            }
+        ],
+        "Discography": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/Headphones.png",
+                "label": "Headphones",
+                "section": "Discography"
+            }
+        ],
+        "Playlist Manager": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/Calendar.png",
+                "label": "Calendar",
+                "section": "Playlist Manager"
+            }
+        ],
+        "Event List": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/Camera.png",
+                "label": "Camera",
+                "section": "Event List"
+            }
+        ],
+        "Video & Photo Galleries": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/Mobile.png",
+                "label": "Mobile",
+                "section": "Video & Photo Galleries"
+            }
+        ],
+        "Pixel Perfect": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/13/2018/05/Basket.png",
+                "label": "Basket",
+                "section": "Pixel Perfect"
+            }
+        ],
+        "WooCommerce Store": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "WooCommerce Store"
+            }
+        ]
+    },
+    "total": 26
+}

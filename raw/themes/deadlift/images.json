@@ -1,0 +1,159 @@
+{
+    "slug": "deadlift",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/nav_logo_secondary.png",
+                "label": "View",
+                "section": "General"
+            }
+        ],
+        "Follow Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/nav_logo_secondary.png",
+                "label": "logo-light",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/nav_logo_secondary_dark.png",
+                "label": "logo-dark",
+                "section": "Follow Us"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "landing-hero-bg",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/main-home-409x234.jpg",
+                "label": "main-home",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/home-alt-409x234.jpg",
+                "label": "home-alt",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2019/04/interactive-links-409x234.jpg",
+                "label": "interactive-links",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2019/04/gym-home-409x234.jpg",
+                "label": "gym-home",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/store-home-409x234.jpg",
+                "label": "store-home",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/video-home-409x234.jpg",
+                "label": "video-home",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/blog-home-409x234.jpg",
+                "label": "blog-home",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/showcase-blocks-409x234.jpg",
+                "label": "showcase-blocks",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/coming-soon-409x234.jpg",
+                "label": "coming-soon",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/BMIC.jpg",
+                "label": "BMIC",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/timetable.jpg",
+                "label": "timetable",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/workout-409x234.jpg",
+                "label": "workout",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/meal-plan-409x234.jpg",
+                "label": "meal-plan",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/recipe-409x234.jpg",
+                "label": "recipe",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/icons8_Software_Installer_100px_1.png",
+                "label": "icons8_Software_Installer_100px_1",
+                "section": "Follow Us"
+            }
+        ],
+        "1-click Demo Install": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/icons8_Game_Controller_100px.png",
+                "label": "icons8_Game_Controller_100px",
+                "section": "1-click Demo Install"
+            }
+        ],
+        "No Coding Required": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/icons8_Microsoft_Planner_100px.png",
+                "label": "icons8_Microsoft_Planner_100px",
+                "section": "No Coding Required"
+            }
+        ],
+        "Classes Timetable": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/icons8_Inspection_100px.png",
+                "label": "icons8_Inspection_100px",
+                "section": "Classes Timetable"
+            }
+        ],
+        "Workout, Meal, Recipes": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/icons8_Wrench_100px.png",
+                "label": "icons8_Wrench_100px",
+                "section": "Workout, Meal, Recipes"
+            }
+        ],
+        "Drag'n Drop Page Builder": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/icons8_Repeat_100px.png",
+                "label": "icons8_Repeat_100px",
+                "section": "Drag'n Drop Page Builder"
+            }
+        ],
+        "Slider Revolution": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/icons8_Paint_Brush_100px.png",
+                "label": "icons8_Paint_Brush_100px",
+                "section": "Slider Revolution"
+            }
+        ],
+        "Customizer": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/17/2018/10/icons8_Shopping_Cart_100px_1.png",
+                "label": "icons8_Shopping_Cart_100px_1",
+                "section": "Customizer"
+            }
+        ]
+    },
+    "total": 27
+}

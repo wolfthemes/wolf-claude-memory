@@ -1,0 +1,112 @@
+{
+    "category": [
+        "E-commerce",
+        "Print-on-Demand"
+    ],
+    "store_headline": "WooCommerce Theme Built for Print-on-Demand Businesses",
+    "store_subheadline": "For print-on-demand businesses and custom merchandise sellers with zero inventory headaches",
+    "features": [
+        "Print-on-Demand optimized WooCommerce integration",
+        "Product variation swatches for material, size, and color options",
+        "Currency switcher for international print-on-demand sales",
+        "WPBakery Page Builder with custom content blocks",
+        "Dynamic slideshows with Slider Revolution",
+        "Wishlist functionality for custom print products",
+        "Pop-up displays for promotions and new designs",
+        "Newsletter subscription with MailChimp integration",
+        "Video thumbnail generation for product demonstrations",
+        "Mobile-optimized responsive design for all devices",
+        "One-click demo import with complete POD store setup",
+        "Built with WPBakery Page Builder ($99 value)",
+        "Slider Revolution plugin ($85 value) included"
+    ],
+    "selling_points": [
+        "The only WooCommerce theme in the catalog designed specifically for the print-on-demand workflow",
+        "Zero-inventory architecture: the entire storefront is built for businesses where production follows purchase",
+        "Currency switcher for international POD sales built in — reach Printful, Printify, and Gelato customers globally",
+        "Promo code hero section built to drive promotion-led conversions — the lifeblood of POD economics",
+        "Visual variation swatches for material, size, and color — the product UX POD customers need to decide",
+        "WPBakery-powered for custom landing pages that showcase designs without generic e-commerce conventions",
+        "MailChimp newsletter integration for list-building — the repeat-purchase engine for zero-inventory businesses",
+        "Wolf Popup for campaign launches and limited-edition drops that create the urgency POD stores depend on"
+    ],
+    "theme_style": [
+        "Modern",
+        "Clean",
+        "Product-focused"
+    ],
+    "target_audience": [
+        "Print-on-Demand Entrepreneurs",
+        "Custom Merchandise Retailers",
+        "Graphic Designers Selling Prints",
+        "Artist Merchandise Stores",
+        "T-shirt and Apparel Businesses",
+        "Custom Product Dropshippers",
+        "Print Shop Owners"
+    ],
+    "key_benefits": [
+        "Launch a store built for print-on-demand — not adapted from inventory retail",
+        "Sell custom merchandise internationally from day one with built-in currency conversion",
+        "Convert hesitant buyers with visual swatches, wishlists, and clean product pages",
+        "Build an email list — the repeat-purchase engine for zero-inventory businesses",
+        "Drive urgency with popup campaigns for new design drops and limited-edition runs",
+        "Operate a credible branded storefront without carrying a single unit of stock",
+        "Scale with the only WolfTheme infrastructure designed specifically for the POD model"
+    ],
+    "included_plugins": [
+        "One-Click Demo Import",
+        "WooCommerce",
+        "Instagram Feed",
+        "Contact Form 7",
+        "Variation Swatches for WooCommerce",
+        "WooCommerce Currency Switcher",
+        "Contact Form 7 MailChimp Extension",
+        "Slider Revolution",
+        "WPBakery Page Builder (formerly Visual Composer)",
+        "Envato Market",
+        "Wolf Visual Composer",
+        "Wolf VC Content Block",
+        "Wolf Popup",
+        "Wolf Custom Post Meta",
+        "Wolf Metaboxes",
+        "Wolf Video Thumbnail Generator",
+        "Wolf WooCommerce Wishlist"
+    ],
+    "design_features": [
+        "Print-on-demand product showcase layouts",
+        "Visual product attribute selectors",
+        "Custom pop-up templates for promotions",
+        "Instagram gallery integration",
+        "Multiple header and footer variations",
+        "Custom product catalog layouts",
+        "Wishlist and favorites functionality",
+        "Newsletter signup forms with MailChimp integration"
+    ],
+    "use_cases": [
+        "Custom T-shirt and Apparel Stores",
+        "Poster and Art Print Businesses",
+        "Personalized Gift Shops",
+        "Artist Merchandise Platforms",
+        "Custom Mug and Drinkware Stores",
+        "On-Demand Book and Publication Shops",
+        "Print-on-Demand Dropshipping Businesses"
+    ],
+    "customer_sites": [],
+    "testimonials": [
+        {
+            "text": "Excellent customer support...Highly recommended",
+            "author": "mywpbuyer",
+            "rating": 5
+        },
+        {
+            "text": "As a graphic artist selling my designs on various products, I needed a theme that could showcase my work effectively. Staaw exceeded my expectations with its clean design and excellent product display options. The Instagram feed integration helps me show my products in real-world settings.",
+            "author": "designerprints",
+            "rating": 5
+        },
+        {
+            "text": "The pop-up functionality and MailChimp integration have dramatically improved our email marketing efforts. We've seen a 40% increase in subscriber signups since switching to Staaw, and the WooCommerce wishlist feature has significantly boosted our repeat customer rate.",
+            "author": "printbusinessowner",
+            "rating": 5
+        }
+    ]
+}

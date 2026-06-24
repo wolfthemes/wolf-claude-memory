@@ -1,0 +1,120 @@
+{
+    "category": [
+        "Music"
+    ],
+    "store_headline": "WordPress Music Theme for Record Labels and Bands",
+    "store_subheadline": "A complete music platform for bands and record labels with discography, events, and merch",
+    "features": [
+        "Artist custom post type with taxonomy connections",
+        "Comprehensive discography management system",
+        "Event listing and grid functionality",
+        "Video gallery with custom player options",
+        "Photo gallery and album management",
+        "Built with WPBakery Page Builder ($99 value)",
+        "Wolf WPBakery Extension with music-specific elements",
+        "Slider Revolution plugin ($109 value) included",
+        "WooCommerce integration for merchandise sales",
+        "Audio player with playlist management",
+        "Content Blocks system for custom headers and footers",
+        "One-click demo import with complete content",
+        "Mobile-optimized responsive design for all devices",
+        "Artist profiles linked to releases, events, and videos"
+    ],
+    "selling_points": [
+        "Artist taxonomy links individual artists to their releases, events, and videos — essential for labels and multi-member bands",
+        "Bridges band and label use cases — equally useful for a five-piece band or a six-act indie label",
+        "Complete WPBakery music feature set: discography, events, videos, photo albums, and WooCommerce in one purchase",
+        "Wolf Playlist Manager delivers in-page audio playback for releases and individual tracks",
+        "Artist profiles are first-class objects — each has its own page, not a sidebar widget",
+        "WooCommerce merch integration built in for bands and labels selling physical and digital goods",
+        "Content Blocks for custom headers and footers that don't require a developer to update",
+        "One-click demo import sets up a full music platform in minutes, not days"
+    ],
+    "theme_style": [
+        "Professional",
+        "Modern",
+        "Dynamic",
+        "Flexible"
+    ],
+    "target_audience": [
+        "Record Labels",
+        "Musicians and Bands",
+        "Music Producers",
+        "DJ's and Electronic Artists",
+        "Music Industry Professionals",
+        "Artist Management Companies"
+    ],
+    "key_benefits": [
+        "Run a label site where each artist profile links releases, events, videos",
+        "Manage multiple artists, side projects, or band members without duplicating pages",
+        "Launch a music platform for a touring band or a growing label",
+        "Sell merchandise and music to fans with WooCommerce built into the theme",
+        "Promote discography and tour dates with audio playback and event listings included",
+        "Build a presence that scales from debut EP to full label roster"
+    ],
+    "included_plugins": [
+        "One-Click Demo Import",
+        "WooCommerce",
+        "Instagram Feed",
+        "Contact Form 7",
+        "Widgets in Menu",
+        "Slider Revolution",
+        "WPBakery Page Builder",
+        "Envato Market",
+        "Wolf Visual Composer",
+        "Wolf VC Content Block",
+        "Wolf Playlist Manager",
+        "Wolf Artists",
+        "Wolf Discography",
+        "Wolf Events",
+        "Wolf Videos",
+        "Wolf Albums",
+        "Wolf Custom Post Meta",
+        "Wolf Metaboxes",
+        "Wolf Video Thumbnail Generator",
+        "Wolf WooCommerce Wishlist"
+    ],
+    "design_features": [
+        "Music-oriented layout templates",
+        "Artist profile showcase options",
+        "Album cover gallery displays",
+        "Video thumbnail galleries",
+        "Multiple header layout variations",
+        "Custom music player with playlist support",
+        "Social sharing integration",
+        "Advanced page transitions and animations"
+    ],
+    "use_cases": [
+        "Record Label Websites",
+        "Band & Musician Portfolios",
+        "Music Festival Sites",
+        "DJ & Electronic Artist Platforms",
+        "Music Producer Showcases",
+        "Artist Management Company Sites",
+        "Music Industry Business Websites"
+    ],
+    "customer_sites": [
+        {
+            "name": "Dymytry",
+            "url": "https://www.dymytry.cz/",
+            "ig_at": "dymytry_cz_official"
+        }
+    ],
+    "testimonials": [
+        {
+            "text": "Thank you greatly for top notch customer support. Both issues were quickly resolved and communication was outstanding.",
+            "author": "hempfulfarms",
+            "rating": 5
+        },
+        {
+            "text": "Big thank you to the developers theme of this complete project. It is one of the fastest out there especially when it comes to the tons of features and customization options this theme has. Purchased, installed and customized in 7 days.. Now we are ready to push our Record Label company to the public once we are over with the copywriting. Thank you and you get 10/10",
+            "author": "Kiranov",
+            "rating": 5
+        },
+        {
+            "text": "This is a great looking theme with tons of flexibility –– maybe too much, as I'm still discovering the many options available! Highly recommended.",
+            "author": "nickfaber",
+            "rating": 5
+        }
+    ]
+}

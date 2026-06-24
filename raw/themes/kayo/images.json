@@ -1,0 +1,65 @@
+{
+    "slug": "kayo",
+    "sections": {
+        "Login": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/19/2018/12/main-home-405x230.jpg",
+                "label": "main-home",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/19/2018/12/one-page-405x230.jpg",
+                "label": "one-page",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/19/2018/12/full-405x230.jpg",
+                "label": "full",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/19/2018/12/blog-home-405x230.jpg",
+                "label": "blog-home",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/19/2018/12/portf-405x230.jpg",
+                "label": "portf",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/19/2018/12/lat-405x230.jpg",
+                "label": "lat",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/19/2018/12/vert-1-405x230.jpg",
+                "label": "vert",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/19/2018/12/2018-12-03_16h49_46-alt-405x230.jpg",
+                "label": "2018-12-03_16h49_46-alt",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/19/2018/12/coming-soon-405x230.jpg",
+                "label": "coming-soon",
+                "section": "Login"
+            }
+        ],
+        "\u2013 Tailored Page Builder": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "\u2013 Tailored Page Builder"
+            }
+        ]
+    },
+    "total": 11
+}

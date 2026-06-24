@@ -1,0 +1,85 @@
+{
+    "slug": "notescape",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/2024/02/logo_notescape.png",
+                "label": "logo-light",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/2024/02/logo_notescape_dark.png",
+                "label": "logo-dark",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/main-home-qkdch2bw96utcoyzvjsc6sk8m9ekqbnum4pw81s47a.jpg",
+                "label": "main-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/band--qkm1fyo4aae1yb693q81lmpkvgap4oguc3lsdk8l6u.jpg",
+                "label": "band-",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/home-alt-qkde4xntkatauk099xfvi6o6qsb80acd6gm9nj0dvq.jpg",
+                "label": "home-alt",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/release-panels-2-ql91w6ehy7hpq7u5mwqj13dznuje0fj749a785kt3a.jpg",
+                "label": "release-panels-2",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/DJ-qkdcoy75l5neqxintyho3sxg0mjfawysd5qj5m3806.jpg",
+                "label": "DJ",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/splash-qkhezdbyzkzdn5qymwaupc9lrv0uwtag3iq25rik3q.jpg",
+                "label": "splash",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/lateral-qkdf0x444cljwvjpi95uum3ufsnuxibjwrs2jhl45i.jpg",
+                "label": "lateral",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/studio-1-qkriubxpouh17orywhtxhd33sdwt1a9apcwr1njzgm.jpg",
+                "label": "studio",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/minimal-home-qkdxfdt8svgmf9a56lw65fyybzgnu098bnvirzceva.jpg",
+                "label": "minimal-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/new-album-qkh7uixlibdr70tvfdhsvnka8iz6m8mvs9aoaucabq.jpg",
+                "label": "new-album",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/link-tree-qkdjyq90y4085d9p8437iqsvts9h0a7mcugopty346.jpg",
+                "label": "link-tree",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/elementor/thumbs/coming-soon-qkuzmrsplcaa6z987dl7gpmgir8rjexp0vi14ikh1i.jpg",
+                "label": "coming-soon",
+                "section": "General"
+            }
+        ],
+        "Building WordPress Themes Since 2011": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/51/2024/10/new-envato-avatar.png",
+                "label": "View",
+                "section": "Building WordPress Themes Since 2011"
+            }
+        ]
+    },
+    "total": 15
+}

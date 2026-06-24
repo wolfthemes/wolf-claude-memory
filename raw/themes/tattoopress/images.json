@@ -1,0 +1,110 @@
+{
+    "slug": "tattoopress",
+    "sections": {
+        "Login": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/06/badge-light.png",
+                "label": "logo-light",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/06/badge-dark.png",
+                "label": "logo-dark",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/06/emblem-600x264.png",
+                "label": "emblem",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/main_home-443x276.jpg",
+                "label": "main_home",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/new_home-443x276.jpg",
+                "label": "new_home",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/lateral-menu-443x276.jpg",
+                "label": "lateral-menu",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/one-page-443x276.jpg",
+                "label": "one-page",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/blog-home-443x276.jpg",
+                "label": "blog-home",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/shop_home-443x276.jpg",
+                "label": "shop_home",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/interactive-links-443x276.jpg",
+                "label": "interactive-links",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/animated-panels-443x276.jpg",
+                "label": "animated-panels",
+                "section": "Login"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/coming-soon-443x276.jpg",
+                "label": "coming-soon",
+                "section": "Login"
+            }
+        ],
+        "One-Click Demo Install": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/about-us-443x276.jpg",
+                "label": "about-us",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/about-me-443x276.jpg",
+                "label": "about-me",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/artist-443x276.jpg",
+                "label": "artist",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/contact-443x276.jpg",
+                "label": "contact",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/faq-443x276.jpg",
+                "label": "faq",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/404-443x276.jpg",
+                "label": "404",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/5stars.png",
+                "label": "View",
+                "section": "One-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/27/2019/07/default-user-2962fd43ee315eafee8bfc08f02fee84687beb0499de44e5ab2873399944b0fe.jpg",
+                "label": "testimonial-avatar",
+                "section": "One-Click Demo Install"
+            }
+        ]
+    },
+    "total": 20
+}

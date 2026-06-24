@@ -1,0 +1,90 @@
+{
+    "slug": "spectacle",
+    "sections": {
+        "Contact Info": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/main_home-1-pgyz4hlccf74dq0dywbqhqsvehia8epjp2ycna4lly.jpg",
+                "label": "main_home",
+                "section": "Contact Info"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/band-home-1-ph60h38ey8m2pdtu2bt1h6xko384ncv3nv6tdax6cm.jpg",
+                "label": "band-home",
+                "section": "Contact Info"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/one-page-pgyzelcvtb136tbzyrkcsp09alpbz9to33f9dd58py.jpg",
+                "label": "one-page",
+                "section": "Contact Info"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/parallax-pgyz8pv73kzkmjv79q5apodjmwnqvdi2a0n0e3utly.jpg",
+                "label": "parallax",
+                "section": "Contact Info"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/beat_maker-pgtzaefg5wnqthzg3frfughlobgo27129bljftbluu.jpg",
+                "label": "beat_maker",
+                "section": "Contact Info"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/medias_home-pgyzbuntvp9zbrbcz2wj0vwux57sj1xupix9zb7kva.jpg",
+                "label": "medias_home",
+                "section": "Contact Info"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/interacctive-thumbs-pgyz930xr9hl53c34vu2ol1zyauvv4yaztrt3zbb6u.jpg",
+                "label": "interacctive-thumbs",
+                "section": "Contact Info"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/interactive-links-pgyz9pl2bacgvqfbh5l4cfd27jrozvfv2xfgmmdv1i.jpg",
+                "label": "interactive-links",
+                "section": "Contact Info"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/coming_soon-pgz0axyx11bcrocc28z4414db093w993j7puz76gkm.jpg",
+                "label": "coming_soon",
+                "section": "Contact Info"
+            }
+        ],
+        "One-click Demo Install": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/about-us-pgz6drsa3ivhnkhd9c7d3b6jxbocvizhabaa38py06.jpg",
+                "label": "about-us",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/about-me-pgz6m5ih1ccj6eb3bgmltp1im0d6id9bfsp552akiu.jpg",
+                "label": "about-me",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/contact-us-pgz6dxfb8j37l896cen4i9rbhmwk5plvb376ywhkyu.jpg",
+                "label": "contact-us",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/get-in-touch-pgz6e32cdjaxiw0zfh2vx8c31y4rfw89bv43uk97xi.jpg",
+                "label": "get-in-touch",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/the-studio-pgz6hbmbwzqhijboivgmiex8pq69yd2z3w0bcvgehy.jpg",
+                "label": "the-studio",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/41/elementor/thumbs/the-band-pgz6h0c9mzb1n7s2cql3ohrpl3pvdzu72c6hljx4km.jpg",
+                "label": "the-band",
+                "section": "One-click Demo Install"
+            }
+        ]
+    },
+    "total": 16
+}

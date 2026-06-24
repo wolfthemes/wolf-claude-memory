@@ -1,0 +1,105 @@
+{
+    "slug": "beatit",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/07/Toxic-Glitch-Text.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/2019-08-20_16h15_38-683x390.jpg",
+                "label": "2019-08-20_16h15_38",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/solo-artist-683x390.jpg",
+                "label": "solo-artist",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/lateral-menu-443x253.jpg",
+                "label": "lateral-menu",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/one-page-443x253.jpg",
+                "label": "one-page",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/horizontal-443x253.jpg",
+                "label": "horizontal",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/interactive-links-443x253.jpg",
+                "label": "interactive-links",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/tabs-443x253.jpg",
+                "label": "tabs",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/split-443x253.jpg",
+                "label": "split",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/news-home-443x253.jpg",
+                "label": "news-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/animated-panel-443x253.jpg",
+                "label": "animated-panel",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/coming-soon-443x253.jpg",
+                "label": "coming-soon",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/about-us-443x253.jpg",
+                "label": "about-us",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/about-me-1-443x253.jpg",
+                "label": "about-me",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/the-band-443x253.jpg",
+                "label": "the-band",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/contact-us-443x253.jpg",
+                "label": "contact-us",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/maintenance-443x253.jpg",
+                "label": "maintenance",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/custom-404-443x253.jpg",
+                "label": "custom-404",
+                "section": "General"
+            }
+        ],
+        "One-click Demo Install": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/29/2019/08/5-stars.png",
+                "label": "View",
+                "section": "One-click Demo Install"
+            }
+        ]
+    },
+    "total": 19
+}

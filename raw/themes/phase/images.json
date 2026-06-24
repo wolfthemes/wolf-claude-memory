@@ -1,0 +1,207 @@
+{
+    "slug": "phase",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview.wolfthemes.store/app/uploads/sites/12/2018/03/logo.svg",
+                "label": "logo-svg",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/main-home-1-748x418.jpg",
+                "label": "Main Home",
+                "section": "General"
+            }
+        ],
+        "Main Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/band-home-2-356x418.jpg",
+                "label": "Band Home",
+                "section": "Main Home"
+            }
+        ],
+        "Band Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/artists-home-1-356x418.jpg",
+                "label": "Artists Home",
+                "section": "Band Home"
+            }
+        ],
+        "Artists Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/girl-1-748x418.jpg",
+                "label": "Geometrik",
+                "section": "Artists Home"
+            }
+        ],
+        "Geometrik": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/interactive-links-3-748x418.jpg",
+                "label": "Interactive Links",
+                "section": "Geometrik"
+            }
+        ],
+        "Interactive Links": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/home-discography-1-356x418.jpg",
+                "label": "Discography Home",
+                "section": "Interactive Links"
+            }
+        ],
+        "Discography Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/home-shop-1-356x418.jpg",
+                "label": "Shop Home",
+                "section": "Discography Home"
+            }
+        ],
+        "Shop Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/ancient-1-748x418.jpg",
+                "label": "New Ancient",
+                "section": "Shop Home"
+            }
+        ],
+        "New Ancient": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/animated-panels-748x418.jpg",
+                "label": "Animated Panels",
+                "section": "New Ancient"
+            }
+        ],
+        "Animated Panels": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/home-blog-1-356x418.jpg",
+                "label": "Blog Home",
+                "section": "Animated Panels"
+            }
+        ],
+        "Blog Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/buy-now-1-356x418.jpg",
+                "label": "buy-now",
+                "section": "Blog Home"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/coming-soon-1-748x418.jpg",
+                "label": "Coming Soon",
+                "section": "Blog Home"
+            }
+        ],
+        "Coming Soon": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "Coming Soon"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/about-us-2-550x646.jpg",
+                "label": "About Us",
+                "section": "Coming Soon"
+            }
+        ],
+        "About Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/404-1-570x320.jpg",
+                "label": "404",
+                "section": "About Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/about-me-570x320.jpg",
+                "label": "About Me",
+                "section": "About Us"
+            }
+        ],
+        "About Me": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/services-4-550x646.jpg",
+                "label": "What We do",
+                "section": "About Me"
+            }
+        ],
+        "What We do": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/contact-us-2-550x646.jpg",
+                "label": "Contact Us",
+                "section": "What We do"
+            }
+        ],
+        "Contact Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/maintenance-1-570x320.jpg",
+                "label": "Maintenance",
+                "section": "Contact Us"
+            }
+        ],
+        "Maintenance": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/Zoe-Nolan-\u2013-Phase-1-500x586.jpg",
+                "label": "Zoe-Nolan-\u2013-Phase",
+                "section": "Maintenance"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/River-Kerry-\u2013-Phase-2-500x926.jpg",
+                "label": "River-Kerry-\u2013-Phase",
+                "section": "Maintenance"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/Frankie-Jones-\u2013-Phase-1-500x1825.jpg",
+                "label": "Frankie-Jones-\u2013-Phase",
+                "section": "Maintenance"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/2018-05-08_12h20_26.jpg",
+                "label": "2018-05-08_12h20_26",
+                "section": "Maintenance"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/Herman-Child-\u2013-Phase-1-500x966.jpg",
+                "label": "Herman-Child-\u2013-Phase",
+                "section": "Maintenance"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/Sans-titre-1-1-500x663.jpg",
+                "label": "Sans-titre-1",
+                "section": "Maintenance"
+            }
+        ],
+        "One-click Demo Install": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/single-gallery.jpg",
+                "label": "single-gallery",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/04/single-release.jpg",
+                "label": "Single Release",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/single-event-1.jpg",
+                "label": "Single Event",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/04/single-post.jpg",
+                "label": "single-post",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/12/2018/05/techandall_shadow_series_apple_iDevices-1-1140x606.jpg",
+                "label": "techandall_shadow_series_apple_iDevices",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "One-click Demo Install"
+            }
+        ]
+    },
+    "total": 33
+}

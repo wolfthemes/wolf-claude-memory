@@ -1,0 +1,68 @@
+{
+    "slug": "covenant",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/2025/10/logo-white.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/elementor/thumbs/Main-Home-rdkrp6edrwsdjte04m6vd2yrzbcmaqmde9n71xyr1o.jpg",
+                "label": "Main-Home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/elementor/thumbs/Home-Alt-\u2013-Covenant-rdkrqj9znanabjf077bgyqmqvcnpf00ewzkg0bya24.jpg",
+                "label": "Home-Alt-\u2013-Covenant",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/elementor/thumbs/Home-\u2013-Cathedral-\u2013-Covenant-rdkrqn1cemsflz9jl8xz8pol8w569sfc9i6dxfspd8.jpg",
+                "label": "Home-\u2013-Cathedral-\u2013-Covenant",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/elementor/thumbs/Home-\u2013-Ministry-Focus-\u2013-Covenant-rdkrqrqjcsyv812ptsz436hw7ti0c9xzy5ftbtlqi4.jpg",
+                "label": "Home-\u2013-Ministry-Focus-\u2013-Covenant",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/elementor/thumbs/Home-\u2013-Modern-\u2013-Covenant-rdkrq9vlqyaf3fsnq3979t04xhy1a0z3jp1l7kc7sc.jpg",
+                "label": "Home-\u2013-Modern-\u2013-Covenant",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/elementor/thumbs/Church-Shop-\u2013-Covenant-rdkrqfimvyi513kgt5oyorkwht68k7lhkgyi383ur0.jpg",
+                "label": "Church-Shop-\u2013-Covenant",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/elementor/thumbs/pages-marquee-rdkz2hcxtgumakdgo2bq8oszt1lg975lsy1b1nx6r4.jpg",
+                "label": "pages-marquee",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/2025/10/open-book-150x150.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/2025/10/hands-150x150.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/2025/10/international-day-of-non-violence-150x150.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/61/2025/10/growing-seed-150x150.png",
+                "label": "View",
+                "section": "General"
+            }
+        ]
+    },
+    "total": 12
+}

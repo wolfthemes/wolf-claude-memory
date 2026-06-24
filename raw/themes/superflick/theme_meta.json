@@ -1,0 +1,116 @@
+{
+    "category": [
+        "Video",
+        "Entertainment",
+        "Film"
+    ],
+    "store_headline": "WordPress Theme for Filmmakers and Video Agencies",
+    "store_subheadline": "Build a cinematic portfolio site with video galleries, portfolio layouts, and a built-in WooCommerce store.",
+    "features": [
+        "Elegant video-oriented design",
+        "Built with WPBakery Page Builder ($99 value) included",
+        "Wolf Visual Composer extension with custom video elements",
+        "Slider Revolution plugin included",
+        "Comprehensive video gallery management system",
+        "Portfolio functionality for showcasing creative work",
+        "Wolf Videos for optimal video management",
+        "Video thumbnail generator for professional previews",
+        "WooCommerce integration for selling products",
+        "Content Blocks system for custom headers and footers",
+        "One-click demo import with complete content",
+        "Mobile-optimized responsive design for all devices",
+        "Multiple blog layout options for video content",
+        "Social sharing integration across multiple platforms",
+        "Customized video embedding and player options"
+    ],
+    "selling_points": [
+        "The only filmmaking portfolio theme in the catalog — built for directors and video agencies",
+        "Full-screen video reel integration that turns your homepage into a showreel",
+        "Cinematic dark aesthetic modeled on the visual language of professional film — letterbox layout and credits-style typography",
+        "Portfolio layouts purpose-built for video project case studies, not repurposed from photography templates",
+        "WooCommerce for service packages — sell production retainers, license fees, or post-production packages directly",
+        "Wolf Videos keeps your entire reel organized and categorized across genres and clients",
+        "Distinct from MegaHertz — Superflick targets working film pros and agencies, not YouTube personalities",
+        "One-click demo import sets up a complete filmmaker site in minutes"
+    ],
+    "theme_style": [
+        "Elegant",
+        "Modern",
+        "Professional",
+        "Cinematic"
+    ],
+    "target_audience": [
+        "Movie Studios",
+        "Video Artists",
+        "Filmmakers",
+        "Vloggers",
+        "Video Agencies",
+        "Film Directors",
+        "Cinema Production Companies",
+        "Video Game Studios"
+    ],
+    "key_benefits": [
+        "Build a portfolio that stops a creative director mid-scroll",
+        "Showcase client work, branded films, and commercial reels in one gallery",
+        "Launch a cinematic agency site with a built-in dark film aesthetic",
+        "Sell production packages and service tiers directly through WooCommerce",
+        "Convert inquiries with portfolio case studies that walk prospects through your process",
+        "Attract high-budget clients by presenting your work at a professional level"
+    ],
+    "included_plugins": [
+        "One-Click Demo Import",
+        "WooCommerce",
+        "Instagram Feed",
+        "Contact Form 7",
+        "Slider Revolution",
+        "WPBakery Page Builder",
+        "Envato Market",
+        "Wolf Video Thumbnail Generator",
+        "Wolf Visual Composer",
+        "Wolf VC Content Block",
+        "Wolf Portfolio",
+        "Wolf Custom Post Meta",
+        "Wolf Videos",
+        "Wolf Metaboxes",
+        "Wolf WooCommerce Wishlist"
+    ],
+    "design_features": [
+        "Film and video-focused design elements",
+        "Cinematic layout templates",
+        "Video gallery display options",
+        "Film reel and showreel layouts",
+        "Multiple header styles with video options",
+        "Custom video player styling",
+        "Trailer and promotional video sections",
+        "Elegant typography for film credits",
+        "Professional film and video portfolio templates"
+    ],
+    "use_cases": [
+        "Film Studio Websites",
+        "Videographer Portfolios",
+        "Movie Promotion Sites",
+        "Video Production Company Websites",
+        "Vlogger Online Presence",
+        "Film Director Portfolios",
+        "Video Game Studio Sites",
+        "Film Festival Websites"
+    ],
+    "customer_sites": [],
+    "testimonials": [
+        {
+            "text": "I first chose this theme for the quality of the design, the numerous display possibilities, the nice integration of videos. Then I was very happy with the technical support which is very competent and reactive, always there to help me implement my ideas and I am very demanding.",
+            "author": "Pierre_Wolff",
+            "rating": 5
+        },
+        {
+            "text": "This theme was very easy to get up and running and easy to customize both through the WP admin and through code. Looks great.",
+            "author": "wordsmithadvertising",
+            "rating": 5
+        },
+        {
+            "text": "Amazing theme! i'm very happy with it and hope they will continue updating it for a very long time :)",
+            "author": "marcangele",
+            "rating": 5
+        }
+    ]
+}

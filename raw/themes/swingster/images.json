@@ -1,0 +1,124 @@
+{
+    "slug": "swingster",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/2021/05/logo_dark-2.png",
+                "label": "loading logo",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/2021/05/logo_light-2.png",
+                "label": "logo-light",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/main-home-p7z9z81gwjy6h9orb7uihxyoyli81h9gidw05ttdae.jpg",
+                "label": "main-home",
+                "section": "General"
+            }
+        ],
+        "Main Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/band-home-p7s4l245xd9o7jb47d83vq77xv92ly8c74nky6um4m.jpg",
+                "label": "band-home",
+                "section": "Main Home"
+            }
+        ],
+        "Band Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/solor-artist-p7z9vtug83awjym94r10hssrqi8i8tscpl2vruujra.jpg",
+                "label": "solor-artist",
+                "section": "Band Home"
+            }
+        ],
+        "Solo Artist": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/one-page-p7z9vji84wwr0919t4k48dep79ngw5nb05wjht9vnq.jpg",
+                "label": "one-page",
+                "section": "Solo Artist"
+            }
+        ],
+        "One-Page": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/full-page-slider-p7za7v61qps3874tugc0x9g9l4wptakm15tq0f022u.jpg",
+                "label": "full-page-slider",
+                "section": "One-Page"
+            }
+        ],
+        "Full Page Slider": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/blog-home-p7s2a9hxxpxfk1kmo2u4r4ck91c5lqjhtbyw5rm07a.jpg",
+                "label": "blog-home",
+                "section": "Full Page Slider"
+            }
+        ],
+        "Blog Home": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "Blog Home"
+            }
+        ],
+        "Stellar Support": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/2021/06/envato-icon.png",
+                "label": "View",
+                "section": "Stellar Support"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/about-us-p7zanx8shtrfkdt52w7l0pkqx3rgb5bj8n1c5l6xs6.jpg",
+                "label": "about-us",
+                "section": "Stellar Support"
+            }
+        ],
+        "About Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/about-me-p7zanrlrctjpmq1bztrtlqzzcsj90yp57v4f9xfati.jpg",
+                "label": "about-me",
+                "section": "About Us"
+            }
+        ],
+        "About Me": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/the-band-p7zanl0w0zapdgaw28xfmanr73foj2z0uyk0wzp212.jpg",
+                "label": "the-band",
+                "section": "About Me"
+            }
+        ],
+        "The Band": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/contact-us-p7zao7l0l05l43e4eioha4ytgcchntgky27ofmrlvq.jpg",
+                "label": "contact-us",
+                "section": "The Band"
+            }
+        ],
+        "Contact Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/coming-soon-p7zao2vtmtz5i1ky5yncfo5iheznlbxx9ey918ykqu.jpg",
+                "label": "coming-soon",
+                "section": "Contact Us"
+            }
+        ],
+        "Coming Soon": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/elementor/thumbs/maintenance-p7zanfduvz2zfsj2z6ho7c2zms7h8wcmu6n41bxf2e.jpg",
+                "label": "maintenance",
+                "section": "Coming Soon"
+            }
+        ],
+        "Maintenance": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/37/2021/05/logo_light-2.png",
+                "label": "View",
+                "section": "Maintenance"
+            }
+        ]
+    },
+    "total": 18
+}

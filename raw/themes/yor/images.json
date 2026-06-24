@@ -1,0 +1,104 @@
+{
+    "slug": "yor",
+    "sections": {
+        "General": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/main-home-qqwozovylkd76s62kesc617dczat0mujphddf6mvxw.jpg",
+                "label": "main-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/home-alt-qqwp0iyso9idiaydorsedtm4db6juy5yhm8ws1eaes.jpg",
+                "label": "home-alt",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/hover-grid-qqwp0nnzmfot4crjxbtj8affc8jdxfom69ic6f7bjo.jpg",
+                "label": "hover-grid",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/Sans-titre-1-qr59g2wp1tfsjef8qce2hvnsbz6emui6f3v6mi1ook.jpg",
+                "label": "Sans-titre-1",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/full-slider-qqwp07oqe92xmzerimwvjwgl8oq5akx6g2f30pv0hg.jpg",
+                "label": "full-slider",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/galleries-qqwp0dbrj9ankn6klpcmyv1cszyckrjkgubzwdmng4.jpg",
+                "label": "galleries",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/One-Page-\u2013-Yor-qqwozyachwq2evsf1iuluytzau0h5lvv2rw87y8y7o.jpg",
+                "label": "One-Page-\u2013-Yor",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/Portfolio-Grid-w-Overlay-\u2013-Yor-qrdpidgo083754bl2ftry4c6ewailrj3287yzdv9ys.jpg",
+                "label": "Portfolio-Grid-w-Overlay-\u2013-Yor",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/scroller-qqwp02zjg2wi0xlla2vqpfna9rdb83eirf5nmc1zck.jpg",
+                "label": "scroller",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/elementor/thumbs/minimal-qqwoztl5jqjmstz8syth0i0obwnn34d7e4mstkfx2s.jpg",
+                "label": "minimal",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/2024/07/laptop.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/2024/07/phone.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/2024/07/ipad.png",
+                "label": "View",
+                "section": "General"
+            }
+        ],
+        "The Most Elegant Way to Showcase Your Art": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/2024/07/marquee-bg.jpg",
+                "label": "View",
+                "section": "The Most Elegant Way to Showcase Your Art"
+            }
+        ],
+        "Appealing Shopping Experience": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/2024/07/tablet-mockup-768x693.png",
+                "label": "View",
+                "section": "Appealing Shopping Experience"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/2024/07/browser-mockup.png",
+                "label": "View",
+                "section": "Appealing Shopping Experience"
+            }
+        ],
+        "Rich Blog Features": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/54/2024/07/tablet-mockup-1-768x693.png",
+                "label": "View",
+                "section": "Rich Blog Features"
+            }
+        ]
+    },
+    "total": 18
+}

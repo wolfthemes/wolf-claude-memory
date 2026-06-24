@@ -1,0 +1,195 @@
+{
+    "slug": "snakepit",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/01/logo_light.png",
+                "label": "logo-light",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/01/logo_darkt.png",
+                "label": "logo-dark",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/small-separtor-center.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/main-home-405x246.jpg",
+                "label": "main-home",
+                "section": "General"
+            }
+        ],
+        "Main Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/homeii-405x246.jpg",
+                "label": "homeii",
+                "section": "Main Home"
+            }
+        ],
+        "Home II": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/homeiii-405x246.jpg",
+                "label": "homeiii",
+                "section": "Home II"
+            }
+        ],
+        "Home III": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/splash-header-405x246.jpg",
+                "label": "splash-header",
+                "section": "Home III"
+            }
+        ],
+        "Splash Header": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/standard-header-1-405x246.jpg",
+                "label": "standard-header",
+                "section": "Splash Header"
+            }
+        ],
+        "Standard Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/home-slider-405x246.jpg",
+                "label": "home-slider",
+                "section": "Standard Home"
+            }
+        ],
+        "Slider Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/featured-releases-405x246.jpg",
+                "label": "featured-releases",
+                "section": "Slider Home"
+            }
+        ],
+        "Release Showcase": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/blocks-1-405x246.jpg",
+                "label": "blocks",
+                "section": "Release Showcase"
+            }
+        ],
+        "Blocks Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/one-page-405x246.jpg",
+                "label": "one-page",
+                "section": "Blocks Home"
+            }
+        ],
+        "One-Page Panels": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/portfolio-405x246.jpg",
+                "label": "portfolio",
+                "section": "One-Page Panels"
+            }
+        ],
+        "Portfolio Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/blog-home-405x246.jpg",
+                "label": "blog-home",
+                "section": "Portfolio Home"
+            }
+        ],
+        "Blog Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/boxed-405x246.jpg",
+                "label": "boxed",
+                "section": "Blog Home"
+            }
+        ],
+        "Boxed Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/video-splash-405x246.jpg",
+                "label": "video-splash",
+                "section": "Boxed Home"
+            }
+        ],
+        "Video Splash": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/interactive-links-405x246.jpg",
+                "label": "interactive-links",
+                "section": "Video Splash"
+            }
+        ],
+        "Interactive Links": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/03/store-home-405x246.jpg",
+                "label": "store-home",
+                "section": "Interactive Links"
+            }
+        ],
+        "Store Home": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "Store Home"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "Store Home"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/small-separtor-center.png",
+                "label": "View",
+                "section": "Store Home"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/about-us-1-410x482.jpg",
+                "label": "about-us",
+                "section": "Store Home"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/404-405x246.jpg",
+                "label": "404",
+                "section": "Store Home"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/about-me-405x246.jpg",
+                "label": "about-me",
+                "section": "Store Home"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/the-band-2-410x482.jpg",
+                "label": "the-band",
+                "section": "Store Home"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/contact-1-550x646.jpg",
+                "label": "contact",
+                "section": "Store Home"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/coming-soon-405x246.jpg",
+                "label": "coming-soon",
+                "section": "Store Home"
+            }
+        ],
+        "One-click Demo Install": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/21/2019/02/small-separtor-center.png",
+                "label": "View",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "One-click Demo Install"
+            }
+        ]
+    },
+    "total": 31
+}

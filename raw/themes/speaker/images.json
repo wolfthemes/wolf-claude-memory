@@ -1,0 +1,18 @@
+{
+    "slug": "speaker",
+    "sections": {
+        "Follow Us": [
+            {
+                "url": "https://preview.wolfthemes.store/app/themes/speaker/assets/img/t/speaker/svg/bag.svg",
+                "label": "Cart Icon",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview.wolfthemes.store/app/themes/speaker/assets/img/t/speaker/svg/user.svg",
+                "label": "Account Icon",
+                "section": "Follow Us"
+            }
+        ]
+    },
+    "total": 2
+}

@@ -1,0 +1,112 @@
+{
+    "category": [
+        "Music",
+        "Urban"
+    ],
+    "store_headline": "Urban Music WordPress Theme for Artists and Labels",
+    "store_subheadline": "Launch a music site with discography, artist pages, events, videos, and merch in one place.",
+    "features": [
+        "Built with Elementor page builder for easy customization",
+        "Artist custom post type with bios and media galleries",
+        "Comprehensive discography management system",
+        "Event listing and tour date functionality",
+        "Video gallery with custom player options",
+        "Spotify integration for streaming tracks",
+        "Wolf Core plugin with music-specific elements for Elementor",
+        "WooCommerce integration for merchandise sales",
+        "Audio player with playlist management",
+        "Content Blocks system for custom headers and footers",
+        "One-click demo import with complete content",
+        "Mobile-optimized responsive design for all devices",
+        "Slider Revolution plugin ($109 value) included"
+    ],
+    "selling_points": [
+        "Urban music aesthetic built for mainstream hip-hop and R&B — the chart-oriented counterpart to Hyperbent's underground darkness",
+        "Wolf Artists creates individual artist pages linked to releases, events, and videos — solo act or label",
+        "Comprehensive feature set — discography, artist pages, events, videos, merch — without third-party plugins",
+        "Elementor-powered so urban artists can update drops, tour dates, and content without a developer",
+        "Spotify integration for streaming tracks directly from artist and release pages",
+        "WooCommerce merch store built in — sell limited drops and branded gear without a separate store",
+        "Street-level contemporary visual identity that mainstream hip-hop and R&B artists recognize as their own"
+    ],
+    "theme_style": [
+        "Urban",
+        "Modern",
+        "Dynamic",
+        "Bold"
+    ],
+    "target_audience": [
+        "Musicians and Bands",
+        "Record Labels",
+        "Urban Artists",
+        "Music Producers",
+        "DJ's and Electronic Artists",
+        "Rappers and Hip-Hop Artists",
+        "Beat Makers",
+        "Recording Studios"
+    ],
+    "key_benefits": [
+        "Build a complete urban music platform without stitching together multiple themes",
+        "Manage an artist roster or solo career with the same taxonomy system",
+        "Attract industry attention with a mainstream visual identity, not DIY",
+        "Sell merch and promote tours from one site fans take seriously",
+        "Convert fan visits into merch purchases with WooCommerce at theme level",
+        "Showcase streaming, live, visual, and retail from a single cohesive platform"
+    ],
+    "included_plugins": [
+        "One-Click Demo Import",
+        "WooCommerce",
+        "Variation Swatches for WooCommerce",
+        "Instagram Feed",
+        "Contact Form 7",
+        "Elementor",
+        "Slider Revolution",
+        "Envato Market",
+        "Wolf Core",
+        "Wolf Playlist Manager",
+        "Wolf Portfolio",
+        "Wolf Discography",
+        "Wolf Artists",
+        "Wolf Events",
+        "Wolf Videos",
+        "Wolf Video Thumbnail Generator"
+    ],
+    "design_features": [
+        "Urban-oriented layout templates",
+        "Artist profile showcase options",
+        "Album cover display galleries",
+        "Video thumbnail galleries",
+        "Multiple header layout variations",
+        "Custom music player with playlist support",
+        "Social sharing integration",
+        "Advanced animations and effects"
+    ],
+    "use_cases": [
+        "Urban Music Artist Websites",
+        "Hip-Hop & Rap Artist Sites",
+        "Record Label Online Presence",
+        "Music Producer Portfolios",
+        "DJ & Electronic Artist Sites",
+        "Beat Maker Showcases",
+        "Recording Studio Websites"
+    ],
+    "customer_sites": [
+        {
+            "name": "Kamelot",
+            "url": "https://kamelot.com/",
+            "ig_at": "kamelotofficial"
+        }
+    ],
+    "testimonials": [
+        {
+            "text": "This is the second Wolf Themes theme we've used. They are great themes. Just had an excellent support request solved as well as I could of asked as well.",
+            "author": "cosmicfantasia",
+            "rating": 5
+        },
+        {
+            "text": "TSuperb theme - superb up-to-date design. Support is great - please ignore my previous comments - once these guys figured out what the issue was they were right on it. Very easy to customise this theme as well - highly recommended.",
+            "author": "Bobbafet",
+            "rating": 5
+        }
+    ]
+}

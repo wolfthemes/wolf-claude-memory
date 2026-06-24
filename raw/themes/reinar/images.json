@@ -1,0 +1,105 @@
+{
+    "slug": "reinar",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/loader_light.png",
+                "label": "loading logo",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2018/12/small_logo.png",
+                "label": "logo-light",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2018/12/small_logo_dark.png",
+                "label": "logo-dark",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2017/11/maxresdefault.jpg",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/main-home-632x360.jpg",
+                "label": "main-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/fire-home-632x360.jpg",
+                "label": "fire-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/home-news-1-410x234.jpg",
+                "label": "home-news",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/interactive-links-410x234.jpg",
+                "label": "interactive-links",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/one-page-panels-410x234.jpg",
+                "label": "one-page-panels",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/home-portfolio-410x234.jpg",
+                "label": "home-portfolio",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/coming-soon-410x234.jpg",
+                "label": "coming-soon",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/home-store-410x234.jpg",
+                "label": "home-store",
+                "section": "General"
+            }
+        ],
+        "1-Click Demo Install": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "1-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/aboutt-us-632x360.jpg",
+                "label": "aboutt-us",
+                "section": "1-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/about-me-632x360.jpg",
+                "label": "about-me",
+                "section": "1-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/contact-us-410x234.jpg",
+                "label": "contact-us",
+                "section": "1-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/404-410x234.jpg",
+                "label": "404",
+                "section": "1-Click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/20/2019/01/maintenance-410x234.jpg",
+                "label": "maintenance",
+                "section": "1-Click Demo Install"
+            }
+        ]
+    },
+    "total": 19
+}

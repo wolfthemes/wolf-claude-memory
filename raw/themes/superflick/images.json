@@ -1,0 +1,210 @@
+{
+    "slug": "superflick",
+    "sections": {
+        "Recent Posts": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "Recent Posts"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "Recent Posts"
+            }
+        ],
+        "Superflick has the perfect solution for you": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/animate-panels-l-748x418.jpg",
+                "label": "Animated Panels",
+                "section": "Superflick has the perfect solution for you"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/about-us-355x203.jpg",
+                "label": "About Us",
+                "section": "Superflick has the perfect solution for you"
+            }
+        ],
+        "Animated Panels": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/main-home-p-356x418.jpg",
+                "label": "Main Home",
+                "section": "Animated Panels"
+            }
+        ],
+        "Main Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/one-page-p-356x418.jpg",
+                "label": "One-Page",
+                "section": "Main Home"
+            }
+        ],
+        "One-Page": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/slider-rpes-l-1-748x418.jpg",
+                "label": "Movie Presentation",
+                "section": "One-Page"
+            }
+        ],
+        "Movie Presentation": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/overlays-l-1-748x418.jpg",
+                "label": "Overlays",
+                "section": "Movie Presentation"
+            }
+        ],
+        "Overlays": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/vlogger-p-356x418.jpg",
+                "label": "Vlog",
+                "section": "Overlays"
+            }
+        ],
+        "Vlog": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/home-portrait-356x418.jpg",
+                "label": "Agency",
+                "section": "Vlog"
+            }
+        ],
+        "Agency": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/carousel-l-748x418.jpg",
+                "label": "Trailer Carousel",
+                "section": "Agency"
+            }
+        ],
+        "Trailer Carousel": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/full-vid-l-1-356x199.jpg",
+                "label": "Fullscreen Video",
+                "section": "Trailer Carousel"
+            }
+        ],
+        "Fullscreen Video": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/splash-356x199.jpg",
+                "label": "splash",
+                "section": "Fullscreen Video"
+            }
+        ],
+        "splash": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/vfol-l-356x199.jpg",
+                "label": "Vfolio",
+                "section": "splash"
+            }
+        ],
+        "Vfolio": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/02/cam.png",
+                "label": "cam",
+                "section": "Vfolio"
+            }
+        ],
+        "Video & Photo Galleries": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/02/glasses.png",
+                "label": "glasses",
+                "section": "Video & Photo Galleries"
+            }
+        ],
+        "Beautiful Portfolio": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/02/target.png",
+                "label": "target",
+                "section": "Beautiful Portfolio"
+            }
+        ],
+        "WooCommerce Store": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/02/bobine.png",
+                "label": "bobine",
+                "section": "WooCommerce Store"
+            }
+        ],
+        "Tailored Page Builder": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/02/tv.png",
+                "label": "tv",
+                "section": "Tailored Page Builder"
+            }
+        ],
+        "Slider Revolution": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/02/popcorn.png",
+                "label": "popcorn",
+                "section": "Slider Revolution"
+            }
+        ],
+        "About Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/process-355x203.jpg",
+                "label": "Process",
+                "section": "About Us"
+            }
+        ],
+        "Process": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/the-crew-355x203.jpg",
+                "label": "The Crew",
+                "section": "Process"
+            }
+        ],
+        "The Crew": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/about-me-2-355x203.jpg",
+                "label": "About Me",
+                "section": "The Crew"
+            }
+        ],
+        "About Me": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/the-movie-355x203.jpg",
+                "label": "The Movie",
+                "section": "About Me"
+            }
+        ],
+        "The Movie": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/contact-us-355x203.jpg",
+                "label": "Contact Us",
+                "section": "The Movie"
+            }
+        ],
+        "Contact Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/coming-soon2-355x203.jpg",
+                "label": "Coming Soon",
+                "section": "Contact Us"
+            }
+        ],
+        "Coming Soon": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/team-member-355x203.jpg",
+                "label": "Team Member",
+                "section": "Coming Soon"
+            }
+        ],
+        "Team Member": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/03/maintenance-355x203.jpg",
+                "label": "Maintenance",
+                "section": "Team Member"
+            }
+        ],
+        "Maintenance": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "Maintenance"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/11/2018/02/688212176_640.jpg",
+                "label": "View",
+                "section": "Maintenance"
+            }
+        ]
+    },
+    "total": 30
+}

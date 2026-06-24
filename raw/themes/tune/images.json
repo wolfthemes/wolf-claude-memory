@@ -1,0 +1,13 @@
+{
+    "slug": "tune",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "General"
+            }
+        ]
+    },
+    "total": 1
+}

@@ -1,0 +1,179 @@
+{
+    "slug": "effigy",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/effigy/2022-01-28_08-36-37_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/effigy/2022-01-28_08-36-04_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/effigy/2022-01-27_15-04-04_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/effigy/2022-01-27_15-03-15_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/effigy/2022-01-27_15-02-41_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-sb-instagram-fallback/theme-images/effigy/2022-01-26_09-57-14_UTC.jpg",
+                "label": "Instagram Fallback Image",
+                "section": "General"
+            }
+        ],
+        "Follow Us": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "mic_bg_beige",
+                "section": "Follow Us"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/main-home-pkjlerr69bh1yfkn3yjdfo9hzi1zhh41qi1747pukg.jpg",
+                "label": "main-home",
+                "section": "Follow Us"
+            }
+        ],
+        "Main Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/home-alt-pkjlf7qfhi2ygmsn8gdnjf0u3qsfomh1ldecdkdwky.jpg",
+                "label": "home-alt",
+                "section": "Main Home"
+            }
+        ],
+        "Home Alt": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/home-blocks-pkjlfajy206semtc26nwtjipv7hbrf6oh32wpqxz40.jpg",
+                "label": "home-blocks",
+                "section": "Home Alt"
+            }
+        ],
+        "Blocks Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/media-cols-pkjleukottkwx9gjnhr955jvrno34kf8qvznk1lo1s.jpg",
+                "label": "media-cols",
+                "section": "Blocks Home"
+            }
+        ],
+        "Media Column Scroll": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/v-card-1-pkjlf23echv8iz0u5dxw4gg2jfk8efunklhfhwm9ma.jpg",
+                "label": "v-card",
+                "section": "Media Column Scroll"
+            }
+        ],
+        "V-Card": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/full-screen-pkjlf4wwwzz2gz1iz485ekxyaw94h8kagb5zu36c5c.jpg",
+                "label": "full-screen",
+                "section": "V-Card"
+            }
+        ],
+        "Full Screen": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/one-page-1-pkjlf07pytsmux8cqk70k44nbywaer1mrnwkfpdb0g.jpg",
+                "label": "one-page",
+                "section": "Full Screen"
+            }
+        ],
+        "One-Page Scroller": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/timeline-pkncypkxm1qs7f20en6g93d8u0djrvqegmtgm9ibzm.jpg",
+                "label": "timeline",
+                "section": "One-Page Scroller"
+            }
+        ],
+        "Release Timeline": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/media-grid-1-pkjlexe7eborw3cg70z4umu9jta6rnqfr9y3zvhhj4.jpg",
+                "label": "media-grid",
+                "section": "Release Timeline"
+            }
+        ],
+        "One-Click demo Install": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "One-Click demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/about-us-pkldvfijg8a5wcoo32sde2aby7tfblyzgp95diuolc.jpg",
+                "label": "about-us",
+                "section": "One-Click demo Install"
+            }
+        ],
+        "About Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/about-me-pkldvxdh22yn1rtxwlfwmskl98aly5jfztx9lffy9e.jpg",
+                "label": "about-me",
+                "section": "About Us"
+            }
+        ],
+        "About Me": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/the-band-pkldvrqfx2qw3a6x3q2ish7bo8573obhudqgm4ckcg.jpg",
+                "label": "the-band",
+                "section": "About Me"
+            }
+        ],
+        "The Band": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/studio-pkldvpurjeobg29nep99nhoehgegoa4164fhnkfcow.jpg",
+                "label": "studio",
+                "section": "The Band"
+            }
+        ],
+        "The Studio": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/contact-us-pkldvk7qeegmj8d21fr4nvw4xu3gye37a0sgvjzgoi.jpg",
+                "label": "contact-us",
+                "section": "The Studio"
+            }
+        ],
+        "Contact Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/get-in-touch-pkldvn18ywkgh8dqv61dy0e0pasd16su5qh17qjj7k.jpg",
+                "label": "get-in-touch",
+                "section": "Contact Us"
+            }
+        ],
+        "Get In Touch": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/coming-soon-pkldvic20qe0v6kkmm093jkpqdfiypa6h37ltcqi2o.jpg",
+                "label": "coming-soon",
+                "section": "Get In Touch"
+            }
+        ],
+        "Coming Soon": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/elementor/thumbs/44-pkldvujyhkus2xy1d280xba7h2oib288zfyt5lk4s2.jpg",
+                "label": "44",
+                "section": "Coming Soon"
+            }
+        ],
+        "404 Error": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "404 Error"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/42/2022/02/5stars.png",
+                "label": "View",
+                "section": "404 Error"
+            }
+        ]
+    },
+    "total": 27
+}

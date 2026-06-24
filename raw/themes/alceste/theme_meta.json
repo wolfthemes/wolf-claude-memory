@@ -1,0 +1,116 @@
+{
+    "category": [
+        "E-commerce",
+        "Fashion"
+    ],
+    "store_headline": "WooCommerce Theme for Urban Fashion Brands",
+    "store_subheadline": "Launch a bold urban fashion store with product quick view, wishlist, and multi-currency built in.",
+    "features": [
+        "Product quick view functionality",
+        "User wishlist system",
+        "Dropdown cart panel for easy shopping",
+        "Login popup for streamlined user experience",
+        "Currency switcher for international sales",
+        "One-click demo import for quick setup",
+        "Custom header and footer builder",
+        "Content Blocks system for reusable sections",
+        "Multiple product layout options (grid, masonry, metro)",
+        "Customizable single product page layouts",
+        "Mobile-optimized responsive design",
+        "Slider Revolution plugin ($109 value) included",
+        "WPBakery Page Builder ($99 value) included with extended features"
+    ],
+    "selling_points": [
+        "Built specifically for streetwear and urban fashion brands, with graffiti-style layouts generic WooCommerce themes can't replicate",
+        "WooCommerce storefront with product quick view, variation swatches, and a slide-out cart for fashion UX",
+        "Lookbook and editorial product layouts let you tell a collection story — not just list SKUs",
+        "Multi-currency support enables international streetwear sales from launch, no additional plugin required",
+        "Wishlist and login popup reduce drop-off for returning customers building their next-season list",
+        "Bold urban identity that speaks to street fashion audiences — distinct from boutique or luxury themes",
+        "Grid, masonry, and metro catalog layouts let you control how each collection drop is presented"
+    ],
+    "theme_style": [
+        "Urban",
+        "Bold",
+        "Streetwear"
+    ],
+    "target_audience": [
+        "Urban Fashion Brands",
+        "Streetwear Labels and Designers",
+        "Independent Fashion Boutiques",
+        "Online Clothing Retailers",
+        "Sneaker and Accessories Brands",
+        "Lifestyle and Apparel Brands",
+        "Emerging Fashion Designers"
+    ],
+    "key_benefits": [
+        "Launch a bold urban fashion store with a streetwear-native aesthetic",
+        "Convert shoppers with quick view, wishlist, and a slide-out cart",
+        "Showcase editorial lookbooks and collection drops — not just product grids",
+        "Sell internationally from day one with built-in multi-currency switching",
+        "Layouts tailored for fashion retail — not general e-commerce",
+        "Position your brand at the intersection of street culture and retail"
+    ],
+    "included_plugins": [
+        "WPBakery Page Builder",
+        "Slider Revolution",
+        "WooCommerce",
+        "WooCommerce Currency Switcher",
+        "Variation Swatches for WooCommerce",
+        "One-Click Demo Import",
+        "Wolf Visual Composer",
+        "Wolf VC Content Block",
+        "Wolf Portfolio",
+        "Wolf Custom Post Meta",
+        "Wolf Metaboxes",
+        "Wolf Video Thumbnail Generator",
+        "Wolf WooCommerce Wishlist",
+        "Wolf WooCommerce Quickview",
+        "Contact Form 7",
+        "Instagram Feed",
+        "Envato Market"
+    ],
+    "design_features": [
+        "E-commerce focused layout templates",
+        "Product showcase options",
+        "Multiple header layout variations",
+        "Advanced scrolling animations",
+        "Smooth page transitions",
+        "Custom cursor options",
+        "Social sharing integration",
+        "Customizable mega menu"
+    ],
+    "use_cases": [
+        "Fashion and Clothing Stores",
+        "Electronics and Tech Shops",
+        "Beauty and Cosmetics Retailers",
+        "Furniture and Home Decor Outlets",
+        "Digital Product Marketplaces",
+        "Handmade and Craft Shops",
+        "Multi-vendor Marketplaces"
+    ],
+    "customer_sites": [
+        {
+            "name": "HireIt",
+            "url": "https://hireit-eventfurniture.com/",
+            "ig_at": "hire.it"
+        }
+    ],
+    "testimonials": [
+        {
+            "text": "Modern design with lots of flexibility. Easy to use with great documentation. 5 stars!",
+            "author": "peson82",
+            "rating": 5
+        },
+        {
+            "text": "Great template with many customizable features and easy to use. Design quality is great with loads of options and easy to read and understand documentation.",
+            "author": "RaeShantael",
+            "rating": 5
+        },
+        {
+            "text": "We love this theme for our agency, it's magnificent, beautifully responsive and the support is very present. We appreciate it a lot!",
+            "author": "USTS",
+            "rating": 5
+        }
+    ]
+}

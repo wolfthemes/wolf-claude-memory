@@ -1,0 +1,83 @@
+{
+    "slug": "omnity",
+    "sections": {
+        "Socials": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "record-record-player-vinyl-turntable-retro-Stock-Footage_2711.jpeg",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/elementor/thumbs/main-home-pnero0x0k1sly81xnb8sxlep3v8pmxhbsofoye966a.jpg",
+                "label": "main-home",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/elementor/thumbs/home-statues-pnerohu3z2frr7dcwik36h4zssxbhhchv06fldk32a.jpg",
+                "label": "home-statues",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/elementor/thumbs/home-grid-pneroe2r7qamgritigxkwi35f9fumoxkihkho9pnr6.jpg",
+                "label": "home-grid",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/elementor/thumbs/animated-discs-pnero4odbdxr8nwh1cvb7kgjheq6hpw9571mvi3lhe.jpg",
+                "label": "animated-discs",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/elementor/thumbs/fullscreen-slider-pnerob98n86rhxmwyxpp70srn3tqzlmdi3m18ftu9u.jpg",
+                "label": "fullscreen-slider",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/elementor/thumbs/clothing-store-pnero7hvvw1m7hsdkw36x1qx9kca4t7g5l03bbzeyq.jpg",
+                "label": "clothing-store",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/2022/04/shop-collage-mobile.jpg",
+                "label": "View",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/2022/04/blog-collage.jpg",
+                "label": "View",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/2022/04/faq-500x283.jpg",
+                "label": "faq",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/2022/04/404-500x283.jpg",
+                "label": "404",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/2022/04/about-me-500x283.jpg",
+                "label": "about-me",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/2022/04/about-us-500x283.jpg",
+                "label": "about-us",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/2022/04/coming-soon-500x283.jpg",
+                "label": "coming-soon",
+                "section": "Socials"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/43/2022/04/contcat-us-500x283.jpg",
+                "label": "contcat-us",
+                "section": "Socials"
+            }
+        ]
+    },
+    "total": 15
+}

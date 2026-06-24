@@ -1,0 +1,72 @@
+{
+    "slug": "gainlab",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/elementor/thumbs/home-qcql5wnwp2dyt0uoa2bdh6cwzvpeotyn2j238yrut4.jpg",
+                "label": "home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/elementor/thumbs/slider-home-qcxdauwzx9sspqeqz4xhpbcot82z8dhnfst26bb2yg.jpg",
+                "label": "slider-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/elementor/thumbs/scrolling-presentation2-qcql8jllvbzxdn0rvpcoz0egzspha9fj3ky4pwv3co.jpg",
+                "label": "scrolling-presentation2",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/elementor/thumbs/home-alt-qcqksssxe8g0wrw2tecnphfisgb5crxdxnkcc27hko.jpg",
+                "label": "home-alt",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/elementor/thumbs/fullscreen-qcqky2obqrny208a0ofap5imsabajmv5zrcf9ydyns.jpg",
+                "label": "fullscreen",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/elementor/thumbs/interactive-links-qcxle0fauud6xhhruhmbjcdowv0yh8cigvggmtm1mg.jpg",
+                "label": "interactive-links",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/elementor/thumbs/shop-home-qcz79cvkkkb5nlbfkiz7h49zogh9ye33wh8806m4l4.jpg",
+                "label": "shop-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/elementor/thumbs/one-page-qd0xa1wo6mp9387b74e3l7ewc1t4g8qcjalcga6awo.jpg",
+                "label": "one-page",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/elementor/thumbs/home-blog-qcxlayg6n86n73xioo2yxm4res30gn7x1r4nhg53ug.jpg",
+                "label": "home-blog",
+                "section": "General"
+            }
+        ],
+        "Building WordPress Themes Since 2011": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/2024/10/new-envato-avatar-150x150.png",
+                "label": "View",
+                "section": "Building WordPress Themes Since 2011"
+            }
+        ],
+        "Offer an Appealing Shopping Experience": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/2023/09/tablet-mockup.png",
+                "label": "View",
+                "section": "Offer an Appealing Shopping Experience"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/49/2023/09/tabouret2.jpg",
+                "label": "View",
+                "section": "Offer an Appealing Shopping Experience"
+            }
+        ]
+    },
+    "total": 12
+}

@@ -1,0 +1,86 @@
+{
+    "slug": "glytch",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/landing-page-logo.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/main-400x229.jpg",
+                "label": "View",
+                "section": "General"
+            }
+        ],
+        "Main Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/yellow-400x229.jpg",
+                "label": "View",
+                "section": "Main Home"
+            }
+        ],
+        "Yellow": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/urban-400x229.jpg",
+                "label": "View",
+                "section": "Yellow"
+            }
+        ],
+        "Urban": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/parallax-400x229.jpg",
+                "label": "View",
+                "section": "Urban"
+            }
+        ],
+        "Parallax Showcase": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/shop-home-400x229.jpg",
+                "label": "View",
+                "section": "Parallax Showcase"
+            }
+        ],
+        "Shop Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/interactive-links-400x229.jpg",
+                "label": "View",
+                "section": "Shop Home"
+            }
+        ],
+        "Interactive Links": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/splash-400x229.jpg",
+                "label": "View",
+                "section": "Interactive Links"
+            }
+        ],
+        "Splash Page": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/videos-400x229.jpg",
+                "label": "View",
+                "section": "Splash Page"
+            }
+        ],
+        "Video Showcase": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/blog-home-400x229.jpg",
+                "label": "View",
+                "section": "Video Showcase"
+            }
+        ],
+        "One-click Demo Install": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing",
+                "section": "One-click Demo Install"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/10/2018/01/5stars.png",
+                "label": "View",
+                "section": "One-click Demo Install"
+            }
+        ]
+    },
+    "total": 12
+}

@@ -1,0 +1,312 @@
+{
+    "slug": "loud",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/10/nav-landing-thumb.jpg",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/02/90369f56662551.59b7c55c2de6b-400x400.jpg",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing Page",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/band-505x325.jpg",
+                "label": "View",
+                "section": "General"
+            }
+        ],
+        "Band": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/main_home-505x325.jpg",
+                "label": "View",
+                "section": "Band"
+            }
+        ],
+        "Main Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/parallax-505x325.jpg",
+                "label": "View",
+                "section": "Main Home"
+            }
+        ],
+        "Parallax Showcase": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/10/solo-505x325.jpg",
+                "label": "View",
+                "section": "Parallax Showcase"
+            }
+        ],
+        "Solo Artist": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/dj-505x325.jpg",
+                "label": "View",
+                "section": "Solo Artist"
+            }
+        ],
+        "DJ": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/splash-505x325.jpg",
+                "label": "View",
+                "section": "DJ"
+            }
+        ],
+        "Splash Page": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/shop-505x325.jpg",
+                "label": "View",
+                "section": "Splash Page"
+            }
+        ],
+        "Shop Home": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/one-page-505x325.jpg",
+                "label": "View",
+                "section": "Shop Home"
+            }
+        ],
+        "One Page": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/minimal-505x325.jpg",
+                "label": "View",
+                "section": "One Page"
+            }
+        ],
+        "Minimal": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/video-505x325.jpg",
+                "label": "View",
+                "section": "Minimal"
+            }
+        ],
+        "Full Screen Video": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/beat-505x325.jpg",
+                "label": "View",
+                "section": "Full Screen Video"
+            }
+        ],
+        "Beat Maker": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/studio-505x325.jpg",
+                "label": "View",
+                "section": "Beat Maker"
+            }
+        ],
+        "Recording Studio": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/album-showcase-505x325.jpg",
+                "label": "View",
+                "section": "Recording Studio"
+            }
+        ],
+        "Album Showcase": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/coming_sooon-505x325.jpg",
+                "label": "View",
+                "section": "Album Showcase"
+            }
+        ],
+        "Coming Soon": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/interactive_links-505x325.jpg",
+                "label": "View",
+                "section": "Coming Soon"
+            }
+        ],
+        "Interactive Links": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/festoche-505x325.jpg",
+                "label": "View",
+                "section": "Interactive Links"
+            }
+        ],
+        "Festival": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/magazine-505x325.jpg",
+                "label": "View",
+                "section": "Festival"
+            }
+        ],
+        "Magazine": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/label-505x325.jpg",
+                "label": "View",
+                "section": "Magazine"
+            }
+        ],
+        "Label": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "Label"
+            }
+        ],
+        "One-click Demo Install": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/layouts.png",
+                "label": "layouts",
+                "section": "One-click Demo Install"
+            }
+        ],
+        "Multiple Layouts": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/options.png",
+                "label": "options",
+                "section": "Multiple Layouts"
+            }
+        ],
+        "Column, Size & Hover Effects Options": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/single.png",
+                "label": "single",
+                "section": "Column, Size & Hover Effects Options"
+            }
+        ],
+        "Custom Single Release Layout": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/Discography-Metro-Loud-500x594.jpg",
+                "label": "Discography-Metro---Loud",
+                "section": "Custom Single Release Layout"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/One-of-the-Hooks-from-the-Album-Loud-e1508946230541-500x562.jpg",
+                "label": "One-of-the-Hooks-from-the-Album---Loud",
+                "section": "Custom Single Release Layout"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/tour-lists-e1508932942939.jpg",
+                "label": "tour-lists",
+                "section": "Custom Single Release Layout"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/Phoenix-AZ-2018-Loud-e1508932887104-540x553.jpg",
+                "label": "Phoenix--AZ-2018---Loud",
+                "section": "Custom Single Release Layout"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/Gallery-Masonry-Loud-e1508948763946-400x455.jpg",
+                "label": "Gallery-Masonry---Loud",
+                "section": "Custom Single Release Layout"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/Videos-Filter-Loud-400x355.jpg",
+                "label": "Videos-Filter---Loud",
+                "section": "Custom Single Release Layout"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/Shop-Home-Loud-e1508934571721-705x752.jpg",
+                "label": "Shop-Home---Loud",
+                "section": "Custom Single Release Layout"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/Product-Custom-Layout-Loud-540x771.jpg",
+                "label": "Product-Custom-Layout---Loud",
+                "section": "Custom Single Release Layout"
+            }
+        ],
+        "Custom Layouts": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/Blog-Masonry-Boxed-Loud-e1508954197788.jpg",
+                "label": "View",
+                "section": "Custom Layouts"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/Find-Your-Way-Loud-e1508954033785-400x410.jpg",
+                "label": "Find-Your-Way---Loud",
+                "section": "Custom Layouts"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing Page",
+                "section": "Custom Layouts"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/envato-300x300-150x150.png",
+                "label": "testimonial-avatar",
+                "section": "Custom Layouts"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/stars.png",
+                "label": "View",
+                "section": "Custom Layouts"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/about_me-505x325.jpg",
+                "label": "View",
+                "section": "Custom Layouts"
+            }
+        ],
+        "About Me": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/contact_me-505x325.jpg",
+                "label": "View",
+                "section": "About Me"
+            }
+        ],
+        "Contact Me": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/the_band-505x325.jpg",
+                "label": "View",
+                "section": "Contact Me"
+            }
+        ],
+        "The Band": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/contact_us-505x325.jpg",
+                "label": "View",
+                "section": "The Band"
+            }
+        ],
+        "Contact Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/the_studio-505x325.jpg",
+                "label": "View",
+                "section": "Contact Us"
+            }
+        ],
+        "The Studio": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/get_in_touch-505x325.jpg",
+                "label": "View",
+                "section": "The Studio"
+            }
+        ],
+        "Get In Touch": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/biography-505x325.jpg",
+                "label": "View",
+                "section": "Get In Touch"
+            }
+        ],
+        "Biography": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/about_us-505x325.jpg",
+                "label": "View",
+                "section": "Biography"
+            }
+        ],
+        "About Us": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/09/maintenance-505x311.jpg",
+                "label": "View",
+                "section": "About Us"
+            }
+        ],
+        "Maintenance": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/3/2017/02/maxresdefault.jpg",
+                "label": "View",
+                "section": "Maintenance"
+            }
+        ]
+    },
+    "total": 48
+}

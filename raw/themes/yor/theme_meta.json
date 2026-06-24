@@ -1,0 +1,95 @@
+{
+    "category": [
+        "Portfolio",
+        "Art"
+    ],
+    "store_headline": "WordPress Portfolio Theme for Painters and Illustrators",
+    "store_subheadline": "Showcase your portfolio, organize series with photo albums, and sell original work directly to collectors.",
+    "features": [
+        "Portfolio custom post type with advanced filtering",
+        "Photo gallery and album management",
+        "Built with Elementor page builder for drag-and-drop editing",
+        "Wolf Core plugin with art-focused widgets and elements",
+        "Advanced animation effects for portfolio items",
+        "Beautiful image galleries with customizable layouts",
+        "WooCommerce integration for selling artwork",
+        "One-click demo import with complete content",
+        "Mobile-optimized responsive design for all devices",
+        "Slider Revolution plugin (included)",
+        "Content Blocks system for custom headers and footers",
+        "Advanced SEO optimization for better visibility",
+        "Multiple portfolio layout options (grid, masonry, metro)"
+    ],
+    "selling_points": [
+        "Sell original art directly to collectors — WooCommerce built in, no middleman required",
+        "Expressive collage-grid portfolio layout — the most painterly, fine-art-specific aesthetic in the catalog",
+        "Photo albums for organizing work by series, collection, or medium — the way painters actually think",
+        "Elementor-powered so you control every layout decision without writing a line of code",
+        "Distinct from Sable and Nu — Yor is built for painters, illustrators, and fine art professionals",
+        "Advanced portfolio animations make browsing your work feel like moving through a physical gallery",
+        "Collector-facing design vocabulary — the aesthetic signals a place to acquire serious art",
+        "Multiple portfolio layout options — grid, masonry, metro — let different bodies of work breathe"
+    ],
+    "theme_style": [
+        "Expressive",
+        "Artistic",
+        "Painterly",
+        "Elegant"
+    ],
+    "target_audience": [
+        "Painters and Fine Artists",
+        "Illustrators and Graphic Artists",
+        "Sculptors and Installation Artists",
+        "Visual Artists and Mixed Media Creators",
+        "Art Galleries and Studios",
+        "Creative Professionals",
+        "Photographers"
+    ],
+    "key_benefits": [
+        "Sell original art directly to collectors — no gallery commission",
+        "Organize your body of work by series, medium, or collection",
+        "Build a collector-ready online gallery that commands serious buyer attention",
+        "Attract serious buyers with a painterly aesthetic that signals fine art",
+        "Launch a professional artist site with Elementor without a web designer",
+        "Convert visitors into buyers with WooCommerce listings showing medium, size, and edition"
+    ],
+    "included_plugins": [
+        "One-Click Demo Import",
+        "WooCommerce",
+        "Contact Form 7",
+        "Elementor",
+        "Slider Revolution",
+        "Envato Market",
+        "Wolf Core",
+        "Wolf Portfolio",
+        "Wolf Albums",
+        "Wolf Video Thumbnail Generator"
+    ],
+    "design_features": [
+        "Art-oriented layout templates",
+        "Portfolio masonry and grid layouts",
+        "Image gallery display options",
+        "Advanced animation effects",
+        "Multiple header layout variations",
+        "Custom cursor options",
+        "Clean and minimalist aesthetic",
+        "Artwork-focused presentation"
+    ],
+    "use_cases": [
+        "Painter Portfolio Websites",
+        "Illustrator Showcase Sites",
+        "Artist Online Galleries",
+        "Graphic Designer Portfolios",
+        "Art Gallery Websites",
+        "Visual Artist Online Presence",
+        "Art Selling Platforms"
+    ],
+    "customer_sites": [
+        {
+            "name": "Diogo Barros Pires",
+            "url": "https://www.diogobarrospires.com/",
+            "ig_at": "diogo_barros_pires"
+        }
+    ],
+    "testimonials": []
+}

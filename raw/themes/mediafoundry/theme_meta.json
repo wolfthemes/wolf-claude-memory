@@ -1,0 +1,98 @@
+{
+    "category": [
+        "Creative",
+        "Agency"
+    ],
+    "store_headline": "Agency WordPress Theme with Portfolio and Job Board",
+    "store_subheadline": "Portfolio, team profiles, and job board for creative agencies, designers, and illustrators",
+    "features": [
+        "Portfolio custom post type with filterable masonry and grid layouts",
+        "Artist/Team member profiles linked to portfolio work via taxonomy system",
+        "Job board with career listings for talent recruitment",
+        "Advanced scrolling animations and cinematic page transitions",
+        "Built with Elementor page builder for drag-and-drop editing",
+        "Wolf Core plugin with custom agency-focused widgets and elements",
+        "WooCommerce integration for selling services or digital products",
+        "Client logo and testimonial showcase sections",
+        "Video background support for dynamic hero headers",
+        "Slider Revolution plugin ($109 value) included",
+        "One-click demo import with complete agency setups"
+    ],
+    "selling_points": [
+        "The only catalog theme built specifically for multi-format creators — audio, video, streams, and merch",
+        "Creator photography grid hero signals 'built for your world' the moment a podcaster lands on the preview",
+        "Episode archive system built for a growing back-catalogue without the workarounds creators typically patch together",
+        "Elementor-powered for creators who update their own site between uploads — no developer dependency required",
+        "WooCommerce for merch, digital downloads, and exclusive content — revenue streams beyond ad income",
+        "Event listings for live streams, recording sessions, and meetups — the full creator calendar in one place",
+        "Dark wordmark identity positions a creator as a media brand, not just a hobbyist with a blog"
+    ],
+    "theme_style": [
+        "Clean",
+        "Professional",
+        "Modern",
+        "Minimalist"
+    ],
+    "target_audience": [
+        "Creative Agencies",
+        "Design Studios",
+        "Graphic and Visual Designers",
+        "Illustrators and Digital Artists",
+        "Freelance Creatives",
+        "Branding and Marketing Agencies",
+        "Multidisciplinary Creative Teams"
+    ],
+    "key_benefits": [
+        "Central hub for podcasts, video archives, streams, and merch",
+        "Purpose-built creator design — not retrofitted from a magazine template",
+        "Polished media-brand identity that attracts sponsorship and collaboration inquiries",
+        "Manage live-stream schedule, episode archive, and merch store from one dashboard",
+        "Dark wordmark aesthetic that reads as editorial and press-worthy",
+        "Convert passive subscribers into paying customers with merch and digital products",
+        "Centralized hub that doubles as press kit, store, and content archive"
+    ],
+    "included_plugins": [
+        "One-Click Demo Import",
+        "WooCommerce",
+        "Contact Form 7",
+        "Elementor",
+        "Envato Market",
+        "Wolf Core",
+        "Wolf Artists",
+        "Wolf Jobs",
+        "Wolf Portfolio",
+        "Slider Revolution"
+    ],
+    "design_features": [
+        "Advanced scrolling animations",
+        "Filterable portfolio grids",
+        "Video lightbox integrations",
+        "Elegant typography system",
+        "Fullscreen video headers",
+        "Team member card layouts",
+        "Animated content transitions",
+        "Custom cursor options"
+    ],
+    "use_cases": [
+        "Creative Agency Websites",
+        "Design Studio Portfolios",
+        "Freelancer and Independent Creative Showcases",
+        "Branding and Marketing Agency Sites",
+        "Illustrator and Digital Artist Portfolios",
+        "Creative Recruitment Platforms",
+        "Multidisciplinary Studio Presentations"
+    ],
+    "customer_sites": [],
+    "testimonials": [
+        {
+            "text": "Very well coded. 5 stars for the developer and support.",
+            "author": "gianniskataras",
+            "rating": 5
+        },
+        {
+            "text": "Working with Constantin at Wolfthemes has been truly fantastic. They are very responsive and helpful. Every request has been quickly responded to. The theme itself is really nice. I was adapting it for a slightly different industry and my client couldn't be happier. The animations are delightful and the attention to detail make all the difference. Great theme, great support! Thank you!!!",
+            "author": "marc-ee",
+            "rating": 5
+        }
+    ]
+}

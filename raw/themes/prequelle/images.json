@@ -1,0 +1,125 @@
+{
+    "slug": "prequelle",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/sign_dark.png",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing Page",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/designer-home-e1530297204436-500x248.jpg",
+                "label": "Designer Home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/main-home-500x286.jpg",
+                "label": "Main Home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/shop-grid-500x775.jpg",
+                "label": "Shop Grid",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/basic-store-500x829.jpg",
+                "label": "Basic Store",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/lookbook-home-500x565.jpg",
+                "label": "Lookbook Home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/parallax-presentation-500x250.jpg",
+                "label": "Parallax Presentation",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/magazine-500x605.jpg",
+                "label": "Magazine",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/07/showcas-blocks-500x307.jpg",
+                "label": "Showcase Blocks",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/showcase-links-500x286.jpg",
+                "label": "Showcase Links",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/split-scroll-500x286.jpg",
+                "label": "Split Scroll",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/product-portrait.jpg",
+                "label": "product-portrait",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/custom-heaer.jpg",
+                "label": "custom-heaer",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/galsses.jpg",
+                "label": "galsses",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/gtid.jpg",
+                "label": "gtid",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/cart.jpg",
+                "label": "cart",
+                "section": "General"
+            }
+        ],
+        "Highly Customizable": [
+            {
+                "url": "//preview-v2-wolfthemes.b-cdn.net/app/plugins/revslider/sr6/assets/assets/dummy.png",
+                "label": "Landing Page",
+                "section": "Highly Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/wpml.jpg",
+                "label": "wpml",
+                "section": "Highly Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/cf7.jpg",
+                "label": "cf7",
+                "section": "Highly Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/revslider.jpg",
+                "label": "revslider",
+                "section": "Highly Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/woo.jpg",
+                "label": "woo",
+                "section": "Highly Customizable"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/14/2018/06/wpb.jpg",
+                "label": "wpb",
+                "section": "Highly Customizable"
+            }
+        ]
+    },
+    "total": 23
+}

@@ -1,0 +1,115 @@
+{
+    "category": [
+        "Music"
+    ],
+    "store_headline": "WordPress Theme for Record Labels and Multi-Artist Rosters",
+    "store_subheadline": "Manage and showcase your entire artist roster with discography, events, and music sales",
+    "features": [
+        "Artist custom post type with profiles and media",
+        "Comprehensive discography management system",
+        "Event listing and calendar functionality",
+        "Video gallery with custom player options",
+        "Photo gallery and album management",
+        "Built with WPBakery Page Builder ($99 value)",
+        "Wolf WPBakery Extension with music-specific elements",
+        "Slider Revolution plugin (included)",
+        "WooCommerce integration for merchandise sales",
+        "Audio player with playlist management",
+        "Content Blocks system for custom headers and footers",
+        "One-click demo import with complete content",
+        "Mobile-optimized responsive design for all devices",
+        "Social sharing across multiple platforms",
+        "Custom post meta options (likes, views, reading time)"
+    ],
+    "selling_points": [
+        "Wolf Artists plugin gives each roster artist their own releases, events, and video pages",
+        "Not a single-artist theme adapted for labels — built from the ground up for roster management",
+        "Clean institutional slab typography signals label credibility, not the visual noise of a band site",
+        "Individual artist pages link directly to their own discography, events, and video content",
+        "WooCommerce for label merchandise and music sales across the entire roster from one platform",
+        "Audio player with playlist management for showcasing releases across multiple artists",
+        "WPBakery-powered layout system for building label-specific pages without a developer",
+        "The institutional choice for labels that want credibility over drama — distinct from high-energy band themes"
+    ],
+    "theme_style": [
+        "Professional",
+        "Modern",
+        "Elegant",
+        "Clean"
+    ],
+    "target_audience": [
+        "Record Labels",
+        "Musicians and Bands",
+        "Music Producers",
+        "DJ's and Electronic Artists",
+        "Music Industry Professionals",
+        "Artist Management Companies"
+    ],
+    "key_benefits": [
+        "Manage your entire artist roster with per-artist profiles and media",
+        "Attract signings and industry partners with a clean institutional presence",
+        "Give every artist a linked profile page no single-artist theme can replicate",
+        "Sell label merch and music directly to fans through WooCommerce",
+        "Build a label site that makes A&R contacts take you seriously",
+        "Promote multiple artists' tours and releases from one events and discography system",
+        "Launch with the visual vocabulary of an established institution, not a band-site-turned-label"
+    ],
+    "included_plugins": [
+        "One-Click Demo Import",
+        "WooCommerce",
+        "Instagram Feed",
+        "Contact Form 7",
+        "Widgets in Menu",
+        "Slider Revolution",
+        "WPBakery Page Builder",
+        "Envato Market",
+        "Wolf Visual Composer",
+        "Wolf VC Content Block",
+        "Wolf Playlist Manager",
+        "Wolf Artists",
+        "Wolf Discography",
+        "Wolf Events",
+        "Wolf Videos",
+        "Wolf Custom Post Meta",
+        "Wolf Metaboxes",
+        "Wolf Video Thumbnail Generator",
+        "Wolf WooCommerce Wishlist"
+    ],
+    "design_features": [
+        "Music-oriented layout templates",
+        "Artist profile showcase options",
+        "Album cover gallery displays",
+        "Video thumbnail galleries",
+        "Multiple header layout variations",
+        "Custom music player with playlist support",
+        "Social sharing integration",
+        "Clean and modern aesthetic"
+    ],
+    "use_cases": [
+        "Record Label Websites",
+        "Band & Musician Portfolios",
+        "Music Festival Sites",
+        "DJ & Electronic Artist Platforms",
+        "Music Producer Showcases",
+        "Artist Management Company Sites",
+        "Music Industry Business Websites"
+    ],
+    "customer_sites": [],
+    "testimonials": [
+        {
+            "text": "There's a reason why my label, my marketing agency, all of my artists, and soon – all of my venues, use Wolf-Themes… Why you'd use another template just means you're not serious about your music.",
+            "author": "BobbyJayOTA",
+            "rating": 5
+        },
+        {
+            "text": "Use this theme as starting point for a summer weekend festival, till now all my needs are inside the configurable blocks. Support QnA is within one day, which helps my proceding on-time.",
+            "author": "StarSolutions",
+            "rating": 5
+        },
+        {
+            "text": "Outstanding template, I really like it! You can use it in many ways and it's very flexible. The support is also amazing. I had a problem with a function and reached out to the author, so he just updated the theme. Thanks again! :)",
+            "author": "JSchmidti",
+            "rating": 5
+        }
+    ]
+}

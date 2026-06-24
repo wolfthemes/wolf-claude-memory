@@ -1,0 +1,159 @@
+{
+    "slug": "bronze",
+    "sections": {
+        "General": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/05/loading-logo.png",
+                "label": "loader image",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/plugins/wolf-visual-composer/assets/img/blank.gif",
+                "label": "View",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/05/big-logo-1-650x220.png",
+                "label": "big-logo",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/main-home-443x253.jpg",
+                "label": "main-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/home-alt-443x253.jpg",
+                "label": "home-alt",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/video-slider-443x253.jpg",
+                "label": "video-slider",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/parallax-443x253.jpg",
+                "label": "parallax",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/one-page-443x253.jpg",
+                "label": "one-page",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/release-showcase-443x253.jpg",
+                "label": "release-showcase",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/animated-panels-443x253.jpg",
+                "label": "animated-panels",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/split-443x253.jpg",
+                "label": "split",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/portfolio-home-443x253.jpg",
+                "label": "portfolio-home",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/interactive-links-443x253.jpg",
+                "label": "interactive-links",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/coming-soon-443x253.jpg",
+                "label": "coming-soon",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/buy-now-443x253.jpg",
+                "label": "buy-now",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/about-us-443x253.jpg",
+                "label": "about-us",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/about-me-443x253.jpg",
+                "label": "about-me",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/the-band-443x253.jpg",
+                "label": "the-band",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/contact-us-443x253.jpg",
+                "label": "contact-us",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/maintenanc-443x253.jpg",
+                "label": "maintenanc",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/error-404-443x253.jpg",
+                "label": "error-404",
+                "section": "General"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/wpb-80x80-1.jpg",
+                "label": "wpb-80x80",
+                "section": "General"
+            }
+        ],
+        "WPBakery Page Builder": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/sr-80x80-1.jpg",
+                "label": "sr-80x80",
+                "section": "WPBakery Page Builder"
+            }
+        ],
+        "Slider Revolution": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/new_avatar80_80.png",
+                "label": "new_avatar80_80",
+                "section": "Slider Revolution"
+            }
+        ],
+        "Contact Form 7": [
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/wpml.png",
+                "label": "wpml",
+                "section": "Contact Form 7"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/cf7.png",
+                "label": "cf7",
+                "section": "Contact Form 7"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/rs.png",
+                "label": "rs",
+                "section": "Contact Form 7"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/wc.png",
+                "label": "wc",
+                "section": "Contact Form 7"
+            },
+            {
+                "url": "https://preview-v2-wolfthemes.b-cdn.net/app/uploads/sites/34/2020/07/WPB.png",
+                "label": "WPB",
+                "section": "Contact Form 7"
+            }
+        ]
+    },
+    "total": 29
+}
