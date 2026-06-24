@@ -23,10 +23,10 @@
 - [ ] **CRO: homepage CTA/messaging review** — feels like it's missing a clear value/solution hook ("here's the solution to your problem" / "my themes can help you make money"). Plus a lighter CRO refinement pass on the single theme page (already in good shape)
 - [ ] **wolf-store: audit single theme pages** — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **wolf-store: audit filter and overall archive UI**
-- [ ] **wolf-store: theme archive load more pagination**
+- [x] **wolf-store: theme archive load more pagination**
 - [ ] **seijaku-fse: form styling** — contact form and Mailchimp form (input and textarea helper with transparent bg)
 - [ ] **seijaku-fse: blog template design**
-- [ ] **seijaku-fse: maintenance / coming soon template**
+- [x] **seijaku-fse: maintenance / coming soon template**
 - [ ] **seijaku-fse: details/toggle WP block styling** — paragraph content padding causing laggy animation. Removing padding fixes it, but we must find a way to add space below the content paragraph
 - [ ] **wolf-blocks/testimonial: add author avatar** — round badge showing the first letter of the author's name
 
