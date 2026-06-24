@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBot",
+      "LiFileOutput",
+      "LiCode2",
       "LiFolderOpen",
-      "LiLibraryBig",
-      "LiSheetsInBox",
-      "LiActivity",
-      "LiCheck"
+      "LiLibraryBig"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,8 @@
   "STATUS.md": "LiActivity",
   "Inbox.md": "LiSheetsInBox",
   "wiki": "LiLibraryBig",
-  "raw": "LiFolderOpen"
+  "raw": "LiFolderOpen",
+  "commands": "LiCode2",
+  "output": "LiFileOutput",
+  "agents": "LiBot"
 }

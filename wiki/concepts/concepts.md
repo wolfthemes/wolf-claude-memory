@@ -8,3 +8,4 @@ Reusable knowledge that cuts across products or projects.
 - [[wiki/concepts/dev-environment|Dev Environment]] — wolf-store-docker setup, repo structure, branch map, start/stop, FSE cache gotcha, common issues.
 - [[wiki/concepts/toolchain|Toolchain]] — Pinned versions across FSE repos with rationale. What breaks on upgrade.
 - [[wiki/concepts/fse-block-grammar|FSE Block Grammar]] — Valid block markup rules, wolf-blocks attribute schemas, token slugs, known fixes. Updated via `/learn`.
+- [[wiki/concepts/analytics-marketing-stack|Analytics & Marketing Stack]] — GA4, Freemius, Buffer IDs; social platform decisions; agent output paths.

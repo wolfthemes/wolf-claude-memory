@@ -21,6 +21,7 @@ When something from raw/ is distilled into durable knowledge, it goes into `wiki
 | `themeforest-portfolio/theme-positioning.md` | Positioning database | Full market positioning for all 47 ThemeForest themes — value props, target audience, competitive notes, store headlines. Canonical source for all marketing copy. |
 | `themeforest-portfolio/theme-taxonomie chat.md` | Taxonomy optimization chat | Full Claude conversation (June 2026) that produced the category/tag/color/style taxonomy overhaul for all 47 themes |
 | `wolf-store/single-theme-page-container-lateral-padding-issue.png` | Screenshot | Visual showing the lateral padding bug on single theme pages at viewport widths below 1600px — reference for the TASKS.md fix |
+| `wolfthemes/stack.md` | Stack reference | Analytics & marketing stack IDs (GA4, Freemius, Buffer), plus decisions log from 2026-06-24 |
 | `seijaku-fse/images/screenshots/contact-page.png` | Screenshot | Contact page design, seijaku-fse redesign sprint |
 | `seijaku-fse/images/screenshots/music-themes-presentation-page.png` | Screenshot | Music themes category page, seijaku-fse redesign sprint |
 | `seijaku-fse/images/screenshots/services-page.png` | Screenshot | Services page design, seijaku-fse redesign sprint |
