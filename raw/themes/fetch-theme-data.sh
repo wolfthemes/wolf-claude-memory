@@ -3,7 +3,7 @@
 # Usage: bash raw/themes/fetch-theme-data.sh
 # Requires: curl, jq
 
-set -euo pipefail
+set -uo pipefail
 
 SLUGS=(
   decibel spectacle loud phase swingster
@@ -45,14 +45,14 @@ for slug in "${SLUGS[@]}"; do
 
     # Download first N thumbnails from General section for visual review by Claude
     if command -v jq &>/dev/null; then
-      urls=$(jq -r '.sections.General[].url' "$dir/images.json" 2>/dev/null | grep -v '^//' | grep -v '\.svg$' | head -"$MAX_THUMBS")
+      urls=$(jq -r '.sections.General[].url' "$dir/images.json" 2>/dev/null | grep -v '^//' | grep -v '\.svg$' | head -"$MAX_THUMBS" || true)
       i=1
       while IFS= read -r url; do
         [[ -z "$url" ]] && continue
         ext="${url##*.}"
         outfile="$dir/thumbs/$(printf '%02d' $i).${ext%%\?*}"
         curl -sf "$url" -o "$outfile" && echo "  ✓ thumb $i" || echo "  ✗ thumb $i (skipped)"
-        ((i++))
+        ((i++)) || true
       done <<< "$urls"
     fi
   else
