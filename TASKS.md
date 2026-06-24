@@ -8,29 +8,29 @@
 
 - [ ] **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ must be done before end of June 2026-06-30
 - [ ] **prod: redeploy all freemius themes** (from inbox 2026-06-23)
-- [ ] **staging: check purchase link for each theme** (from inbox 2026-06-23)
+- [x] **staging: check purchase link for each theme** (from inbox 2026-06-23)
 - [ ] **staging website: set _Available Post Types_ taxonomy for each theme**
 - [ ] **seijaku-fse: need all images set** (hero and inner images)
 
 ### P1 — Quick wins (small CSS/copy fixes, easy)
 
-- [ ] **seijaku-fse: home story section pullquote** — move the border back to the left
-- [ ] **seijaku-fse: home testimonials section** — update "500+ 5-star reviews" to "1000+" (more accurate)
-- [ ] **link hover color in `is-dark` sections** needs fixing
-- [ ] **wolf-store: increase z-index of single-theme pricing box** so it overlaps the theme description section below the hero
-- [ ] **wolf-store: single theme features section wrapper width / lateral padding** needs attention
-- [ ] **wolf-store: single theme "related themes" section wrapper width / lateral padding** — same issue as the features section (likely one shared container rule)
-- [ ] **wolf-store: theme card width on mobile**
-- [ ] **wolf-store: make theme card cat badge clickable** (from inbox 2026-06-23)
-- [ ] **decrease `wolf-section-pad--big` padding on mobile**
-- [ ] **seijaku-fse: form submit button sizing** — match padding and font-size of the default `wp-element-button`
-- [ ] **seijaku-fse: paragraph max-width** — check if a default WP class is available before building custom
-- [ ] **seijaku-fse: eyebrow tagline helper class** — common muted-text helper for all secondary/eyebrow taglines, for coherence
-- [ ] **seijaku-fse: tagline max-width helper class** — e.g. tagline above pricing table on services page
-- [ ] **seijaku-fse: default page padding top/bottom**
+- [x] **seijaku-fse: home story section pullquote** — move the border back to the left
+- [x] **seijaku-fse: home testimonials section** — update "500+ 5-star reviews" to "1000+" (more accurate)
+- [x] **link hover color in `is-dark` sections** needs fixing
+- [x] **wolf-store: increase z-index of single-theme pricing box** so it overlaps the theme description section below the hero
+- [x] **wolf-store: single theme features section wrapper width / lateral padding** needs attention
+- [x] **wolf-store: single theme "related themes" section wrapper width / lateral padding** — same issue as the features section (likely one shared container rule)
+- [x] **wolf-store: theme card width on mobile**
+- [x] **wolf-store: make theme card cat badge clickable** (from inbox 2026-06-23)
+- [x] **decrease `wolf-section-pad--big` padding on mobile**
+- [x] **seijaku-fse: form submit button sizing** — match padding and font-size of the default `wp-element-button`
+- [x] **seijaku-fse: paragraph max-width** — check if a default WP class is available before building custom
+- [x] **seijaku-fse: eyebrow tagline helper class** — common muted-text helper for all secondary/eyebrow taglines, for coherence
+- [x] **seijaku-fse: tagline max-width helper class** — e.g. tagline above pricing table on services page
+- [x] **seijaku-fse: default page padding top/bottom**
 - [ ] **seijaku-fse: footer intro**
-- [ ] **seijaku-fse: technicals styling (link color)**
-- [ ] **wolf-store: add available post types to technicals section**
+- [ ] **seijaku-fse: technicals styling (link color)** - which is defatul text llink appearance on hover
+- [x] **wolf-store: add available post types to technicals section**
 
 ### P2 — Needs more attention (design / build / copy)
 
@@ -46,8 +46,8 @@
 - [ ] **seijaku-fse: maintenance / coming soon template**
 - [ ] **seijaku-fse: details/toggle WP block styling** — paragraph content padding causing laggy animation. Removing padding fixes it, but we must find a way to add space below the content paragraph
 - [ ] **wolf-blocks/testimonial: add author avatar** — round badge showing the first letter of the author's name
-- [ ] **wolf-blocks: add more icons to feature grid item**
-- [ ] **wolf-blocks/stats-counter: add paragraph detail field** — shown under the number and subtitle (e.g. under "4.5/5 rating", "Out of 1600+ reviews, users have left positive reviews for these awesome products")
+- [x] **wolf-blocks: add more icons to feature grid item**
+- [x] **wolf-blocks/stats-counter: add paragraph detail field** — shown under the number and subtitle (e.g. under "4.5/5 rating", "Out of 1600+ reviews, users have left positive reviews for these awesome products")
 
 ### P3 — Do last (perf + animation polish)
 
