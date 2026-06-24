@@ -12,10 +12,14 @@ Trois sources locales — toutes lisibles directement depuis le repo :
 - `store_headline`, `store_subheadline`, `features`, `selling_points`
 - `target_audience`, `key_benefits`, `theme_style`
 
-**B. Screenshots** : `raw/themes/{slug}/images.json`
-- URLs CDN organisées par section (`General`, `Homepage`, etc.)
-- Cherche en priorité les images labelisées `homepage`, `hero`, ou la première image de la section `Homepage`
-- Ces URLs CDN (`preview-v2-wolfthemes.b-cdn.net`) fonctionnent depuis le navigateur — include-les dans l'output pour que Constantin les copie dans Buffer
+**B. Thumbnails locaux** : `raw/themes/{slug}/thumbs/` (si présents)
+- Fichiers images téléchargés localement — **lis-les avec le Read tool pour les voir visuellement**
+- Choisis l'image la plus percutante : hero fort, composition claire, identité visuelle évidente
+- Évite : logos, pages contact, pages maintenance, images génériques
+
+**C. Liste complète** : `raw/themes/{slug}/images.json`
+- URLs CDN organisées par section si les thumbs ne couvrent pas tout
+- Ces URLs CDN fonctionnent depuis le navigateur et sont acceptées directement par l'API Buffer
 
 **C. Positionnement** : `wiki/products/themeforest-portfolio/themeforest-portfolio.md`
 - Catégorie, tags, couleurs, style, contexte dans la gamme
@@ -25,8 +29,10 @@ Trois sources locales — toutes lisibles directement depuis le repo :
 ### 1. Collecte les infos du thème
 
 Lis `raw/themes/{slug}/theme_meta.json` — c'est la source principale.
-Lis `raw/themes/{slug}/images.json` — extrait 2-3 URLs d'images pertinentes (homepage hero en priorité).
-Complète avec le positionnement du wiki si nécessaire.
+
+Si `raw/themes/{slug}/thumbs/` existe, **lis chaque image avec le Read tool** pour la voir visuellement. Sélectionne la plus percutante pour le post (hero fort, composition claire, pas de logo isolé ni de page contact).
+
+Si pas de thumbs locaux, extrais 2-3 URLs depuis `raw/themes/{slug}/images.json` (priorité : section `General`, labels `home`, `band`, `artist`, `shop-home`).
 
 ### 2. Génère les captions
 
