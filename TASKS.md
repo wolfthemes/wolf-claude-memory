@@ -56,7 +56,7 @@
 
 ## Waiting On
 
-- [ ] NNC trader bot — demo mode functional; before live account testing: add lot-size cap, SL tightness guard, and review worst-case scenario safeguards
+- [ ] NNC trader bot — demo and prod mode functional; next step: add lot-size cap, SL tightness guard, and review worst-case scenario safeguards
 
 ## Someday
 
