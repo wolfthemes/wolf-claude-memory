@@ -14,3 +14,6 @@ Hero overlay + sticky menu bug
 create packall:freemius grunt task (wolf-supertheme)
 Home hero - find a little twist (brushsrtoke, animated thingy, an aniamted workd or italic word, o even a serif font word)
 Single theme page mobile soacubg
+
+Theme demos fixes:
+https://preview.wolfthemes.store/morvan/minimal-home/ -> menu odd
