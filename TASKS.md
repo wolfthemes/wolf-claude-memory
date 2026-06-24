@@ -7,7 +7,7 @@
 ### P0 — Launch-critical (must be ready on prod by 2026-06-30 eve)
 
 - [ ] **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ must be done before end of June 2026-06-30
-- [ ] **prod: redeploy all freemius themes** (from inbox 2026-06-23)
+- [ ] **prod: redeploy all Freemius themes** (from inbox 2026-06-23)
 - [ ] **staging website: set _Available Post Types_ taxonomy for each theme**
 - [ ] **seijaku-fse: need all images set** (hero and inner images)
 
