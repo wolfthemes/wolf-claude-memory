@@ -195,8 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c2311faff25eab4d",
   "lastOpenFiles": [
+    "wiki/concepts/audience-building-strategy.md",
+    "raw/themes/screenshot.js",
     "Home.md",
     "package-lock.json",
     "package.json",
@@ -207,7 +209,6 @@
     "node_modules/playwright-core/lib/vite/dashboard/assets/codicon-DCmgc-ay.ttf",
     "node_modules/playwright-core/types/types.d.ts",
     "node_modules/playwright-core/types/structs.d.ts",
-    "node_modules/playwright-core/types/protocol.d.ts",
     "node_modules/playwright-core/lib/vite/dashboard/assets/safari-na3_-uQk.svg",
     "node_modules/playwright-core/lib/vite/traceViewer/playwright-logo.svg",
     "node_modules/playwright-core/lib/vite/recorder/playwright-logo.svg",
