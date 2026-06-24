@@ -7,3 +7,4 @@ One line per item. No formatting needed.
 ---
 theme grid whe only one item - https://staging20.wolfthemes.com/theme-category/performing-arts/
 Omnity demo - spotify playlist
+Theme stars data - to show on the price box
