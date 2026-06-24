@@ -8,7 +8,7 @@
 
 - [ ] **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ must be done before end of June 2026-06-30
 - [ ] **prod: redeploy all Freemius themes** (from inbox 2026-06-23)
-- [ ] **staging website: set _Available Post Types_ taxonomy for each theme**
+- [x] **staging website: set _Available Post Types_ taxonomy for each theme**
 - [ ] **seijaku-fse: need all images set** (hero and inner images)
 
 ### P1 — Quick wins (small CSS/copy fixes, easy)
@@ -50,7 +50,7 @@
 ## Someday
 
 - [ ] Buffer social posting script (Python, source: themeforest positioning DB)
-- [ ] **wolf-supertheme: create `packall:freemius` grunt task** — automate Freemius packaging across all themes
+- [x] **wolf-supertheme: create `packall:freemius` grunt task** — automate Freemius packaging across all themes
 - [ ] nvim: Spectre keybindings — `<leader>sr` (search/replace), `<leader>R` create entry in a Nvim doc
 - [ ] Envato license manager: add slug detection in activation process
 - [ ] wolf-supertheme: implement "loader once" pattern from Aurenza to more themes
