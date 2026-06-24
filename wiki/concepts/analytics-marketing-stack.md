@@ -12,7 +12,7 @@ See `raw/wolfthemes/stack.md` for the full ID/key reference.
 | Layer | Tool | Notes |
 |---|---|---|
 | Revenue | Freemius | Store ID 15308. REST API. Secret key in `.env` only. |
-| Web analytics | GA4 + Site Kit | Property "WolfThemes Store" on wolfthemes.com. Measurement ID: retrieve from GA4 Admin → Data Streams. |
+| Web analytics | GA4 + Site Kit | Property "WolfThemes Store" — `properties/543096202` on wolfthemes.com. |
 | Tag management | GTM | Demo sites only (GTM-WSKJDHHW). Not on wolfthemes.com. |
 | Social scheduling | Buffer | Org 66e40cad8a27b612c7a0ccd3. Channels: Facebook, Twitter/X, Instagram. Pinterest pending. |
 | Security | Jetpack | Kept for brute force protection only. Stats module disabled. |

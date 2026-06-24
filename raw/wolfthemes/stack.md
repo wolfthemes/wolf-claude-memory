@@ -5,7 +5,7 @@
 | Item | Value |
 |---|---|
 | GA4 Account | WolfThemes Demos (332808602) |
-| GA4 Property — wolfthemes.com | WolfThemes Store (Measurement ID: retrieve from GA4 Admin → Data Streams) |
+| GA4 Property — wolfthemes.com | WolfThemes Store — `properties/543096202` |
 | GA4 Property — demos | 462979681 |
 | GTM Container — demos | GTM-WSKJDHHW |
 | Freemius Store ID | 15308 |
