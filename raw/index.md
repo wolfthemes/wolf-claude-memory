@@ -21,3 +21,12 @@ When something from raw/ is distilled into durable knowledge, it goes into `wiki
 | `themeforest-portfolio/theme-positioning.md` | Positioning database | Full market positioning for all 47 ThemeForest themes — value props, target audience, competitive notes, store headlines. Canonical source for all marketing copy. |
 | `themeforest-portfolio/theme-taxonomie chat.md` | Taxonomy optimization chat | Full Claude conversation (June 2026) that produced the category/tag/color/style taxonomy overhaul for all 47 themes |
 | `wolf-store/single-theme-page-container-lateral-padding-issue.png` | Screenshot | Visual showing the lateral padding bug on single theme pages at viewport widths below 1600px — reference for the TASKS.md fix |
+| `seijaku-fse/images/screenshots/contact-page.png` | Screenshot | Contact page design, seijaku-fse redesign sprint |
+| `seijaku-fse/images/screenshots/music-themes-presentation-page.png` | Screenshot | Music themes category page, seijaku-fse redesign sprint |
+| `seijaku-fse/images/screenshots/services-page.png` | Screenshot | Services page design, seijaku-fse redesign sprint |
+| `seijaku-fse/images/screenshots/themes-archives.png` | Screenshot | Theme archive/filter UI, seijaku-fse redesign sprint |
+| `seijaku-fse/images/screenshots/b6aeddcb-b10a-4308-a3ee-fa8b70dfc61c.png` | Screenshot | Misc seijaku-fse UI screenshot, redesign sprint |
+| `seijaku-fse/images/screenshots/Home-•-Divided-by-13-Amplifiers.png` | Screenshot | Reference design — Divided by 13 Amplifiers homepage |
+| `seijaku-fse/images/screenshots/Premium-WordPress-Studio-Website.png` | Screenshot | Reference design — Premium WordPress Studio site |
+| `seijaku-fse/images/screenshots/Wolf-Themes-High-Quality-Premium-Wordpress-Themes-Plugins-prod.png` | Screenshot | wolfthemes.com production homepage screenshot |
+| `seijaku-fse/images/screenshots/Wolf-Themes-High-Quality-Premium-Wordpress-Themes-Plugins.png` | Screenshot | wolfthemes.com staging homepage screenshot |
