@@ -1,0 +1,3 @@
+# Full-page Playwright screenshots are large — store locally, not in repo.
+# Use them to pick the best image for Pinterest/social, then upload manually to Buffer.
+*/screenshots/
