@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASKS.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASKS"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "e9d4f732fb7f97db",
   "lastOpenFiles": [
+    "Home.md",
+    "TASKS.md",
     "agents/analytics.md",
     "wiki/concepts/concepts.md.tmp.29316.14a60822ac43",
     "wiki/concepts/analytics-marketing-stack.md",
@@ -209,11 +211,9 @@
     "agents/marketing.md.tmp.29316.751b663d030e",
     "agents/analytics.md.tmp.29316.7175c8865542",
     "agents",
-    "TASKS.md",
     "STATUS.md",
     "TASKS.md.tmp.29316.8c258b23fec5",
     "raw/index.md.tmp.29316.d80628e146d5",
-    "Home.md",
     "Inbox.md",
     "Inbox.md.tmp.51493.d4ad642539c2",
     "wiki/projects/projects.md",
