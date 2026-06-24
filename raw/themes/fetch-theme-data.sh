@@ -25,9 +25,12 @@ META_BASE="https://changelog.wolfthemes.cloud"
 IMAGES_BASE="https://preview.wolfthemes.store"
 OUT_DIR="$(dirname "$0")"
 
+# Number of preview thumbnails to download per theme (first N from General section)
+MAX_THUMBS=5
+
 for slug in "${SLUGS[@]}"; do
   dir="$OUT_DIR/$slug"
-  mkdir -p "$dir"
+  mkdir -p "$dir/thumbs"
 
   echo "→ $slug"
 
@@ -37,10 +40,26 @@ for slug in "${SLUGS[@]}"; do
     || echo "  ✗ theme_meta.json (skipped)"
 
   # image list
-  curl -sf "$IMAGES_BASE/$slug/?wolf-theme-images=$slug" -o "$dir/images.json" \
-    && echo "  ✓ images.json" \
-    || echo "  ✗ images.json (skipped)"
+  if curl -sf "$IMAGES_BASE/$slug/?wolf-theme-images=$slug" -o "$dir/images.json"; then
+    echo "  ✓ images.json"
+
+    # Download first N thumbnails from General section for visual review by Claude
+    if command -v jq &>/dev/null; then
+      urls=$(jq -r '.sections.General[].url' "$dir/images.json" 2>/dev/null | grep -v '^//' | grep -v '\.svg$' | head -"$MAX_THUMBS")
+      i=1
+      while IFS= read -r url; do
+        [[ -z "$url" ]] && continue
+        ext="${url##*.}"
+        outfile="$dir/thumbs/$(printf '%02d' $i).${ext%%\?*}"
+        curl -sf "$url" -o "$outfile" && echo "  ✓ thumb $i" || echo "  ✗ thumb $i (skipped)"
+        ((i++))
+      done <<< "$urls"
+    fi
+  else
+    echo "  ✗ images.json (skipped)"
+  fi
 done
 
 echo ""
 echo "Done. Commit the raw/themes/ directory to the repo."
+echo "Note: thumbs/ folders let Claude visually inspect images when creating content."

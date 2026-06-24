@@ -6,27 +6,33 @@ Si aucun slug n'est fourni, consulte le dernier rapport dans `output/reports/` e
 
 ## Données produit disponibles
 
-Deux sources d'information sur chaque thème :
+Trois sources locales — toutes lisibles directement depuis le repo :
 
-**A. Wiki** (`wiki/products/themeforest-portfolio/themeforest-portfolio.md`) :
-- Slug, catégorie, tags, couleurs, style
-- Positionnement dans la gamme
+**A. Métadonnées riches** : `raw/themes/{slug}/theme_meta.json`
+- `store_headline`, `store_subheadline`, `features`, `selling_points`
+- `target_audience`, `key_benefits`, `theme_style`
 
-**B. theme_meta.json** : `https://changelog.wolfthemes.cloud/{slug}/theme_meta.json`
-- Essaie de récupérer via WebFetch. Si 403, utilise uniquement les données wiki.
+**B. Thumbnails locaux** : `raw/themes/{slug}/thumbs/` (si présents)
+- Fichiers images téléchargés localement — **lis-les avec le Read tool pour les voir visuellement**
+- Choisis l'image la plus percutante : hero fort, composition claire, identité visuelle évidente
+- Évite : logos, pages contact, pages maintenance, images génériques
 
-**C. Screenshots** : `https://preview.wolfthemes.store/{slug}/?wolf-theme-images={slug}`
-- URL de référence pour l'image principale — inclus-la dans l'output pour copier-coller manuel.
-- Pattern d'URL prévisible pour les screenshots individuels si le JSON n'est pas accessible.
+**C. Liste complète** : `raw/themes/{slug}/images.json`
+- URLs CDN organisées par section si les thumbs ne couvrent pas tout
+- Ces URLs CDN fonctionnent depuis le navigateur et sont acceptées directement par l'API Buffer
+
+**C. Positionnement** : `wiki/products/themeforest-portfolio/themeforest-portfolio.md`
+- Catégorie, tags, couleurs, style, contexte dans la gamme
 
 ## Étapes
 
 ### 1. Collecte les infos du thème
 
-Lis `wiki/products/themeforest-portfolio/themeforest-portfolio.md` pour trouver le thème par slug.
-Extrais : catégorie, tags, couleurs, style, notes de positionnement.
+Lis `raw/themes/{slug}/theme_meta.json` — c'est la source principale.
 
-Tente le WebFetch sur `https://changelog.wolfthemes.cloud/{slug}/theme_meta.json`.
+Si `raw/themes/{slug}/thumbs/` existe, **lis chaque image avec le Read tool** pour la voir visuellement. Sélectionne la plus percutante pour le post (hero fort, composition claire, pas de logo isolé ni de page contact).
+
+Si pas de thumbs locaux, extrais 2-3 URLs depuis `raw/themes/{slug}/images.json` (priorité : section `General`, labels `home`, `band`, `artist`, `shop-home`).
 
 ### 2. Génère les captions
 
@@ -53,10 +59,10 @@ Pour chaque plateforme, génère 2 variantes (A/B) :
 
 ### 3. Recommandation visuelle
 
-Sans accès direct aux images, fournis :
-- URL du screenshot principal : `https://wolfthemes.com/wp-content/themes/{slug}/screenshot.png` ou similaire
-- URL de la page preview : `https://preview.wolfthemes.store/{slug}/`
-- Quel type de visuel choisir (homepage hero, feature detail, mobile view)
+Depuis `raw/themes/{slug}/images.json`, sélectionne 2-3 URLs pour le post :
+- Image principale : section `Homepage` ou label `hero` / `home`
+- Image secondaire : un détail feature ou une vue mobile si dispo
+- Formate-les comme une liste prête à copier-coller dans Buffer
 
 ### 4. Pousse dans Buffer
 
