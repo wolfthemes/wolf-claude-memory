@@ -13,7 +13,7 @@
 
 ### P1 — Quick wins (small CSS/copy fixes, easy)
 
-- [ ] **seijaku-fse: footer intro**
+- [ ] **seijaku-fse: footer intro text**
 - [ ] **seijaku-fse: technicals styling (link color)** - which is defatul text llink appearance on hover
 - [ ] **seijaku-fse: service page hero tagline width** — too wide, needs constraining
 - [ ] **seijaku-fse: service CTA tagline color** — section bg/classes to review
