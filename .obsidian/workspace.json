@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "TASKS"
             }
           }
         ]
@@ -197,8 +197,13 @@
   },
   "active": "e9d4f732fb7f97db",
   "lastOpenFiles": [
-    "TASKS.md",
     "Inbox.md",
+    "Inbox.md.tmp.65894.21bcf057c108",
+    "TASKS.md.tmp.65894.48590fc55d9b",
+    "TASKS.md.tmp.65894.1bc3c99a4819",
+    "TASKS.md.tmp.65894.234c1b052909",
+    "TASKS.md.tmp.65894.c5d1ba5d688c",
+    "TASKS.md",
     "STATUS.md",
     "CLAUDE.md",
     "Home.md",
@@ -211,11 +216,6 @@
     "raw/wolfthemes",
     "agents/marketing.md",
     "agents/marketing.md.tmp.29316.751b663d030e",
-    "agents/analytics.md.tmp.29316.7175c8865542",
-    "agents",
-    "TASKS.md.tmp.29316.8c258b23fec5",
-    "raw/index.md.tmp.29316.d80628e146d5",
-    "Inbox.md.tmp.51493.d4ad642539c2",
     "wiki/projects/projects.md",
     "wiki/concepts/wolfthemes-brand.md",
     "wiki/concepts/concepts.md",

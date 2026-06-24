@@ -15,11 +15,18 @@
 
 - [ ] **seijaku-fse: footer intro**
 - [ ] **seijaku-fse: technicals styling (link color)** - which is defatul text llink appearance on hover
+- [ ] **seijaku-fse: service page hero tagline width** — too wide, needs constraining
+- [ ] **seijaku-fse: service CTA tagline color** — section bg/classes to review
+- [ ] **seijaku-fse: Mailchimp message position** — success/error message should appear below the form, not floating left
 
 ### P2 — Needs more attention (design / build / copy)
 
 - [x] **seijaku-fse: sticky menu**
 - [ ] **seijaku-fse: mobile menu design** — redesign hamburger with a better opening animation; move the hamburger to the right of the nav bar; the open menu panel currently renders cramped in the top-right (see screenshots) and needs a proper full-width/overlay treatment
+- [ ] **seijaku-fse: hero overlay + sticky menu bug** — overlay and sticky menu interact incorrectly, needs investigation
+- [ ] **wolf-store: single theme page mobile spacing** — spacing issues on mobile viewport
+- [ ] **wolf-store: theme page comparison table badge position** — mimic the badge position used in service pricing tables
+- [x] **Theme demos: morvan/minimal-home menu** — menu appears odd at `https://preview.wolfthemes.store/morvan/minimal-home/`
 - [ ] **CRO: homepage CTA/messaging review** — feels like it's missing a clear value/solution hook ("here's the solution to your problem" / "my themes can help you make money"). Plus a lighter CRO refinement pass on the single theme page (already in good shape)
 - [ ] **wolf-store: audit single theme pages** — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **wolf-store: audit filter and overall archive UI**
@@ -34,6 +41,7 @@
 
 - [ ] **seijaku-fse: animation engine** for subtle entrance and scrolling animation
 - [ ] **Performance optimization pass** (after card/archive work — see STATUS.md)
+- [ ] **seijaku-fse: home hero twist** — add a subtle visual element (brushstroke, animated word, italic/serif accent) to make the hero more distinctive
 
 ## Waiting On
 
@@ -42,6 +50,7 @@
 ## Someday
 
 - [ ] Buffer social posting script (Python, source: themeforest positioning DB)
+- [ ] **wolf-supertheme: create `packall:freemius` grunt task** — automate Freemius packaging across all themes
 - [ ] nvim: Spectre keybindings — `<leader>sr` (search/replace), `<leader>R` create entry in a Nvim doc
 - [ ] Envato license manager: add slug detection in activation process
 - [ ] wolf-supertheme: implement "loader once" pattern from Aurenza to more themes
