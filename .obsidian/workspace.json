@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "TASKS"
             }
           }
         ]
@@ -197,13 +197,14 @@
   },
   "active": "e9d4f732fb7f97db",
   "lastOpenFiles": [
-    "Home.md",
+    "STATUS.md",
     "TASKS.md",
+    "CLAUDE.md",
+    "Home.md",
     "agents/analytics.md",
     "wiki/concepts/concepts.md.tmp.29316.14a60822ac43",
     "wiki/concepts/analytics-marketing-stack.md",
     "wiki/concepts/analytics-marketing-stack.md.tmp.29316.819c43b658d9",
-    "CLAUDE.md",
     "raw/wolfthemes/stack.md",
     "raw/wolfthemes/stack.md.tmp.29316.f8f8ff87aa48",
     "raw/wolfthemes",
@@ -211,7 +212,6 @@
     "agents/marketing.md.tmp.29316.751b663d030e",
     "agents/analytics.md.tmp.29316.7175c8865542",
     "agents",
-    "STATUS.md",
     "TASKS.md.tmp.29316.8c258b23fec5",
     "raw/index.md.tmp.29316.d80628e146d5",
     "Inbox.md",
