@@ -43,6 +43,6 @@ Founder, WolfThemes
 
 ## Notes
 
-- The opt-in link should point to a confirmed-subscribe / signup form, not the store. Conversion goal = consent, not a sale.
+- The opt-in button points to a **Brevo subscription form** tied to a "Marketing – Confirmed" list — NOT the store. Submitting the form is what records consent (timestamp + IP) and moves the lead into the promo audience. A click alone is not consent. Conversion goal = opt-in, not a sale.
 - Keep send volume within free-ESP daily limits (see ESP note on [[wolfthemes-growth]]).
 - Only confirmed opt-ins receive the [[launch-newsletter]] promo afterward.

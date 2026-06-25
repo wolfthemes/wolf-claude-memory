@@ -2,7 +2,17 @@
 
 Draft for the store-launch email to the ~1,000-subscriber owned list. Founder voice, cold-list re-engagement + launch. Primary CTA = click to the store; the **20% launch discount** is the reason to click. See [[audience-building-strategy]] and [[wolfthemes-growth]].
 
-**Fill in before sending:** `[DEADLINE]` — a real, short window (3–5 days max). Add UTM tags to the store link so GA4 attributes the traffic ([[analytics-marketing-stack]]).
+**Fill in before sending:** `[DEADLINE]` — a real, short window (3–5 days max).
+
+**UTM links** (paste into the CTA button so GA4 attributes the traffic — [[analytics-marketing-stack]]). Swap `wolfthemes.com/` for a launch/sale landing page if one exists:
+
+| Email | Button link |
+|---|---|
+| Launch promo (warm) | `https://wolfthemes.com/?utm_source=newsletter&utm_medium=email&utm_campaign=launch_2026&utm_content=warm_promo` |
+| D+2 reminder (warm) | `https://wolfthemes.com/?utm_source=newsletter&utm_medium=email&utm_campaign=launch_2026&utm_content=warm_reminder` |
+| Promo to opt-in confirmers | `https://wolfthemes.com/?utm_source=newsletter&utm_medium=email&utm_campaign=launch_2026&utm_content=optin_promo` |
+
+> The **opt-in re-permission** email is the exception — its button points to the Brevo subscription form, **not** the store. See [[optin-reengagement-email]].
 
 ---
 
