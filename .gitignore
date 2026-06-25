@@ -7,3 +7,5 @@ raw/themes/*/screenshots/
 # Customer PII — exports and derived segments, never version-controlled
 raw/ticksy-customers.csv
 raw/segments/
+raw/audience_export_*.zip
+raw/mailcimp-contacts/
