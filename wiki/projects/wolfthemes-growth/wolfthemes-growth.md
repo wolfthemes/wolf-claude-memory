@@ -33,14 +33,15 @@ These are one funnel, ordered by stage. Each feeds the next — don't optimize a
 - **ESP: Brevo.** Free tier = unlimited contacts, 300 emails/day. Mailchimp free (500 contacts) was too small. Paying ~€9 Starter for the **first launch month** to lift the daily cap and gain momentum within the tight launch window. No connector exists for any ESP — content is drafted here and pasted in manually.
 - **Final cleaned lists** (Ticksy 6,187 + Mailchimp 965 subscribed, deduped within & across, unsubscribes/bounces suppressed, fakes removed). Ready-to-import files live in `raw/brevo-import/` (gitignored PII) — see its README. **Total unique emailable: 6,994.**
 
-| Segment | File | Count | Consent |
-|---|---|---|---|
-| Warm | `01_warm_optin.csv` | **963** | opted-in (Mailchimp) |
-| Cold — repeat buyers | `02_cold_repeat_buyers.csv` | **1,363** | needs opt-in |
-| Cold — single buyers | `03_cold_single_buyers.csv` | **3,464** | needs opt-in |
-| Cold — no purchase | `04_cold_no_purchase.csv` | **1,204** | needs opt-in |
-| Suppression (unsub+bounce) | `05_suppression.csv` | 250 | do-not-email |
-| Rejected (fake/invalid) | `06_rejected_emails.csv` | 30 | excluded |
+| Segment                    | File                        | Count     | Consent              |
+| -------------------------- | --------------------------- | --------- | -------------------- |
+| Warm                       | `01_warm_optin.csv`         | **963**   | opted-in (Mailchimp) |
+| Cold — repeat buyers       | `02_cold_repeat_buyers.csv` | **1,363** | needs opt-in         |
+| Cold — single buyers       | `03` + `04`                 | **4,668** | needs opt-in         |
+| Suppression (unsub+bounce) | `05_suppression.csv`        | 250       | do-not-email         |
+| Rejected (fake/invalid)    | `06_rejected_emails.csv`    | 30        | excluded             |
+
+In Brevo the single-buyer (`03`, 3,464) and no-purchase (`04`, 1,204) files were merged into one list (#5, 4,668): a "no purchase" Ticksy contact is almost always a presales/general-support ticket, not a distinct audience, and both tiers receive the same opt-in email anyway. **Brevo lists:** Warm Opt In #3 (963), Cold — repeat buyers #4 (1,363), Cold — single buyers #5 (4,668), Suppressed #2 (251).
 
 - **Brevo sizing:** contacts are effectively unlimited on any plan (ignore the contact slider). Size only on **emails/month** (~10–11k in the launch month). Free = 300/day; a paid Starter month lifts that to blast same-day if wanted, but a cold account should ramp slowly regardless.
 
@@ -54,7 +55,7 @@ Two tracks. **Never cross them**: cold leads must opt in before they see a promo
 
 **Track B — Cold (6,031 buyers, no marketing consent):**
 1. Import `05_suppression.csv` as a blocklist **first**.
-2. Send [[optin-reengagement-email]] (re-permission, soft) in order: repeat buyers → single → no-purchase. Repeat-buyers first warms sender reputation.
+2. Send [[optin-reengagement-email]] (re-permission, soft) in order: repeat buyers (#4) → single buyers (#5). Repeat-buyers first warms sender reputation.
 3. Only **opt-in confirmers** graduate into the promo list and then receive the [[launch-newsletter]] (+ D+2 reminder).
 
 Rationale: GDPR (FR) — buyers/support contacts never consented to marketing; emailing them a promo cold is both non-compliant and a deliverability/suspension risk for a fresh sender. The opt-in gate converts the 6k into a clean, consented marketing list over time.

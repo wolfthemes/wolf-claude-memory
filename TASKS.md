@@ -9,6 +9,7 @@
 - [ ] **prod: redeploy all Freemius themes** (from inbox 2026-06-23)
 - [ ] **test Freemius user workflow** — theme install + activation end-to-end (from inbox 2026-06-25)
 - [ ] **export Ticksy contacts** (tomorrow 2026-06-26) — buyer email + theme purchased; the warm-customer list lives in Ticksy, not Gmail. Drop CSV in `raw/` for dedupe/segmentation. See [[wolfthemes-growth]]
+- [ ] **Brevo: build subscription form** (2026-06-26) — feeds the **Marketing Confirmed** list; it's the target of the opt-in re-permission email's button (records consent w/ timestamp+IP). Then promo sends to Warm Opt In #3 + Marketing Confirmed. See [[optin-reengagement-email]]
 - [x] **seijaku-fse: all images set** — hero and inner images
 
 ## ⚡ Quick wins (small CSS/copy fixes)
