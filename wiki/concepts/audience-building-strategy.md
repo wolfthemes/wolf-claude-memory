@@ -25,6 +25,19 @@ Structural problems with the current content:
 
 ---
 
+## Channel hierarchy: intent over broadcast
+
+Social media is **not** the alpha and omega of audience-building. Theme buyers act with *search intent* ("best music WordPress theme"), and intent channels convert far harder than broadcast feeds. Social/Pinterest build audience; intent channels build sales. Since the #1 priority is sales, effort is weighted accordingly — within these constraints (decided 2026-06-25):
+
+- **Owned email list — warm but cold.** ~1,000 subscribers exist, but click-through is sub-1%. Envato never shared customer emails, so this list is the only owned warm channel. It's stale, not dead: a re-engagement + segmentation pass (win-back to the new store, segment by theme purchased) is higher-leverage than chasing new subscribers. Closest thing to warm sales traffic at launch.
+- **SEO — already handled** in the new store (intent-matching, compounding, owned). Pinterest reinforces it (Pinterest is a search engine, pins rank for years).
+- **Paid search — no budget.** Ruled out for now; revisit only once organic proves the funnel converts.
+- **Pinterest — the live starting point.** The one "social-ish" channel where organic visual reach still works for design products, and it doubles as SEO. Correct #1 given the no-budget, organic-only constraint.
+
+So the working model: **owned list (re-engage) + SEO (done) + Pinterest (organic) = the sales-oriented core**, with the broader social mix below as the audience layer feeding it — not the engine itself.
+
+---
+
 ## Principles
 
 **The real metric: clicks to wolfthemes.com, not followers.**

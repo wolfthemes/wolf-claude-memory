@@ -1,2 +1,5 @@
 .env
 node_modules
+
+# Demo screenshots — large binaries for the promotion push, not version-controlled
+raw/themes/*/screenshots/

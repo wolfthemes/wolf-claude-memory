@@ -24,6 +24,7 @@ These are one funnel, ordered by stage. Each feeds the next — don't optimize a
 
 - **Strategy / content playbook:** [[audience-building-strategy]] — content mix (30% product / 70% value), per-network priority (Pinterest #1), tactics, timing.
 - **Measurement:** [[analytics-marketing-stack]] — GA4, Freemius, Buffer; how clicks and sales get tracked.
+- **Visual assets:** [[demo-screenshot-pipeline]] — how promo screenshots get selected from the demo-page inventory and stored.
 - **Conversion surfaces:** the wolf-store single theme pages and homepage — see [[wolf-store]] and CRO tasks in TASKS.md.
 - **Store launch:** depends on [[wolfthemes-redesign]] shipping and the 2026-07-01 launch (post-launch checklist in STATUS.md).
 

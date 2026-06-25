@@ -8,7 +8,7 @@
 - [ ] **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ before end of 2026-06-30
 - [ ] **prod: redeploy all Freemius themes** (from inbox 2026-06-23)
 - [ ] **test Freemius user workflow** — theme install + activation end-to-end (from inbox 2026-06-25)
-- [ ] **seijaku-fse: all images set** — hero and inner images
+- [x] **seijaku-fse: all images set** — hero and inner images
 
 ## ⚡ Quick wins (small CSS/copy fixes)
 
@@ -56,3 +56,4 @@
 - [ ] AI agent: market report generator
 - [ ] AI agent: Freemius + Envato sales analyser
 - [ ] AI agent: email replier
+- [ ] AI agent: "consultant" — reviews this vault's git history + TASKS/Inbox patterns to spot repeated manual work and propose automations/process fixes (meta-optimization, not a marketing agent)
