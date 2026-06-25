@@ -15,6 +15,7 @@
 - [ ] **seijaku-fse: footer intro text**
 - [ ] **seijaku-fse: technicals styling (link color)** - which is defatul text llink appearance on hover
 - [ ] **seijaku-fse: service page hero tagline width** — too wide, needs constraining
+- [ ] **seijaku-fse: service page process parapgrah — too wide, needs constraining
 - [ ] **seijaku-fse: service CTA tagline color** — section bg/classes to review
 - [ ] **seijaku-fse: Mailchimp message position** — success/error message should appear below the form, not floating left
 
