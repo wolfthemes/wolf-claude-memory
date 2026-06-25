@@ -197,6 +197,7 @@
   },
   "active": "bbe216e9084a9d00",
   "lastOpenFiles": [
+    "wiki/projects/wolfthemes-growth/wolfthemes-growth.md.tmp.13069.2c932bab5de4",
     "raw/brevo-import/README.md",
     "raw/brevo-import/README.md.tmp.13069.68ea5f59c02a",
     "raw/brevo-import/06_rejected_emails.csv",
@@ -241,7 +242,6 @@
     "commands/wp-cache-flush.md",
     "commands/seijaku-fse-template.md",
     "commands/push-and-watch.md",
-    "commands/learn.md",
-    "commands/format-and-lint.md"
+    "commands/learn.md"
   ]
 }
