@@ -32,7 +32,7 @@
 - [ ] **wolf-store: audit filter and overall archive UI**
 - [x] **wolf-store: theme archive load more pagination**
 - [x] **seijaku-fse: form styling** — contact form and Mailchimp form (input and textarea helper with transparent bg)
-- [ ] **seijaku-fse: blog template design**
+- [x] **seijaku-fse: blog template design**
 - [x] **seijaku-fse: maintenance / coming soon template**
 - [ ] **seijaku-fse: details/toggle WP block styling** — paragraph content padding causing laggy animation. Removing padding fixes it, but we must find a way to add space below the content paragraph
 - [ ] **wolf-blocks/testimonial: add author avatar** — round badge showing the first letter of the author's name
