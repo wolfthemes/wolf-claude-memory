@@ -34,6 +34,9 @@
 - [ ] **wolf-store: Omnity demo — Spotify playlist** — add Spotify playlist to the Omnity theme demo
 - [ ] **wolf-store: theme stars data** — show star/rating data on the price box
 - [ ] **wolf-store: Poize theme page — super long testimonials** — layout issue with very long testimonial content
+- [ ] **optimizer: themecard thumbnail size** — review and set correct thumbnail dimensions for theme cards (from inbox 2026-06-25)
+- [ ] **cookie consent banner** — implement cookie consent banner (from inbox 2026-06-25)
+- [ ] **demo pop-up → wolfthemes.com** — add a pop-up in the demo sites directing visitors to wolfthemes.com (from inbox 2026-06-25)
 
 ### P3 — Do last (perf + animation polish)
 

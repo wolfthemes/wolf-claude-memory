@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef12a66dfa8d4432",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "62908e112108a54c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "TASKS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TASKS"
             }
           }
         ]
@@ -191,8 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "62908e112108a54c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Inbox.md",
+    "Home.md",
     "raw/themes/superflick/thumbs",
     "raw/themes/staaw/thumbs/05.png",
     "raw/themes/staaw/thumbs/04.png",
@@ -213,10 +219,7 @@
     "raw/themes/eightpulse/thumbs",
     "raw/themes/tattoopress/thumbs",
     "raw/themes/hares/thumbs",
-    "raw/themes/unimate/thumbs",
-    "Inbox.md",
     "wiki/concepts/audience-building-strategy.md",
-    "Home.md",
     "node_modules/playwright-core/lib/tools/trace/SKILL.md",
     "node_modules/playwright-core/lib/tools/cli-client/skill/references/video-recording.md",
     "node_modules/playwright-core/lib/tools/cli-client/skill/references/tracing.md",

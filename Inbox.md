@@ -5,4 +5,3 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 One line per item. No formatting needed.
 
 ---
-optimizer themecard thumbnail size
