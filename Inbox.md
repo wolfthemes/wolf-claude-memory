@@ -6,6 +6,7 @@ One line per item. No formatting needed.
 
 ---
 siejkau-fse: home story section switch to light?
+Important: test freemius user workflow: theme install and activation
 
 After 1st July Lunch:
  -  Enable wolftheme-store-banner
