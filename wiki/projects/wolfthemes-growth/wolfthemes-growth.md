@@ -28,6 +28,17 @@ These are one funnel, ordered by stage. Each feeds the next — don't optimize a
 - **Conversion surfaces:** the wolf-store single theme pages and homepage — see [[wolf-store]] and CRO tasks in TASKS.md.
 - **Store launch:** depends on [[wolfthemes-redesign]] shipping and the 2026-07-01 launch (post-launch checklist in STATUS.md).
 
+## Email list & ESP (decided 2026-06-25)
+
+- **ESP: Brevo.** Free tier = unlimited contacts, 300 emails/day. Mailchimp free (500 contacts) was too small. Paying ~€9 Starter for the **first launch month** to lift the daily cap and gain momentum within the tight launch window. No connector exists for any ESP — content is drafted here and pasted in manually.
+- **Two audiences:**
+  - **Warm list** — the existing ~1,000 subscribers (cold, sub-1% CTR; needs re-engagement). Gets the [[launch-newsletter]] directly.
+  - **Imported buyers** — **6,187 unique customers** exported from Ticksy (the real customer record; Gmail held almost none). Source: `raw/ticksy-customers.csv` (gitignored PII). Segmented into `raw/segments/` (gitignored):
+    - `repeat-buyers.csv` — **1,398** (>1 purchase; gold segment, send first)
+    - `single-buyers.csv` — 3,535
+    - `no-purchase.csv` — 1,254 (support-only; lowest priority, highest GDPR caution)
+- **Consent flow (GDPR, FR):** imported buyers never opted into marketing → they get the [[optin-reengagement-email]] **first**; only confirmers receive the [[launch-newsletter]] promo. Starting with repeat-buyers protects sender reputation. The 300/day free cap means ~21 days to reach all 6k — hence the paid month to compress it into the launch window.
+
 ## Open threads
 
 - Pinterest not yet activated — highest-leverage untapped channel.
