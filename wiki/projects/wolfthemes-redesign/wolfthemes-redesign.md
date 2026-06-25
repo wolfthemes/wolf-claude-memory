@@ -1,6 +1,9 @@
 # wolfthemes-redesign
 
-**Goal:** Replace wolfthemes.com (old Seijaku + Elementor site) with a modern FSE / Gutenberg-only storefront.
+**Goal:** 
+
+ - Replace wolfthemes.com (old Seijaku + Elementor site) with a modern FSE / Gutenberg-only storefront.
+ - Create a store to sell Premium WordPress themes, outside of ThemeForest, which is currently the only selling channel
 
 **Status:** Active — all pages built. wolf-blocks in-page testing underway. Pre-production sprint in progress, targeting production deployment next week.
 
