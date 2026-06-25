@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "TASKS"
             }
           }
         ]
@@ -197,10 +197,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "TASKS.md",
-    "Inbox.md",
-    "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md",
     "Home.md",
+    "Inbox.md",
+    "TASKS.md",
+    "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md",
     "raw/themes/superflick/thumbs",
     "raw/themes/staaw/thumbs/05.png",
     "raw/themes/staaw/thumbs/04.png",
