@@ -3,3 +3,7 @@ node_modules
 
 # Demo screenshots — large binaries for the promotion push, not version-controlled
 raw/themes/*/screenshots/
+
+# Customer PII — exports and derived segments, never version-controlled
+raw/ticksy-customers.csv
+raw/segments/

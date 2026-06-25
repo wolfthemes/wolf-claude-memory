@@ -197,6 +197,11 @@
   },
   "active": "bbe216e9084a9d00",
   "lastOpenFiles": [
+    "raw/ticksy-customers.csv",
+    "raw/Unconfirmed 734750.crdownload",
+    "wiki/projects/wolfthemes-growth/optin-reengagement-email.md",
+    "wiki/projects/wolfthemes-growth/optin-reengagement-email.md.tmp.13069.220d91146d8b",
+    "TASKS.md.tmp.13069.ac962d5626b9",
     "wiki/projects/wolfthemes-growth/launch-newsletter.md",
     "wiki/projects/wolfthemes-growth/launch-newsletter.md.tmp.13069.fe3bfe450d42",
     "TASKS.md.tmp.13069.79011df83b65",
@@ -210,9 +215,6 @@
     "screenshots",
     "wiki/concepts/audience-building-strategy.md",
     "raw/demo-pages/alceste.json",
-    "raw/demo-pages/8pulse.json",
-    "raw/demo-pages/zample.json",
-    "raw/demo-pages/yor.json",
     "wiki/concepts/analytics-marketing-stack.md",
     "wiki/projects/wolfthemes-growth/wolfthemes-growth.md",
     "Inbox.md",
@@ -240,8 +242,6 @@
     "commands/seijaku-fse-template.md",
     "commands/push-and-watch.md",
     "commands/learn.md",
-    "commands/format-and-lint.md",
-    "commands/commit-and-push.md",
-    "raw/constantin.saguin.com/README.md"
+    "commands/format-and-lint.md"
   ]
 }
