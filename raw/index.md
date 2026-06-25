@@ -22,6 +22,11 @@ When something from raw/ is distilled into durable knowledge, it goes into `wiki
 | `themeforest-portfolio/theme-taxonomie chat.md` | Taxonomy optimization chat | Full Claude conversation (June 2026) that produced the category/tag/color/style taxonomy overhaul for all 47 themes |
 | `wolf-store/single-theme-page-container-lateral-padding-issue.png` | Screenshot | Visual showing the lateral padding bug on single theme pages at viewport widths below 1600px — reference for the TASKS.md fix |
 | `wolfthemes/stack.md` | Stack reference | Analytics & marketing stack IDs (GA4, Freemius, Buffer), plus decisions log from 2026-06-24 |
+| `themes/<slug>/theme_meta.json` | Per-theme positioning data | Structured marketing metadata for each of the ~50 themes: store headline/subheadline, features, selling points, style, target audience, key benefits, included plugins, design features, use cases, testimonials. Canonical structured source for store pages and social copy (complements the prose in `themeforest-portfolio/theme-positioning.md`). |
+| `themes/<slug>/images.json` | Preview image manifest | CDN URLs + labels for each theme's demo screenshots, grouped by section. |
+| `themes/<slug>/thumbs/` | Theme thumbnails | Demo thumbnail images per theme. |
+| `themes/fetch-theme-data.sh` | Data fetch script | Bash+jq script (run locally) that populates `raw/themes/` with theme_meta + images for the full slug list. |
+| `themes/screenshot.js` | Screenshot script | Playwright script (run locally) to capture hero/wide/full preview screenshots from preview.wolfthemes.store for Pinterest/social. |
 | `seijaku-fse/images/screenshots/contact-page.png` | Screenshot | Contact page design, seijaku-fse redesign sprint |
 | `seijaku-fse/images/screenshots/music-themes-presentation-page.png` | Screenshot | Music themes category page, seijaku-fse redesign sprint |
 | `seijaku-fse/images/screenshots/services-page.png` | Screenshot | Services page design, seijaku-fse redesign sprint |

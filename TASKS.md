@@ -8,6 +8,7 @@
 
 - [ ] **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ must be done before end of June 2026-06-30
 - [ ] **prod: redeploy all Freemius themes** (from inbox 2026-06-23)
+- [ ] **test Freemius user workflow** — theme install + activation end-to-end (from inbox 2026-06-25)
 - [x] **staging website: set _Available Post Types_ taxonomy for each theme**
 - [ ] **seijaku-fse: need all images set** (hero and inner images)
 
@@ -36,6 +37,7 @@
 - [x] **seijaku-fse: maintenance / coming soon template**
 - [ ] **seijaku-fse: details/toggle WP block styling** — paragraph content padding causing laggy animation. Removing padding fixes it, but we must find a way to add space below the content paragraph
 - [ ] **wolf-blocks/testimonial: add author avatar** — round badge showing the first letter of the author's name
+- [ ] **seijaku-fse: home story section** — try switching to a light background (from inbox 2026-06-25)
 
 ### P3 — Do last (perf + animation polish)
 

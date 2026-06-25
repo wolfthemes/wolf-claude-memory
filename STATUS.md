@@ -42,6 +42,16 @@
 
 ---
 
+## Post-launch checklist (after 2026-07-01)
+
+> Trigger once launch ships. Candidate for a one-off scheduled reminder dated 2026-07-01.
+
+- [ ] Enable wolfthemes-store-banner
+- [ ] Send newsletter (Mailchimp)
+- [ ] Post social posts
+
+---
+
 ## Resolved Decisions
 
 - Newsletter tool: **Mailchimp**

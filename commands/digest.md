@@ -29,12 +29,19 @@ For each unindexed file:
 - Distill any durable knowledge into the appropriate wiki/ page
 - Add the file to raw/index.md with a one-line description
 
-### 4. Update statuses
+### 4. Prune completed todos
+In TASKS.md, remove every item marked done (`- [x]`) from the Active,
+Waiting On, and Someday sections. These are finished and only add noise.
+Before deleting, check each one carries no durable decision or knowledge
+that isn't already captured in a wiki/ page — if it does, file that first,
+then remove the line. Keep a count of what was pruned for the digest.
+
+### 5. Update statuses
 Scan wiki/projects/**/*.md and STATUS.md for stale or completed items.
 Update any status that can be determined from context without guessing.
 Flag anything that needs a human decision.
 
-### 5. Produce a digest summary
+### 6. Produce a digest summary
 After all updates are done, output:
 
 ### 🎯 This week's target
