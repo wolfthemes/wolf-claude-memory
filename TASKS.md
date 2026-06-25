@@ -13,17 +13,17 @@
 
 ### P1 — Quick wins (small CSS/copy fixes, easy)
 
-- [ ] **seijaku-fse: footer intro text**
+- [x] **seijaku-fse: footer intro text**
 - [ ] **seijaku-fse: technicals styling (link color)** - which is defatul text llink appearance on hover
 - [x] **seijaku-fse: service page hero tagline width** — too wide, needs constraining
 - [x] **seijaku-fse: service CTA tagline color** — section bg/classes to review
-- [ ] **seijaku-fse: Mailchimp message position** — success/error message should appear below the form, not floating left
+- [x] **seijaku-fse: Mailchimp message position** — success/error message should appear below the form, not floating left
 
 ### P2 — Needs more attention (design / build / copy)
 
 - [x] **seijaku-fse: sticky menu**
 - [ ] **seijaku-fse: mobile menu design** — redesign hamburger with a better opening animation; move the hamburger to the right of the nav bar; the open menu panel currently renders cramped in the top-right (see screenshots) and needs a proper full-width/overlay treatment
-- [ ] **seijaku-fse: hero overlay + sticky menu bug** — overlay and sticky menu interact incorrectly, needs investigation
+- [x] **seijaku-fse: hero overlay + sticky menu bug** — overlay and sticky menu interact incorrectly, needs investigation
 - [ ] **wolf-store: single theme page mobile spacing** — spacing issues on mobile viewport
 - [ ] **wolf-store: theme page comparison table badge position** — mimic the badge position used in service pricing tables
 - [x] **Theme demos: morvan/minimal-home menu** — menu appears odd at `https://preview.wolfthemes.store/morvan/minimal-home/`
