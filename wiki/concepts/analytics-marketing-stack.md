@@ -14,12 +14,16 @@ See `raw/wolfthemes/stack.md` for the full ID/key reference.
 | Revenue | Freemius | Store ID 15308. REST API. Secret key in `.env` only. |
 | Web analytics | GA4 + Site Kit | Property "WolfThemes Store" — `properties/543096202` on wolfthemes.com. |
 | Tag management | GTM | Demo sites only (GTM-WSKJDHHW). Not on wolfthemes.com. |
-| Social scheduling | Buffer | Org 66e40cad8a27b612c7a0ccd3. Channels: Facebook, Twitter/X, Instagram. Pinterest pending. |
+| Social scheduling | Buffer | Org 66e40cad8a27b612c7a0ccd3. Channels: Facebook, Instagram, Pinterest. X/Twitter removed 2026-06-25 (replaced by Pinterest pro account). |
 | Security | Jetpack | Kept for brute force protection only. Stats module disabled. |
 
 ---
 
 ## Decisions
+
+**2026-06-25**
+
+- **X/Twitter dropped, Pinterest added on Buffer.** A professional Pinterest account is now live and took X's Buffer slot. Pinterest is the best-fit channel for the theme catalog (see [[audience-building-strategy]]); X's expected return didn't justify the slot.
 
 **2026-06-24**
 
@@ -32,10 +36,11 @@ See `raw/wolfthemes/stack.md` for the full ID/key reference.
 
 ## Social Platform Priority
 
-1. Instagram — primary
-2. Pinterest — primary
-3. X (Twitter) — low priority
-4. LinkedIn — never (see decision above)
+1. Pinterest — primary (pro account live + on Buffer since 2026-06-25)
+2. Instagram — primary
+3. Facebook — secondary
+4. X (Twitter) — dropped 2026-06-25 (removed from Buffer)
+5. LinkedIn — never (see decision above)
 
 ---
 

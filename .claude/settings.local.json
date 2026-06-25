@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Read(//mnt/c/Users/const/wolfthemes-dev/**)"
+      "Read(//mnt/c/Users/const/wolfthemes-dev/**)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }

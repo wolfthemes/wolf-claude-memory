@@ -67,6 +67,7 @@ A daily scheduled task triages `Inbox.md`. For each line: a task or commitment w
 - Evolve incrementally. This file and the wiki's structure can grow as real needs emerge — don't pre-build sections for situations that haven't happened yet.
 - Favor reusable knowledge over project-specific detail. When writing something on a project page, ask whether it actually belongs on a concept or product page instead.
 - Optimize for this still making sense in three years with no memory of today's context. Write pages as if a future reader (human or Claude) has none of the surrounding conversation.
+- Write everything in the KB in English, regardless of the language of the conversation that produced it.
 
 ## Secrets
 

@@ -1,92 +1,98 @@
-# Stratégie de construction d'audience — WolfThemes
+# Audience-Building Strategy — WolfThemes
 
-Décisions et principes pour construire une audience qui génère des ventes sur wolfthemes.com. Rédigé après diagnostic de l'absence de croissance malgré 14 ans de présence marketplace (2026-06-24).
-
----
-
-## Diagnostic : pourquoi pas d'audience jusqu'ici
-
-ThemeForest gère la découverte. Pendant 14 ans, il n'y avait aucun besoin de marketer directement — le muscle n'a pas été construit. Le lancement du store wolfthemes.com (juillet 2026) est le premier vrai moment de marketing direct.
-
-Problèmes structurels du contenu actuel :
-- 100% product showcase → pas de raison de suivre le compte
-- Même texte sur tous les réseaux → pas natif à chaque plateforme
-- Pas de valeur pour l'audience cible entre les posts produit
-- Zéro engagement sortant (commenter, répondre, rejoindre des conversations)
-- Pinterest inexploité malgré son potentiel élevé pour les thèmes WP
+Decisions and principles for building an audience that generates sales on wolfthemes.com. Written after diagnosing the absence of growth despite 14 years of marketplace presence (2026-06-24).
 
 ---
 
-## Principes
+## Why this matters now: the exclusivity switch
 
-**La vraie métrique : clics vers wolfthemes.com, pas les followers.**
-Un compte de 500 abonnés qui cliquent vaut plus que 10 000 abonnés passifs.
+For 14 years WolfThemes sold themes on ThemeForest (Envato) as an **exclusive author** — meaning themes could only be sold through TF, and TF owned discovery entirely. As of the 2026-07-01 store launch, the author status changes to **non-exclusive**, which makes it possible to sell the same themes directly through an owned store at wolfthemes.com.
 
-**Les gens suivent des personnes, pas des produits.**
-30% du contenu peut être product showcase. Les 70% restants doivent apporter de la valeur à l'audience cible.
-
-**Montrer la transformation, pas le thème.**
-Pas : "Voici Decibel, un thème musique WordPress."
-Oui : "Ce groupe utilisait une page Facebook. Maintenant ils ont un site qui convertit les visiteurs en billets vendus."
+This is the first time WolfThemes owns its own sales channel and must drive its own traffic. The entire goal from 2026-07-01 onward is to **drive customers to the new store**. See [[wolfthemes-growth]].
 
 ---
 
-## Mix de contenu cible
+## Diagnosis: why there was no audience until now
 
-| Type | Part | Exemples |
+ThemeForest handled discovery. For 14 years there was no need to market directly — the marketing muscle was never built. The wolfthemes.com store launch (July 2026) is the first real moment of direct marketing.
+
+Structural problems with the current content:
+- 100% product showcase → no reason to follow the account
+- Same copy across every network → not native to each platform
+- No value for the target audience between product posts
+- Zero outbound engagement (commenting, replying, joining conversations)
+- Pinterest untapped despite its high potential for WP themes
+
+---
+
+## Principles
+
+**The real metric: clicks to wolfthemes.com, not followers.**
+An account of 500 followers who click is worth more than 10,000 passive ones.
+
+**People follow people, not products.**
+30% of content can be product showcase. The other 70% must deliver value to the target audience.
+
+**Show the transformation, not the theme.**
+Not: "Here's Decibel, a WordPress music theme."
+Yes: "This band was using a Facebook page. Now they have a site that converts visitors into ticket sales."
+
+---
+
+## Target content mix
+
+| Type | Share | Examples |
 |---|---|---|
-| Product showcase | 30% | Présentation d'un thème, feature highlight |
-| Transformation / résultat | 25% | Avant/après, site client en contexte réel |
-| Valeur pour la niche | 25% | Conseils site web pour musiciens, inspo design |
-| Créateur / behind-the-scenes | 20% | Process de design, décisions produit, coulisses |
+| Product showcase | 30% | Theme presentation, feature highlight |
+| Transformation / result | 25% | Before/after, real client site in context |
+| Niche value | 25% | Website tips for musicians, design inspo |
+| Creator / behind-the-scenes | 20% | Design process, product decisions, backstage |
 
 ---
 
-## Stratégie par réseau
+## Per-network strategy
 
-### Pinterest — priorité 1 (non encore activé)
-Le canal le plus sous-exploité et le plus adapté au catalogue.
-- Les pins ont une durée de vie de 2-3 ans (vs 48h sur Instagram)
-- Les gens cherchent "music website design", "band website ideas" → intention d'achat
-- Créer des tableaux par niche : Music Websites, Fashion WordPress Themes, etc.
-- Format : pin vertical 2:3, titre SEO-optimisé, description avec mots-clés naturels
-- Objectif : trafic organique long terme vers les pages thèmes
+### Pinterest — priority 1 (activated 2026-06-25)
+A professional Pinterest account is now live and connected to Buffer (it replaced X on Buffer — see [[analytics-marketing-stack]]). The most underused channel and the best fit for the catalog.
+- Pins have a 2-3 year lifespan (vs 48h on Instagram)
+- People search "music website design", "band website ideas" → purchase intent
+- Build boards by niche: Music Websites, Fashion WordPress Themes, etc.
+- Format: vertical 2:3 pin, SEO-optimized title, description with natural keywords
+- Goal: long-term organic traffic to the theme pages
 
-### Instagram — priorité 2
-- **Reels > posts statiques** depuis 2022 — le reach organique sur les posts statiques est minimal. Même 30 secondes de screen-recording du thème en mouvement.
-- Posts statiques : carousel (3-5 slides) pour montrer plusieurs vues d'un thème
-- Stories : engagement quotidien, behind-the-scenes, sondages sur les niches
+### Instagram — priority 2
+- **Reels > static posts** since 2022 — organic reach on static posts is minimal. Even 30 seconds of screen-recording the theme in motion.
+- Static posts: carousel (3-5 slides) to show several views of a theme
+- Stories: daily engagement, behind-the-scenes, niche polls
 
-### X / Twitter — priorité 3, faible effort
-- Conversations dans la communauté WordPress (#WordPress, #WebDesign)
-- Réponses aux discussions sur les outils de création de sites
-- Pas d'annonces produit isolées — rejoindre des fils existants
+### X / Twitter — dropped (2026-06-25)
+Removed from the Buffer rotation and replaced by Pinterest. The low expected return didn't justify a Buffer channel slot.
 
 ---
 
-## Tactiques à fort impact
+## High-impact tactics
 
-**Sites clients (UGC)** — le post Speaker avec @lossalvapantallas est le meilleur format. Chercher activement les clients qui utilisent les thèmes, les tagguer. C'est de la preuve sociale réelle.
+**Client sites (UGC)** — the Speaker post with @lossalvapantallas is the best format. Actively find clients using the themes and tag them. This is real social proof.
 
-**Niche par période** — ne pas mélanger Decibel (musique) et Nordkapp (aventure) la même semaine. Faire 3-4 semaines sur une niche crée de l'autorité perçue dans cette communauté.
+**Niche by period** — don't mix Decibel (music) and Nordkapp (adventure) in the same week. Running 3-4 weeks on one niche builds perceived authority in that community.
 
-**Timing** — poster quand l'audience cible est active :
-- Musiciens : jeudi-vendredi soir (avant les concerts du week-end)
-- Fashion/boutique : mardi-mercredi matin
-- Général WordPress : mardi-jeudi en journée
+**Timing** — post when the target audience is active:
+- Musicians: Thursday-Friday evening (before weekend gigs)
+- Fashion/boutique: Tuesday-Wednesday morning
+- General WordPress: Tuesday-Thursday during the day
 
-**Lancement store (1er juillet 2026)** — événement content unique. Série de posts :
-1. Countdown J-3 : "quelque chose arrive"
-2. J-1 : teaser du store
-3. Jour J : annonce + offre lancement
-4. J+3 : retour sur le lancement, first buyers
+**Store launch (2026-07-01)** — a one-off content event. Post series:
+1. Countdown D-3: "something is coming"
+2. D-1: store teaser
+3. Launch day: announcement + launch offer
+4. D+3: launch recap, first buyers
 
 ---
 
-## Ce qui ne fonctionne pas
+## What does not work
 
-- Poster le même texte sur tous les réseaux simultanément
-- Uniquement des screenshots de thèmes sans contexte
-- Hashtags trop génériques (#WordPress seul)
-- Ignorer les commentaires et DMs
-- Viser des followers plutôt que des clics
+- Posting the same copy across every network at once
+- Theme screenshots only, with no context
+- Hashtags that are too generic (#WordPress alone)
+- Ignoring comments and DMs
+- Chasing followers instead of clicks
