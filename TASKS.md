@@ -22,7 +22,7 @@
 
 - [x] **mobile menu design** (P2) — redesign hamburger with a better opening animation; move it to the right of the nav bar; the open panel currently renders cramped in the top-right (see screenshots) and needs a proper full-width/overlay treatment
 - [ ] **details/toggle WP block styling** (P2) — paragraph padding causes laggy animation. Removing padding fixes it, but we need a way to keep space below the content paragraph
-- [ ] **home story section** (P2) — try switching to a light background (from inbox 2026-06-25)
+- [x] **home story section** (P2) — try switching to a light background (from inbox 2026-06-25)
 - [ ] **animation engine** (P3) — subtle entrance and scroll animation
 - [ ] **home hero twist** (P3) — add a subtle visual element (brushstroke, animated word, italic/serif accent) to make the hero more distinctive
 
