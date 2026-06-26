@@ -44,13 +44,15 @@ These are one funnel, ordered by stage. Each feeds the next — don't optimize a
 In Brevo the single-buyer (`03`, 3,464) and no-purchase (`04`, 1,204) files were merged into one list (#5, 4,668): a "no purchase" Ticksy contact is almost always a presales/general-support ticket, not a distinct audience, and both tiers receive the same opt-in email anyway. **Brevo lists:** Warm Opt In #3 (963), Cold — repeat buyers #4 (1,363), Cold — single buyers #5 (4,668), Suppressed #2 (251).
 
 - **Brevo sizing:** contacts are effectively unlimited on any plan (ignore the contact slider). Size only on **emails/month** (~10–11k in the launch month). Free = 300/day; a paid Starter month lifts that to blast same-day if wanted, but a cold account should ramp slowly regardless.
+- **Footer newsletter sign-up repointed to Brevo (2026-06-26):** the [[wolf-blocks]] sign-up block (slug `wolf-blocks/mailchimp-form`, kept for backward compat) now POSTs to Brevo `/v3/contacts` (`api-key` header, integer `listIds`, `updateEnabled`) instead of Mailchimp — change is in `Mailchimp_Rest.php`; settings page + editor labels now reference Brevo. Admin sets the numeric **Brevo list ID** on the block. ESP-neutral rename of the class/slug is a post-launch cleanup. Enable **double opt-in** on the target Brevo list so footer sign-ups are consent-clean.
 
 ## Email campaign plan — by consent status
 
 Two tracks. **Never cross them**: cold leads must opt in before they see a promo.
 
 **Track A — Warm (963, opted-in):**
-1. Launch day (2026-07-01): [[launch-newsletter]] — 20% promo, direct.
+0. D-2 (Mon 2026-06-29): [[launch-teaser-email]] — plain-text founder heads-up, no discount; builds anticipation and reserves the launch deal for this list. Scheduled in Brevo.
+1. Launch day (2026-07-01): [[launch-newsletter]] — launch promo, direct. **Discount level still open: draft says 20%, 30% under consideration.**
 2. D+2: last-chance reminder to non-openers.
 
 **Track B — Cold (6,031 buyers, no marketing consent):**

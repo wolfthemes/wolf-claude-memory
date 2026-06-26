@@ -5,24 +5,21 @@
 
 ## 🚀 Launch-critical (P0 — prod by 2026-06-30 eve)
 
-- [x] **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ before end of 2026-06-30
 - [ ] **prod: redeploy all Freemius themes** (from inbox 2026-06-23)
-- [x] **test Freemius user workflow** — theme install + activation end-to-end (from inbox 2026-06-25) -> controlled on Aurenza
-- [x] **export Ticksy contacts** (tomorrow 2026-06-26) — buyer email + theme purchased; the warm-customer list lives in Ticksy, not Gmail. Drop CSV in `raw/` for dedupe/segmentation. See [[wolfthemes-growth]]
 - [ ] **Brevo: build subscription form** (2026-06-26) — feeds the **Marketing Confirmed** list; it's the target of the opt-in re-permission email's button (records consent w/ timestamp+IP). Then promo sends to Warm Opt In #3 + Marketing Confirmed. See [[optin-reengagement-email]]
-- [x] **seijaku-fse: all images set** — hero and inner images
 
 ## ⚡ Quick wins (small CSS/copy fixes)
 
 - [ ] **seijaku-fse: technicals styling (link color)** — default text-link appearance on hover
+- [ ] **wolf-store: sidebar filter spacing** (P1, from inbox 2026-06-26) — check/fix spacing
+- [ ] **wolf-supertheme: Elementor site width default** (from inbox 2026-06-26) — default site-width setting not applied out of the box
 
 ## By project
 
 ### seijaku-fse
 
-- [x] **mobile menu design** (P2) — redesign hamburger with a better opening animation; move it to the right of the nav bar; the open panel currently renders cramped in the top-right (see screenshots) and needs a proper full-width/overlay treatment
 - [ ] **details/toggle WP block styling** (P2) — paragraph padding causes laggy animation. Removing padding fixes it, but we need a way to keep space below the content paragraph
-- [x] **home story section** (P2) — try switching to a light background (from inbox 2026-06-25)
+- [ ] **counter font size on mobile** (P1, from inbox 2026-06-26) — stats-counter number font size needs a mobile adjustment
 - [ ] **animation engine** (P3) — subtle entrance and scroll animation
 - [ ] **home hero twist** (P3) — add a subtle visual element (brushstroke, animated word, italic/serif accent) to make the hero more distinctive
 

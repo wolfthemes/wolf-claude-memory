@@ -47,13 +47,13 @@
 > Trigger once launch ships. Candidate for a one-off scheduled reminder dated 2026-07-01.
 
 - [ ] Enable wolfthemes-store-banner
-- [ ] Send newsletter (Mailchimp)
+- [ ] Send launch newsletter (Brevo) — warm list, see [[launch-newsletter]]. Teaser already scheduled Mon 2026-06-29 15:30 Paris.
 - [ ] Post social posts
 
 ---
 
 ## Resolved Decisions
 
-- Newsletter tool: **Mailchimp**
+- Newsletter tool: **Brevo** (switched from Mailchimp 2026-06-25 — see [[wolfthemes-growth]])
 - SEO landing pages: **wolf-store single theme pages** (`wolfthemes.com/theme/<slug>`) — no separate infrastructure
 - constantin.saguin.com: **paused**

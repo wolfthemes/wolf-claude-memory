@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASKS.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASKS"
+              "title": "Inbox"
             }
           }
         ]
@@ -197,25 +197,27 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wiki/projects/wolfthemes-growth/launch-teaser-email.md",
+    "wiki/projects/wolfthemes-growth/wolfthemes-growth.md.tmp.78844.ace50dbb5d89",
+    "wiki/projects/wolfthemes-growth/launch-teaser-email.md.tmp.78844.f6cdd9800ef8",
+    "STATUS.md.tmp.78844.b4716cb076ea",
+    "STATUS.md.tmp.78844.32e71d298f77",
+    "Inbox.md.tmp.78844.0318390f3266",
+    "TASKS.md.tmp.78844.8daddc0c8a32",
+    "TASKS.md.tmp.78844.850187cb6f8b",
+    "wiki/products/guty/guty.md",
+    "wiki/products/guty",
+    "wiki/projects/wolfthemes-growth/optin-reengagement-email.md",
+    "wiki/projects/wolfthemes-growth/wolfthemes-growth.md",
+    "wiki/projects/wolfthemes-growth/launch-newsletter.md",
+    "TASKS.md",
     "Inbox.md",
     "raw/theme-screenshots/sable-home-alt.png",
     "raw/theme-screenshots/Unconfirmed 716872.crdownload",
     "raw/theme-screenshots",
-    "raw/New folder",
-    "TASKS.md",
     "Home.md",
-    "wiki/projects/wolfthemes-growth/wolfthemes-growth.md",
-    "wiki/projects/wolfthemes-growth/optin-reengagement-email.md",
-    "wiki/projects/wolfthemes-growth/launch-newsletter.md",
-    "TASKS.md.tmp.13069.72d17afb45e6",
     "agents/analytics.md",
-    "wiki/projects/wolfthemes-growth/optin-reengagement-email.md.tmp.13069.1568e30023fa",
-    "wiki/projects/wolfthemes-growth/wolfthemes-growth.md.tmp.13069.2c932bab5de4",
     "raw/brevo-import/README.md",
-    "raw/brevo-import/README.md.tmp.13069.68ea5f59c02a",
-    "raw/brevo-import/06_rejected_emails.csv",
-    "raw/brevo-import/05_suppression.csv",
-    "raw/brevo-import/04_cold_no_purchase.csv",
     "agents/marketing.md",
     "wiki/concepts/demo-screenshot-pipeline.md",
     "wiki/concepts/audience-building-strategy.md",
@@ -239,8 +241,6 @@
     "wiki/products/ai-crew/ai-crew.md",
     "commands/learn-fse.md",
     "commands/wp-cache-flush.md",
-    "commands/seijaku-fse-template.md",
-    "commands/push-and-watch.md",
-    "commands/learn.md"
+    "commands/seijaku-fse-template.md"
   ]
 }

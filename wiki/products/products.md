@@ -19,6 +19,7 @@ Long-lived assets and repositories. See [[wiki/concepts/fse-stack-architecture|F
 
 - [[wiki/products/wolfthemes-wiki/wolfthemes-wiki|wolfthemes-wiki]] — VitePress docs site at wiki.wolfthemes.com.
 - [[wiki/products/ai-crew/ai-crew|ai-crew]] — Python/CrewAI automation for support and operations.
+- [[wiki/products/guty/guty|guty]] — TypeScript CLI compiling JSX/TSX into WordPress Gutenberg block markup (FSE templates/parts/patterns). Standalone repo (`wolfthemes/guty`) inside the wolf-store-docker workspace.
 
 ## Personal
 

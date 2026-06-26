@@ -36,3 +36,5 @@ When something from raw/ is distilled into durable knowledge, it goes into `wiki
 | `seijaku-fse/images/screenshots/Premium-WordPress-Studio-Website.png` | Screenshot | Reference design — Premium WordPress Studio site |
 | `seijaku-fse/images/screenshots/Wolf-Themes-High-Quality-Premium-Wordpress-Themes-Plugins-prod.png` | Screenshot | wolfthemes.com production homepage screenshot |
 | `seijaku-fse/images/screenshots/Wolf-Themes-High-Quality-Premium-Wordpress-Themes-Plugins.png` | Screenshot | wolfthemes.com staging homepage screenshot |
+| `demo-pages/<slug>.json` | Demo page inventory | Per-theme JSON arrays of inner demo-page slugs (47 themes). Drives the demo-screenshot pipeline — which pages to capture for Pinterest/social. See [[demo-screenshot-pipeline]]. |
+| `theme-screenshots/` | Captured screenshots | Output of the screenshot pipeline (Playwright) — theme demo captures for marketing/social. Gitignored. |
