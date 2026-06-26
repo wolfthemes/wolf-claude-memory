@@ -6,3 +6,4 @@ One line per item. No formatting needed.
 
 ---
 Test Bevo sub form
+Brevo sub form inherit mailchim one
