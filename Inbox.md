@@ -5,3 +5,11 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 One line per item. No formatting needed.
 
 ---
+High prioroty
+Check wolf-store sidebar filter spacing
+
+wolf-supertheme: Elementor site width default setting not applied by default
+seijaku-fe: counte docn font size on mobile
+
+
+Later: **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ before 2026-08-20
