@@ -3,7 +3,8 @@
     "allow": [
       "Read(//mnt/c/Users/const/wolfthemes-dev/**)",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "mcp__claude_ai_Brevo__email_campaign_management_get_email_campaigns"
     ]
   }
 }
