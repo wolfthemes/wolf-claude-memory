@@ -7,3 +7,5 @@ One line per item. No formatting needed.
 ---
 
 IMPORTANT TODO: schedule social posts
+
+Idea: blog postst to gather visits?
