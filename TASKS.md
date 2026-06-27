@@ -5,8 +5,9 @@
 
 ## 🚀 Launch-critical (P0 — prod by 2026-06-30 eve)
 
-- [ ] **prod: redeploy all Freemius themes** (from inbox 2026-06-23)
-- [ ] **Brevo: build subscription form** (2026-06-26) — feeds the **Marketing Confirmed** list; it's the target of the opt-in re-permission email's button (records consent w/ timestamp+IP). Then promo sends to Warm Opt In #3 + Marketing Confirmed. See [[optin-reengagement-email]]
+- [x] **prod: redeploy all Freemius themes** (from inbox 2026-06-23)
+- [ ] **Brevo: build subscription form** (2026-06-26) — feeds the **Marketing Confirmed** list; it's the target of the opt-in re-permission email's button (records consent w/ timestamp+IP). Then promo sends to Warm Opt In #3 + Marketing Confirmed. See [[optin-reengagement-email]]. Form should inherit Mailchimp form structure/styling.
+- [ ] **Brevo: test subscription form** (from inbox 2026-06-27) — verify form submission, list assignment, and consent recording after build
 
 ## ⚡ Quick wins (small CSS/copy fixes)
 
@@ -20,8 +21,9 @@
 
 - [ ] **details/toggle WP block styling** (P2) — paragraph padding causes laggy animation. Removing padding fixes it, but we need a way to keep space below the content paragraph
 - [x] **counter font size on mobile** (P1, from inbox 2026-06-26) — stats-counter number font size needs a mobile adjustment
-- [ ] **animation engine** (P3) — subtle entrance and scroll animation
+- [ ] **animation engine** (P3) — subtle entrance and scroll animation. Ideas: animate mobile menu items on panel open; animate home hero text on page load
 - [ ] **home hero twist** (P3) — add a subtle visual element (brushstroke, animated word, italic/serif accent) to make the hero more distinctive
+- [ ] **reorganize SCSS folder** (P3, from inbox 2026-06-27) — forms styles need to move out of current location into a more logical folder
 
 ### wolf-store
 
@@ -33,10 +35,17 @@
 ### wolf-blocks
 
 - [ ] **testimonial: add author avatar** (P2) — round badge showing the first letter of the author's name
+- [ ] **declare custom wolf blocks as available Gutenberg elements** (P2, from inbox 2026-06-27) — register blocks so they appear/are selectable in the Gutenberg inserter
+- [ ] **reorganize/refactor Functions folder** (P3, from inbox 2026-06-27) — clean up structure of the Functions directory
 
 ### CRO / marketing
 
 - [ ] **homepage CTA/messaging review** (P2) — missing a clear value/solution hook ("here's the solution to your problem" / "my themes can help you make money"). Plus a lighter CRO pass on the single theme page (already in good shape)
+- [ ] **social posts + newsletter schedule** (P2, from inbox 2026-06-27) — set up proper Buffer posting schedule alongside a separate newsletter cadence
+
+### Workflow / tooling
+
+- [ ] **start implementing Gutenberg in workflow** (P2, from inbox 2026-06-27) — begin integrating the block editor into the dev/design workflow
 
 ### Performance
 
