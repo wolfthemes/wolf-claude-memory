@@ -5,12 +5,12 @@
 
 ## 🚀 Launch-critical (P0 — prod by 2026-06-30 eve)
 
-- [x] **prod: redeploy all Freemius themes** (from inbox 2026-06-23)
 - [ ] **Brevo: build subscription form** (2026-06-26) — feeds the **Marketing Confirmed** list; it's the target of the opt-in re-permission email's button (records consent w/ timestamp+IP). Then promo sends to Warm Opt In #3 + Marketing Confirmed. See [[optin-reengagement-email]]. Form should inherit Mailchimp form structure/styling.
 - [ ] **Brevo: test subscription form** (from inbox 2026-06-27) — verify form submission, list assignment, and consent recording after build
 
 ## ⚡ Quick wins (small CSS/copy fixes)
 
+- [ ] **seijaku-fse: fix newsletter menu position** (P1, from inbox 2026-06-28) — menu position broken in newsletter section
 - [ ] **seijaku-fse: technicals styling (link color)** — default text-link appearance on hover
 - [ ] **wolf-store: sidebar filter spacing** (P1, from inbox 2026-06-26) — check/fix spacing
 - [ ] **wolf-supertheme: Elementor site width default** (from inbox 2026-06-26) — default site-width setting not applied out of the box
@@ -20,13 +20,15 @@
 ### seijaku-fse
 
 - [ ] **details/toggle WP block styling** (P2) — paragraph padding causes laggy animation. Removing padding fixes it, but we need a way to keep space below the content paragraph
-- [x] **counter font size on mobile** (P1, from inbox 2026-06-26) — stats-counter number font size needs a mobile adjustment
 - [ ] **animation engine** (P3) — subtle entrance and scroll animation. Ideas: animate mobile menu items on panel open; animate home hero text on page load
 - [ ] **home hero twist** (P3) — add a subtle visual element (brushstroke, animated word, italic/serif accent) to make the hero more distinctive
 - [ ] **reorganize SCSS folder** (P3, from inbox 2026-06-27) — forms styles need to move out of current location into a more logical folder
 
 ### wolf-store
 
+- [ ] **theme card: resized thumbnail variant** (P2, from inbox 2026-06-28) — resized version of thumbnail for the theme card grid
+- [ ] **theme card: full-width bug when single result** (P1, from inbox 2026-06-28) — theme card takes full width when only one theme in result set
+- [ ] **theme category filter returns nothing intermittently** (P1, from inbox 2026-06-28) — category filter bug; sometimes returns no results
 - [ ] **single theme page mobile spacing** (P2) — spacing issues on mobile viewport
 - [ ] **theme page comparison table badge position** (P2) — mimic the badge position used in service pricing tables
 - [ ] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
