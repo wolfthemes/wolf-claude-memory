@@ -16,7 +16,11 @@ Authors write `.guty.tsx` files; `guty build <input> --out <dist>` compiles them
 
 ## Element set (intentionally narrow)
 
-`Page` (required root), `Section`, `Container`, `Columns`, `Column`, `Heading`, `Paragraph`, `Pattern`, `Header`, `SiteLogo`, `Navigation`, `NavigationLink`, `Button`, plus the generic **`Block`** escape hatch for any registered/custom block (e.g. `wolf-store/theme-index`, `wolf-blocks/*`). Anything outside this set is expected to **throw rather than silently degrade**. Text is only allowed inside `Heading`/`Paragraph`.
+`Page` (required root), `Section`, `Container`, `Main`, `Columns`, `Column`, `Heading`, `Paragraph`, `Pattern`, `Header`, `Footer`, `SiteLogo`, `Navigation`, `NavigationLink`, `Button`, `Buttons`, `List`, `ListItem`, `Link`, plus the generic **`Block`** escape hatch for any registered/custom block (e.g. `wolf-store/theme-index`, `wolf-blocks/*`). Anything outside this set is expected to **throw rather than silently degrade**. Text is only allowed inside `Heading`/`Paragraph`/`Link`.
+
+`Link` is inline-only, valid as a child of `ListItem`. Renders to `<a href="...">children</a>`. Text goes as children, not a prop: `<Link href="/">Home</Link>`.
+
+**Design rule:** content elements take their text as children, never as a `text` prop. `<Heading>`, `<Paragraph>`, `<Button>`, `<Link>` all follow this — keeps the authoring model consistent and allows natural nesting.
 
 `Section`/`Container`/`Header`/`Navigation` share group props: `className`, `align` (`wide`/`full`), `backgroundColor`, `textColor`, `layout`, plus native sugar (`textAlign`, `fontSize`, `fontFamily`, layout sugar, and spacing shorthands `p`/`px`/`py`/`pt`…/`m`/`mx`…). Default layout is `{ type: "constrained" }`.
 

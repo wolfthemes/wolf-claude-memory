@@ -66,7 +66,4 @@
 - [ ] AI agent: email replier
 - [ ] AI agent: "consultant" — reviews this vault's git history + TASKS/Inbox patterns to spot repeated manual work and propose automations/process fixes (meta-optimization, not a marketing agent)
 
-# Later
-
- - [] **Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ before end of 2026-08-20
 

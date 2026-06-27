@@ -6,3 +6,6 @@ One line per item. No formatting needed.
 
 ---
 wolf-store: resized version of thumbnail for the theme card grid
+seijaku-fse: fix newsletter menu potision
+
+Much later: Renew SSL certificate** — wolfthemes.store and wolfthemes.cloud domains — ⚠️ before end of 2026-08-20
