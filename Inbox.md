@@ -7,3 +7,12 @@ One line per item. No formatting needed.
 ---
 Test Bevo sub form
 Brevo sub form inherit mailchim one
+Social posts popro schedule along with different Newsletter schedule
+TDD: decalring custom wolf block as availble guty elemnts.
+Reorganize/refactor wolf-blocks Functions folder
+Re organize seijaku-fse scss folder (mainly forms need to be somewhere esle)
+Start implementing guty in workflow
+
+Animation ideas
+ - animate menu mobile menu item when opening the mobile menu panel
+ - Animate home hero text on page load

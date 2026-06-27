@@ -19,7 +19,7 @@
 ### seijaku-fse
 
 - [ ] **details/toggle WP block styling** (P2) — paragraph padding causes laggy animation. Removing padding fixes it, but we need a way to keep space below the content paragraph
-- [ ] **counter font size on mobile** (P1, from inbox 2026-06-26) — stats-counter number font size needs a mobile adjustment
+- [x] **counter font size on mobile** (P1, from inbox 2026-06-26) — stats-counter number font size needs a mobile adjustment
 - [ ] **animation engine** (P3) — subtle entrance and scroll animation
 - [ ] **home hero twist** (P3) — add a subtle visual element (brushstroke, animated word, italic/serif accent) to make the hero more distinctive
 
