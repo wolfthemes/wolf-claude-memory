@@ -51,10 +51,6 @@
 - [ ] **Schedule social posts** (P1, from inbox 2026-06-28) — actually queue upcoming social posts (separate from the cadence/schedule setup above)
 - [ ] **Blog posts to drive organic traffic** (P2, from inbox 2026-06-28) — idea: write blog content targeting relevant searches; evaluate fit and potential topics
 
-### Workflow / tooling
-
-- [x] **start implementing Gutenberg in workflow** (P2, from inbox 2026-06-27) — begin integrating the block editor into the dev/design workflow
-
 ### Performance
 
 - [ ] **optimization pass** (P3) — after card/archive work (see STATUS.md)
