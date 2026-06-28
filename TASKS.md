@@ -44,6 +44,8 @@
 
 - [ ] **homepage CTA/messaging review** (P2) — missing a clear value/solution hook ("here's the solution to your problem" / "my themes can help you make money"). Plus a lighter CRO pass on the single theme page (already in good shape)
 - [ ] **social posts + newsletter schedule** (P2, from inbox 2026-06-27) — set up proper Buffer posting schedule alongside a separate newsletter cadence
+- [ ] **Schedule social posts** (P1, from inbox 2026-06-28) — actually queue upcoming social posts (separate from the cadence/schedule setup above)
+- [ ] **Blog posts to drive organic traffic** (P2, from inbox 2026-06-28) — idea: write blog content targeting relevant searches; evaluate fit and potential topics
 
 ### Workflow / tooling
 
