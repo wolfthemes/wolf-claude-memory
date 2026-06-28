@@ -49,7 +49,7 @@
 
 ### Workflow / tooling
 
-- [ ] **start implementing Gutenberg in workflow** (P2, from inbox 2026-06-27) — begin integrating the block editor into the dev/design workflow
+- [x] **start implementing Gutenberg in workflow** (P2, from inbox 2026-06-27) — begin integrating the block editor into the dev/design workflow
 
 ### Performance
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "17c948624e498736",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3768c52d643193eb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "TASKS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "TASKS"
             }
           }
         ]
@@ -195,27 +195,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3768c52d643193eb",
   "lastOpenFiles": [
+    "graphify/wolf-store/cache/stat-index.60hj7c9h.tmp",
+    "graphify/wolf-store/cache/ast/v0.8.51/1ab907936438fe07604889cab07a4a1a93ceac0c8355486086e6000e5456ac39.json",
+    "graphify/wolf-store/cache/ast/v0.8.51/330e564f3b7ee4d47d73fc54742618840fca1670a56a8528dcf7167839132685.json",
+    "graphify/wolf-store/cache/ast/v0.8.51/e44768c479a87f4c738e0c0d81f885dae49e18c2b7e70ddd0c3c493d613a2afa.json",
+    "graphify/wolf-store/cache/ast/v0.8.51/9f20d4a8e2ca1dd4b61a695d6f7f766cf6f7a5a6a97b1a4daca5bb76364b2fac.json",
+    "graphify/wolf-store/cache/ast/v0.8.51/1d5afbaccf36e952e71082591edfc9e4fbd9946eb85b01855a1d0bd810b7623d.json",
+    "graphify/wolf-store/cache/ast/v0.8.51/8cb1dbb82571a28740ec0b94978dfc39d48637a3b6687bd73b85b3927cd17afc.json",
+    "graphify/wolf-store/cache/ast/v0.8.51/7aa523dab421e024d9c9777d18c186a790a769265f9fba0d38870d5520b09b38.json",
+    "graphify/wolf-store/cache/ast/v0.8.51/7c7827f2f29d6e2cb6cc6902558dac08380f60c414b4968f83e1bc4e61b3e268.json",
+    "graphify/wolf-store/cache/ast/v0.8.51/609de4b1331ddb2f8c80e97aac0a5de782a373d6f5af858e10a731c20b35c0e2.json",
+    "graphify/wolf-store/cache/ast/v0.8.51/7aa8b606e5c19334b6c9fe62a12fc30eb46c0320d1dbb5726cfda0becdd04a5a.json",
+    "graphify/wolf-blocks/2026-06-28/GRAPH_REPORT.md",
+    "graphify/wolf-blocks/GRAPH_REPORT.md",
     "Home.md",
     "wiki/tools/graphify.md",
-    "graphify",
     "raw/wolfthemes/stack.md",
     "Inbox.md",
     "TASKS.md",
-    "Inbox.md.tmp.37626.b2a4f3968d3c",
-    "TASKS.md.tmp.37626.43a184ab60b0",
-    "TASKS.md.tmp.37626.93145a1a2788",
-    "TASKS.md.tmp.37626.90540b71c604",
-    "TASKS.md.tmp.37626.4b03d1fb01f2",
     "wiki/products/guty/guty.md",
     "wiki/projects/projects.md",
     "node_modules/playwright-core/lib/tools/cli-client/skill/references/storage-state.md",
-    "wiki/projects/wolfthemes-growth/wolfthemes-growth.md.tmp.78844.156f793b7ff0",
     "wiki/projects/wolfthemes-growth/launch-teaser-email.md",
-    "wiki/projects/wolfthemes-growth/wolfthemes-growth.md.tmp.78844.ace50dbb5d89",
-    "wiki/projects/wolfthemes-growth/launch-teaser-email.md.tmp.78844.f6cdd9800ef8",
-    "STATUS.md.tmp.78844.b4716cb076ea",
     "wiki/projects/wolfthemes-growth/optin-reengagement-email.md",
     "wiki/projects/wolfthemes-growth/wolfthemes-growth.md",
     "wiki/projects/wolfthemes-growth/launch-newsletter.md",
@@ -239,9 +242,6 @@
     "raw/themes/yor/thumbs/03.jpg",
     "CLAUDE.md",
     "wiki/concepts/wolfthemes-brand.md",
-    "wiki/concepts/concepts.md",
-    "wiki/products/ai-crew/ai-crew.md",
-    "commands/learn-fse.md",
-    "commands/wp-cache-flush.md"
+    "wiki/concepts/concepts.md"
   ]
 }
