@@ -4,7 +4,7 @@ Process and update the wolf-claude-memory knowledge base. This is an
 active triage command, not a passive report.
 
 ## Vault location
-`/mnt/c/Users/Constantin/wolfthemes-dev/wolf-claude-memory/`
+`/mnt/c/Users/Constantin/dev/wolf-claude-memory/`
 
 ## Steps
 

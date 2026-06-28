@@ -1,13 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Read(//mnt/c/Users/const/wolfthemes-dev/**)",
+      "Read(//mnt/c/Users/Constantin/dev/**)",
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "mcp__claude_ai_Brevo__email_campaign_management_get_email_campaigns",
-      "Bash(git -C \"C:/Users/Constantin/wolfthemes-dev/wolf-claude-memory\" add wiki/tools/graphify.md Inbox.md)",
-      "Bash(git -C C:/Users/Constantin/wolfthemes-dev/wolf-claude-memory commit -m 'wiki: add graphify tool page + inbox entry *)",
-      "Bash(git -C \"C:/Users/Constantin/wolfthemes-dev/wolf-claude-memory\" push)"
+      "Bash(git -C \"C:/Users/Constantin/dev/wolf-claude-memory\" add wiki/tools/graphify.md Inbox.md)",
+      "Bash(git -C C:/Users/Constantin/dev/wolf-claude-memory commit -m 'wiki: add graphify tool page + inbox entry *)",
+      "Bash(git -C \"C:/Users/Constantin/dev/wolf-claude-memory\" push)"
     ]
   }
 }
