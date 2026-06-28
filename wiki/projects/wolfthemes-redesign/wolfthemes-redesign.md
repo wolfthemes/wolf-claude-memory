@@ -5,7 +5,7 @@
  - Replace wolfthemes.com (old Seijaku + Elementor site) with a modern FSE / Gutenberg-only storefront.
  - Create a store to sell Premium WordPress themes, outside of ThemeForest, which is currently the only selling channel
 
-**Status:** Active — all pages built. wolf-blocks in-page testing underway. Pre-production sprint in progress, targeting production deployment next week.
+**Status:** Deployed to wolfthemes.com in coming soon mode (2026-06-28). Final testing and CI/CD behind the curtain. Hard launch date: July 1, 2026.
 
 ## What this is
 
@@ -72,4 +72,5 @@ See also: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]] (positioning) and 
 | Deployment pipeline verified | 🔧 |
 | Dev branches merged / ready | ⏳ |
 | Performance pass | ⏳ |
-| **Production deploy** | 🎯 target: week of 2026-06-23 |
+| Coming soon mode live on wolfthemes.com | ✅ 2026-06-28 |
+| **Production launch (coming soon off)** | 🎯 2026-07-01 |
