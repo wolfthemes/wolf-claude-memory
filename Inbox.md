@@ -4,6 +4,7 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 
 One line per item. No formatting needed.
 
- - [ ] [[wiki/tools/graphify|Graphify]] installé — setup WolfThemes décrit dans wiki/tools/graphify.md
+ - [x] [[wiki/tools/graphify|Graphify]] installé — setup WolfThemes décrit dans wiki/tools/graphify.md
 
 ---
+Teste CLaude deeisgn pour trouvé un petit twist pour le HEro

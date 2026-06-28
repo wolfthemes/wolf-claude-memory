@@ -6,7 +6,7 @@
 ## 🚀 Launch-critical (P0 — prod by 2026-06-30 eve)
 
 - [ ] **Brevo: build subscription form** (2026-06-26) — feeds the **Marketing Confirmed** list; it's the target of the opt-in re-permission email's button (records consent w/ timestamp+IP). Then promo sends to Warm Opt In #3 + Marketing Confirmed. See [[optin-reengagement-email]]. Form should inherit Mailchimp form structure/styling.
-- [ ] **Brevo: test subscription form** (from inbox 2026-06-27) — verify form submission, list assignment, and consent recording after build
+- [ ] **Brevo: re-test subscription form success message** (from inbox 2026-06-27) — verify form submission, list assignment, and consent recording after build
 
 ## ⚡ Quick wins (small CSS/copy fixes)
 
@@ -33,6 +33,10 @@
 - [ ] **theme page comparison table badge position** (P2) — mimic the badge position used in service pricing tables
 - [ ] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **audit filter and overall archive UI** (P2)
+
+### guty
+
+- [ ] **cover element simplification** (P2)
 
 ### wolf-blocks
 

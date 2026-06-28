@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/products/constantin.saguin.com/constantin.saguin.com.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "constantin.saguin.com"
+              "title": "Inbox"
             }
           }
         ]
@@ -197,18 +197,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
     "TASKS.md",
-    "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.7701.38dc3e530351",
-    "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.7701.0b54e84b5bb5",
-    "graphify/wolf-store/cache/stat-index.60hj7c9h.tmp",
-    "graphify/wolf-store/cache/ast/v0.8.51/1ab907936438fe07604889cab07a4a1a93ceac0c8355486086e6000e5456ac39.json",
-    "graphify/wolf-store/cache/ast/v0.8.51/330e564f3b7ee4d47d73fc54742618840fca1670a56a8528dcf7167839132685.json",
-    "graphify/wolf-store/cache/ast/v0.8.51/e44768c479a87f4c738e0c0d81f885dae49e18c2b7e70ddd0c3c493d613a2afa.json",
-    "graphify/wolf-store/cache/ast/v0.8.51/9f20d4a8e2ca1dd4b61a695d6f7f766cf6f7a5a6a97b1a4daca5bb76364b2fac.json",
-    "graphify/wolf-store/cache/ast/v0.8.51/1d5afbaccf36e952e71082591edfc9e4fbd9946eb85b01855a1d0bd810b7623d.json",
-    "graphify/wolf-store/cache/ast/v0.8.51/8cb1dbb82571a28740ec0b94978dfc39d48637a3b6687bd73b85b3927cd17afc.json",
-    "graphify/wolf-store/cache/ast/v0.8.51/7aa523dab421e024d9c9777d18c186a790a769265f9fba0d38870d5520b09b38.json",
+    "Home.md",
+    "graphify/wolf-blocks/cache/stat-index.9dtq6vj_.tmp",
+    "graphify/wolf-blocks/cache/stat-index.5items8p.tmp",
+    "graphify/wolf-blocks/2026-06-29/manifest.json",
+    "graphify/wolf-blocks/2026-06-29/GRAPH_REPORT.md",
+    "graphify/wolf-blocks/2026-06-29/graph.json",
+    "graphify/wolf-blocks/2026-06-29",
+    "graphify/wolf-blocks/cache/ast/v0.8.51/f9c843e0275df805be0ca3f25cd1014dacce95cb822ad94040f8be1f14274bf9.json",
+    "graphify/wolf-blocks/cache/ast/v0.8.51/6f73cd18a0b19fa15a281dcbcafe98f902a8d74bcf41ddb7d57a667c5f32de71.json",
+    "graphify/wolf-blocks/cache/stat-index.hd4a3xj4.tmp",
+    "graphify/wolf-store/cache/stat-index.y17elpky.tmp",
+    "graphify/wolf-store/cache/ast/v0.8.51/b27a85c22fde59d2eee08d8f7f1120037784d359cb2c039fcaeaf405c175bd7f.json",
+    "graphify/wolf-store/2026-06-29/GRAPH_REPORT.md",
+    "wiki/products/seijaku-fse/seijaku-fse.md",
+    "wiki/products/wolf-blocks/wolf-blocks.md",
+    "wiki/products/constantin.saguin.com/constantin.saguin.com.md",
     "graphify/wolf-blocks/2026-06-28/GRAPH_REPORT.md",
     "graphify/wolf-blocks/GRAPH_REPORT.md",
     "wiki/tools/graphify.md",
@@ -228,8 +233,6 @@
     "wiki/concepts/demo-screenshot-pipeline.md",
     "wiki/concepts/audience-building-strategy.md",
     "wiki/concepts/analytics-marketing-stack.md",
-    "STATUS.md",
-    "commands/digest.md",
     "raw/themes/zample/thumbs/05.jpg",
     "raw/themes/zample/thumbs/04.jpg",
     "raw/themes/zample/thumbs/03.jpg",
@@ -238,9 +241,6 @@
     "raw/themes/yor/thumbs/05.jpg",
     "raw/themes/yor/thumbs/04.jpg",
     "raw/themes/yor/thumbs/02.jpg",
-    "raw/themes/yor/thumbs/03.jpg",
-    "CLAUDE.md",
-    "wiki/concepts/wolfthemes-brand.md",
-    "wiki/concepts/concepts.md"
+    "raw/themes/yor/thumbs/03.jpg"
   ]
 }
