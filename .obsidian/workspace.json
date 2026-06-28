@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "TASKS"
             }
           }
         ]
@@ -197,19 +197,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Inbox.md",
+    "graphify/seijaku-fse/cache/stat-index.vlig_qvp.tmp",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/a00587139165f3bff876091846f8212d06912bad2c842bd00da201b47aba73b3.json",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/4349f39bd518d8954c8467a54ee4f7e1d7de36568da3cad2528c167ff118eba0.json",
+    "graphify/seijaku-fse/cache/stat-index.2ef2_hlv.tmp",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/89c8cc4a5f331e351c838b5d45494cb780c5db5498dc6bd994d3c7cd1a6117ca.json",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/d264972bc94a69e5fb12c019d5218d07dea598903b8cafdee9ac95bd06bd0b77.json",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/0ebea569d490698f5731584e9eb67095dc611c8540f546792ddb4fb6d2ff27f5.json",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/11805c066615be716fbfcaea66a22222ea0b555030bb722f826d05ce9f56121f.json",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/e137da3e02beb15ff3b7afdf821bac63323b38ed1e9fa07c7f3703c77ede335a.json",
+    "TASKS.md.tmp.2855.8a158711fa2e",
     "TASKS.md",
     "Home.md",
-    "graphify/wolf-blocks/cache/stat-index.9dtq6vj_.tmp",
-    "graphify/wolf-blocks/cache/stat-index.5items8p.tmp",
-    "graphify/wolf-blocks/2026-06-29/manifest.json",
     "graphify/wolf-blocks/2026-06-29/GRAPH_REPORT.md",
-    "graphify/wolf-blocks/2026-06-29/graph.json",
-    "graphify/wolf-blocks/2026-06-29",
-    "graphify/wolf-blocks/cache/ast/v0.8.51/f9c843e0275df805be0ca3f25cd1014dacce95cb822ad94040f8be1f14274bf9.json",
-    "graphify/wolf-blocks/cache/ast/v0.8.51/6f73cd18a0b19fa15a281dcbcafe98f902a8d74bcf41ddb7d57a667c5f32de71.json",
-    "graphify/wolf-blocks/cache/stat-index.hd4a3xj4.tmp",
-    "graphify/wolf-store/cache/stat-index.y17elpky.tmp",
-    "graphify/wolf-store/cache/ast/v0.8.51/b27a85c22fde59d2eee08d8f7f1120037784d359cb2c039fcaeaf405c175bd7f.json",
     "graphify/wolf-store/2026-06-29/GRAPH_REPORT.md",
     "wiki/products/seijaku-fse/seijaku-fse.md",
     "wiki/products/wolf-blocks/wolf-blocks.md",
@@ -218,7 +219,6 @@
     "graphify/wolf-blocks/GRAPH_REPORT.md",
     "wiki/tools/graphify.md",
     "raw/wolfthemes/stack.md",
-    "Inbox.md",
     "wiki/products/guty/guty.md",
     "wiki/projects/projects.md",
     "node_modules/playwright-core/lib/tools/cli-client/skill/references/storage-state.md",

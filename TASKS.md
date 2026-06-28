@@ -12,7 +12,7 @@
 
 - [ ] **seijaku-fse: fix newsletter menu position** (P1, from inbox 2026-06-28) — menu position broken in newsletter section
 - [ ] **seijaku-fse: technicals styling (link color)** — default text-link appearance on hover
-- [ ] **wolf-store: sidebar filter spacing** (P1, from inbox 2026-06-26) — check/fix spacing
+- [x] **wolf-store: sidebar filter spacing** (P1, from inbox 2026-06-26) — check/fix spacing
 - [ ] **wolf-supertheme: Elementor site width default** (from inbox 2026-06-26) — default site-width setting not applied out of the box
 
 ## By project
