@@ -195,8 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3768c52d643193eb",
+  "active": "c2311faff25eab4d",
   "lastOpenFiles": [
+    "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.7701.38dc3e530351",
+    "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.7701.0b54e84b5bb5",
     "graphify/wolf-store/cache/stat-index.60hj7c9h.tmp",
     "graphify/wolf-store/cache/ast/v0.8.51/1ab907936438fe07604889cab07a4a1a93ceac0c8355486086e6000e5456ac39.json",
     "graphify/wolf-store/cache/ast/v0.8.51/330e564f3b7ee4d47d73fc54742618840fca1670a56a8528dcf7167839132685.json",
@@ -206,8 +208,6 @@
     "graphify/wolf-store/cache/ast/v0.8.51/8cb1dbb82571a28740ec0b94978dfc39d48637a3b6687bd73b85b3927cd17afc.json",
     "graphify/wolf-store/cache/ast/v0.8.51/7aa523dab421e024d9c9777d18c186a790a769265f9fba0d38870d5520b09b38.json",
     "graphify/wolf-store/cache/ast/v0.8.51/7c7827f2f29d6e2cb6cc6902558dac08380f60c414b4968f83e1bc4e61b3e268.json",
-    "graphify/wolf-store/cache/ast/v0.8.51/609de4b1331ddb2f8c80e97aac0a5de782a373d6f5af858e10a731c20b35c0e2.json",
-    "graphify/wolf-store/cache/ast/v0.8.51/7aa8b606e5c19334b6c9fe62a12fc30eb46c0320d1dbb5726cfda0becdd04a5a.json",
     "graphify/wolf-blocks/2026-06-28/GRAPH_REPORT.md",
     "graphify/wolf-blocks/GRAPH_REPORT.md",
     "Home.md",
