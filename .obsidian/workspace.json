@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/tools/graphify.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "graphify"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -197,6 +193,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wiki/tools/graphify.md",
+    "graphify",
     "Home.md",
     "raw/wolfthemes/stack.md",
     "Inbox.md",
@@ -214,7 +212,6 @@
     "wiki/projects/wolfthemes-growth/wolfthemes-growth.md.tmp.78844.ace50dbb5d89",
     "wiki/projects/wolfthemes-growth/launch-teaser-email.md.tmp.78844.f6cdd9800ef8",
     "STATUS.md.tmp.78844.b4716cb076ea",
-    "STATUS.md.tmp.78844.32e71d298f77",
     "wiki/projects/wolfthemes-growth/optin-reengagement-email.md",
     "wiki/projects/wolfthemes-growth/wolfthemes-growth.md",
     "wiki/projects/wolfthemes-growth/launch-newsletter.md",

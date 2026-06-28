@@ -11,3 +11,5 @@ raw/audience_export_*.zip
 raw/mailcimp-contacts/
 raw/brevo-import/
 raw/theme-screenshots/
+
+/node_modules/
