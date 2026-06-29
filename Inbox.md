@@ -6,4 +6,9 @@ One line per item. No formatting needed.
 
 Theme car dthumbnail llazyload fadeIn
 
+After deployment:
+redirect staging to website for non-logged in visitor - later add IP restriction plugin
+
+Later 
+Cahe flush automation on deploy fro wolfthemes.com
 

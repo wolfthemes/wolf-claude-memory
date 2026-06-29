@@ -5,8 +5,8 @@
 
 ## 🚀 Launch-critical (P0 — prod by 2026-06-30 eve)
 
-- [ ] **Brevo: build subscription form** (2026-06-26) — feeds the **Marketing Confirmed** list; it's the target of the opt-in re-permission email's button (records consent w/ timestamp+IP). Then promo sends to Warm Opt In #3 + Marketing Confirmed. See [[optin-reengagement-email]]. Form should inherit Mailchimp form structure/styling.
-- [ ] **Brevo: re-test subscription form success message** (from inbox 2026-06-27) — verify form submission, list assignment, and consent recording after build
+- [x] **Brevo: build subscription form** (2026-06-26) — feeds the **Marketing Confirmed** list; it's the target of the opt-in re-permission email's button (records consent w/ timestamp+IP). Then promo sends to Warm Opt In #3 + Marketing Confirmed. See [[optin-reengagement-email]]. Form should inherit Mailchimp form structure/styling.
+- [x] **Brevo: re-test subscription form success message** (from inbox 2026-06-27) — verify form submission, list assignment, and consent recording after build
 
 ## ⚡ Quick wins (small CSS/copy fixes)
 
