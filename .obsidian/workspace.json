@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "TASKS"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "TASKS.md",
+    "STATUS.md",
     "Inbox.md",
+    "TASKS.md",
+    "Inbox.md.tmp.106055.1fcc519d4615",
+    "TASKS.md.tmp.106055.d94206e19096",
     "graphify/wolf-blocks/cache/stat-index.uqzlqe91.tmp",
     "graphify/seijaku-fse/cache/stat-index.qcfhy2sa.tmp",
     "graphify/seijaku-fse/cache/stat-index.jzbc41hu.tmp",
@@ -207,11 +210,8 @@
     "graphify/seijaku-fse/cache/stat-index.ffvco7y5.tmp",
     "graphify/seijaku-fse/cache/ast/v0.8.51/228573283cc006bdb27bf36c62617f78306d256cc992ee390af562e64874ea81.json",
     "graphify/guty/cache/stat-index.3_920_k6.tmp",
-    "graphify/guty/cache/ast/v0.8.51/00da9dea928dabba8a0bfa24e7e3fed2de97d5ce70144ff68766b0a7bec3660d.json",
-    "graphify/guty/cache/ast/v0.8.51/434c54457299ba48d48adc94fa99186befe11f1a78b3e333a751b8d688e0a895.json",
     "graphify/guty/GRAPH_REPORT.md",
     "graphify/seijaku-fse/GRAPH_REPORT.md",
-    "STATUS.md",
     "graphify/guty/2026-06-29/GRAPH_REPORT.md",
     "graphify/seijaku-fse/2026-06-29/GRAPH_REPORT.md",
     "graphify/ai-crew/2026-06-29/GRAPH_REPORT.md",
