@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TASKS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TASKS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -199,16 +195,18 @@
   "lastOpenFiles": [
     "Inbox.md",
     "TASKS.md",
-    "graphify/seijaku-fse/cache/stat-index.vlig_qvp.tmp",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/a00587139165f3bff876091846f8212d06912bad2c842bd00da201b47aba73b3.json",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/4349f39bd518d8954c8467a54ee4f7e1d7de36568da3cad2528c167ff118eba0.json",
-    "graphify/seijaku-fse/cache/stat-index.2ef2_hlv.tmp",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/89c8cc4a5f331e351c838b5d45494cb780c5db5498dc6bd994d3c7cd1a6117ca.json",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/d264972bc94a69e5fb12c019d5218d07dea598903b8cafdee9ac95bd06bd0b77.json",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/0ebea569d490698f5731584e9eb67095dc611c8540f546792ddb4fb6d2ff27f5.json",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/11805c066615be716fbfcaea66a22222ea0b555030bb722f826d05ce9f56121f.json",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/e137da3e02beb15ff3b7afdf821bac63323b38ed1e9fa07c7f3703c77ede335a.json",
-    "TASKS.md.tmp.2855.8a158711fa2e",
+    "graphify/wolf-store/cache/stat-index.4w6jt8tu.tmp",
+    "graphify/ai-crew/cache/stat-index.yazgod5a.tmp",
+    "graphify/ai-crew/cache/ast/v0.8.51/9f0a2d9a85a972345206015489ba484099a7e405a2acd9476e43b9022af7f1b6.json",
+    "graphify/ai-crew/cache/stat-index.l7tp6na5.tmp",
+    "graphify/ai-crew/cache/ast/v0.8.51/331fd0d93950d829e5420e6a19005b7a7fcb0ff0e367bfc2c0fa2e0e72cf9a6c.json",
+    "graphify/ai-crew/cache/ast/v0.8.51/331fd0d93950d829e5420e6a19005b7a7fcb0ff0e367bfc2c0fa2e0e72cf9a6c.0new58l8.tmp",
+    "graphify/ai-crew/cache/ast/v0.8.51/9261018d08d28512f2cb3685b0cdcafc14ee579e6ce36017c206611cc96684e0.json",
+    "graphify/ai-crew/cache/ast/v0.8.51/9261018d08d28512f2cb3685b0cdcafc14ee579e6ce36017c206611cc96684e0.vds_gu91.tmp",
+    "graphify/ai-crew/cache/ast/v0.8.51/3c97483a1ab14833532c4be37f8c378c8e3b9905accb235c97f63dc276524c06.json",
+    "graphify/ai-crew/cache/ast/v0.8.51/3c97483a1ab14833532c4be37f8c378c8e3b9905accb235c97f63dc276524c06.u9_iti4h.tmp",
+    "graphify/ai-crew/2026-06-29/GRAPH_REPORT.md",
+    "graphify/ai-crew/GRAPH_REPORT.md",
     "Home.md",
     "graphify/wolf-blocks/2026-06-29/GRAPH_REPORT.md",
     "graphify/wolf-store/2026-06-29/GRAPH_REPORT.md",
@@ -231,8 +229,6 @@
     "raw/brevo-import/README.md",
     "agents/marketing.md",
     "wiki/concepts/demo-screenshot-pipeline.md",
-    "wiki/concepts/audience-building-strategy.md",
-    "wiki/concepts/analytics-marketing-stack.md",
     "raw/themes/zample/thumbs/05.jpg",
     "raw/themes/zample/thumbs/04.jpg",
     "raw/themes/zample/thumbs/03.jpg",

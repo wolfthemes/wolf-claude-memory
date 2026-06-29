@@ -7,4 +7,5 @@ One line per item. No formatting needed.
 ---
 
 Important: schedule social media posts for the big launch (offer 30% off in posts?)
+SJ-FSE: try the brush stroke effect from Nu theme
 
