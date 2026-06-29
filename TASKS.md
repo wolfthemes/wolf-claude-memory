@@ -4,6 +4,14 @@
 
 ---
 
+## 🎯 Today — pre-launch focus (2026-06-29)
+
+- [ ] **seijaku-fse: hero text animation + brushstroke underline** (P0) — entrance animation on hero heading text + SVG brushstroke underline effect ported from Nu theme
+- [ ] **wolf-store: ThemeCard lazy-load fade-in** (P0) — fade-in animation as cards enter viewport (IntersectionObserver)
+- [ ] **Full pre-launch QA pass** (P0) — link animations, all pages, content, buy links, all individual theme pages
+
+---
+
 ## 🚀 Launch — 1 July 2026
 
 > ⚠️ **Hard deadline: prod live by the evening of 2026-06-30.**
