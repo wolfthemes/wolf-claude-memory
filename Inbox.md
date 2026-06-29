@@ -5,5 +5,6 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 One line per item. No formatting needed.
 
 increase signature image width to 140px
+Theme car dthumbnail llazyload fadeIn
 
 
