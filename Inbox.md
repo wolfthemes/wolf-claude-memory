@@ -4,3 +4,7 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 
 One line per item. No formatting needed.
 
+---
+
+Important: schedule social media posts for the big launch (offer 30% off in posts?)
+
