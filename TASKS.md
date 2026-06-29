@@ -21,8 +21,8 @@ Production deployment to SiteGround. All P0 and pre-launch items below must be c
 
 ## 🎉 After Launch
 
-- [ ] **Enable wolfthemes-store-banner**
-- [ ] **Send launch newsletter (Brevo)** — warm list; teaser already scheduled Mon 2026-06-29 15:30 Paris. See [[launch-newsletter]]
+- [ ] **Enable wolfthemes-store-banner in demos**
+- [x] **Send launch newsletter (Brevo)** — warm list; teaser already scheduled Mon 2026-06-29 15:30 Paris. See [[launch-newsletter]]
 - [ ] **Post social posts** — execute the scheduled queue
 - [ ] **Redirect staging → wolfthemes.com for non-logged-in visitors** — later: add IP restriction plugin
 - [ ] Replace help center link in footer by contact link - find a solution for TF/Freemius split
