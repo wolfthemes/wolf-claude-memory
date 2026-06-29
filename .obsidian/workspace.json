@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
             }
           }
         ]
@@ -193,18 +197,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Inbox.md",
     "TASKS.md",
+    "graphify/seijaku-fse/cache/stat-index.keh7x6b5.tmp",
+    "graphify/seijaku-fse/cache/stat-index.ads2d8nj.tmp",
+    "graphify/seijaku-fse/2026-06-29/manifest.json",
+    "graphify/seijaku-fse/2026-06-29/GRAPH_REPORT.md",
+    "graphify/seijaku-fse/2026-06-29/graph.json",
+    "graphify/seijaku-fse/2026-06-29",
+    "graphify/seijaku-fse/cache/stat-index.y9ivbhz8.tmp",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/d902b13f6129f568dc37bb491cc53fc1168803a01e2fa3fb691bb090e99cce02.json",
+    "STATUS.md",
+    "Inbox.md",
     "graphify/wolf-store/cache/stat-index.4w6jt8tu.tmp",
     "graphify/ai-crew/cache/stat-index.yazgod5a.tmp",
     "graphify/ai-crew/cache/ast/v0.8.51/9f0a2d9a85a972345206015489ba484099a7e405a2acd9476e43b9022af7f1b6.json",
-    "graphify/ai-crew/cache/stat-index.l7tp6na5.tmp",
-    "graphify/ai-crew/cache/ast/v0.8.51/331fd0d93950d829e5420e6a19005b7a7fcb0ff0e367bfc2c0fa2e0e72cf9a6c.json",
-    "graphify/ai-crew/cache/ast/v0.8.51/331fd0d93950d829e5420e6a19005b7a7fcb0ff0e367bfc2c0fa2e0e72cf9a6c.0new58l8.tmp",
-    "graphify/ai-crew/cache/ast/v0.8.51/9261018d08d28512f2cb3685b0cdcafc14ee579e6ce36017c206611cc96684e0.json",
-    "graphify/ai-crew/cache/ast/v0.8.51/9261018d08d28512f2cb3685b0cdcafc14ee579e6ce36017c206611cc96684e0.vds_gu91.tmp",
-    "graphify/ai-crew/cache/ast/v0.8.51/3c97483a1ab14833532c4be37f8c378c8e3b9905accb235c97f63dc276524c06.json",
-    "graphify/ai-crew/cache/ast/v0.8.51/3c97483a1ab14833532c4be37f8c378c8e3b9905accb235c97f63dc276524c06.u9_iti4h.tmp",
     "graphify/ai-crew/2026-06-29/GRAPH_REPORT.md",
     "graphify/ai-crew/GRAPH_REPORT.md",
     "Home.md",
@@ -227,8 +233,6 @@
     "raw/theme-screenshots/sable-home-alt.png",
     "agents/analytics.md",
     "raw/brevo-import/README.md",
-    "agents/marketing.md",
-    "wiki/concepts/demo-screenshot-pipeline.md",
     "raw/themes/zample/thumbs/05.jpg",
     "raw/themes/zample/thumbs/04.jpg",
     "raw/themes/zample/thumbs/03.jpg",
