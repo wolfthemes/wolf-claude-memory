@@ -10,6 +10,7 @@ Important: schedule social media posts for the big launch (offer 30% off in post
 SJ-FSE: try the brush stroke effect from Nu theme
 SJ-FSE: emphasis freelance disponiblity in services and maybe a small CTA in footer 
 SJ-FSE: music themes testimonials meeing authro name
+SJ-FSE: split deploy tasks in 2 files
 
 details block fix
 .wp-block-details .wp-block-paragraph::after {
