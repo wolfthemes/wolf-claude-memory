@@ -16,7 +16,7 @@
 
 > ⚠️ **Hard deadline: prod live by the evening of 2026-06-30.**
 
-Production deployment to SiteGround. All P0 and pre-launch items below must be clear first.
+Disable coming soon mode in prod - Be suer to check the cached version in incognito. Better deploy a bit earlier before Brevo campaigns hit
 
 ---
 
@@ -42,7 +42,7 @@ Production deployment to SiteGround. All P0 and pre-launch items below must be c
 ### seijaku-fse
 
 - [ ] **animation engine** (P3) — subtle entrance and scroll animation; ideas: animate mobile menu items on panel open; animate home hero text on page load
-- [ ] **home hero twist** (P3) — add a subtle visual element; candidate: brushstroke effect from the Nu theme
+- [ ] **home hero twist** (P3) — add a subtle visual element; candidate: brushstroke effect from the Nu theme -> working on it
 - [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
 - [ ] **reorganize SCSS folder** (P3) — forms styles need to move out of current location into a more logical folder
 
