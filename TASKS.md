@@ -10,25 +10,29 @@
 
 ## ⚡ Quick wins (small CSS/copy fixes)
 
-- [ ] **seijaku-fse: fix newsletter menu position** (P1, from inbox 2026-06-28) — menu position broken in newsletter section
+- [x] **seijaku-fse: fix newsletter menu position** (P1, from inbox 2026-06-28) — menu position broken in newsletter section
 - [ ] **seijaku-fse: technicals styling (link color)** — default text-link appearance on hover
-- [x] **wolf-store: sidebar filter spacing** (P1, from inbox 2026-06-26) — check/fix spacing
+- [ ] **seijaku-fse: music themes hero page "explore" button doesn't scroll** (P1 bug) — button in music themes hero section has no scroll behavior
+- [ ] **seijaku-fse: Technicals section category label style** (P1) — category label needs white background style
 - [ ] **wolf-supertheme: Elementor site width default** (from inbox 2026-06-26) — default site-width setting not applied out of the box
 
 ## By project
 
 ### seijaku-fse
 
-- [ ] **details/toggle WP block styling** (P2) — paragraph padding causes laggy animation. Removing padding fixes it, but we need a way to keep space below the content paragraph
+- [x] **details/toggle WP block styling** (P2) — paragraph padding causes laggy animation. Proposed fix: add a `::after` pseudo-element with `height/min-height/block-size: var(--wp--preset--spacing--5)` on `.wp-block-details .wp-block-paragraph` instead of padding. Needs testing.
 - [ ] **animation engine** (P3) — subtle entrance and scroll animation. Ideas: animate mobile menu items on panel open; animate home hero text on page load
-- [ ] **home hero twist** (P3) — add a subtle visual element (brushstroke, animated word, italic/serif accent) to make the hero more distinctive
+- [ ] **home hero twist** (P3) — add a subtle visual element; candidate: brushstroke effect from the Nu theme
+- [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
+- [ ] **music themes testimonials: missing author name** (P2) — testimonials on music themes page are missing the author name
+- [x] **split deploy tasks in 2 files** (P3) — deployment task is currently one file; split into 2 for clarity
 - [ ] **reorganize SCSS folder** (P3, from inbox 2026-06-27) — forms styles need to move out of current location into a more logical folder
 
 ### wolf-store
 
-- [ ] **theme card: resized thumbnail variant** (P2, from inbox 2026-06-28) — resized version of thumbnail for the theme card grid
-- [ ] **theme card: full-width bug when single result** (P1, from inbox 2026-06-28) — theme card takes full width when only one theme in result set
-- [ ] **theme category filter returns nothing intermittently** (P1, from inbox 2026-06-28) — category filter bug; sometimes returns no results
+- [x] **theme card: resized thumbnail variant** (P2, from inbox 2026-06-28) — resized version of thumbnail for the theme card grid
+- [x] **theme card: full-width bug when single result** (P1, from inbox 2026-06-28) — theme card takes full width when only one theme in result set
+- [x] **theme category filter returns nothing intermittently** (P1, from inbox 2026-06-28) — category filter bug; sometimes returns no results
 - [ ] **single theme page mobile spacing** (P2) — spacing issues on mobile viewport
 - [ ] **theme page comparison table badge position** (P2) — mimic the badge position used in service pricing tables
 - [ ] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
@@ -36,24 +40,24 @@
 
 ### guty
 
-- [ ] **cover element simplification** (P2)
+- [x] **cover element simplification** (P2)
 
 ### wolf-blocks
 
 - [ ] **testimonial: add author avatar** (P2) — round badge showing the first letter of the author's name
-- [ ] **declare custom wolf blocks as available Gutenberg elements** (P2, from inbox 2026-06-27) — register blocks so they appear/are selectable in the Gutenberg inserter
+- [x] **declare custom wolf blocks as available Gutenberg elements** (P2, from inbox 2026-06-27) — register blocks so they appear/are selectable in the Gutenberg inserter
 - [ ] **reorganize/refactor Functions folder** (P3, from inbox 2026-06-27) — clean up structure of the Functions directory
 
 ### CRO / marketing
 
 - [ ] **homepage CTA/messaging review** (P2) — missing a clear value/solution hook ("here's the solution to your problem" / "my themes can help you make money"). Plus a lighter CRO pass on the single theme page (already in good shape)
 - [ ] **social posts + newsletter schedule** (P2, from inbox 2026-06-27) — set up proper Buffer posting schedule alongside a separate newsletter cadence
-- [ ] **Schedule social posts** (P1, from inbox 2026-06-28) — actually queue upcoming social posts (separate from the cadence/schedule setup above)
+- [ ] **Schedule social posts** (P1, from inbox 2026-06-28) — queue launch posts; consider 30% off offer in copy (separate from the cadence/schedule setup above)
 - [ ] **Blog posts to drive organic traffic** (P2, from inbox 2026-06-28) — idea: write blog content targeting relevant searches; evaluate fit and potential topics
 
 ### Performance
 
-- [ ] **optimization pass** (P3) — after card/archive work (see STATUS.md)
+- [ ] **optimization pass** (P3) — after card/archive work; evaluate Autoptimize; check "Includes" label (white checkmark variant)
 
 ## Waiting On
 
