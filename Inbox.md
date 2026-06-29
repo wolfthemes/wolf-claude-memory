@@ -9,4 +9,15 @@ One line per item. No formatting needed.
 Important: schedule social media posts for the big launch (offer 30% off in posts?)
 SJ-FSE: try the brush stroke effect from Nu theme
 SJ-FSE: emphasis freelance disponiblity in services and maybe a small CTA in footer 
+SJ-FSE: music themes testimonials meeing authro name
+
+details block fix
+.wp-block-details .wp-block-paragraph::after {
+  content: '';
+  display: block;
+  height: var(--wp--preset--spacing--5);
+  min-height: var(--wp--preset--spacing--5);
+  block-size: var(--wp--preset--spacing--5);
+  overflow: visible;
+}
 
