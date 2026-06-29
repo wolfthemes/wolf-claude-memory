@@ -25,3 +25,4 @@ Run full formatting and linting pipeline on the current project.
 - Never modify vendor/ or node_modules/
 - Always fix everything — do not stop until all linters pass
 - Report a final summary: files modified, errors fixed
+- **NEVER format or lint `*.guty.tsx` files** — these use the guty DSL (not standard TS/TSX) and formatters break their syntax by adding semicolons. They are excluded via `.eslintignore` and `.prettierignore`, but never manually edit or run formatting tools against them.
