@@ -195,8 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c2311faff25eab4d",
   "lastOpenFiles": [
+    "graphify/seijaku-fse/cache/stat-index.32l_ocd9.tmp",
+    "graphify/seijaku-fse/cache/stat-index.56tzj5sc.tmp",
     "graphify/seijaku-fse/cache/stat-index.tevlc739.tmp",
     "graphify/seijaku-fse/cache/ast/v0.8.51/b871901576a9d42b8f31764e77bede393426ba12aee52f0b6952335f8aa57149.json",
     "graphify/seijaku-fse/cache/ast/v0.8.51/b871901576a9d42b8f31764e77bede393426ba12aee52f0b6952335f8aa57149.fekrhdc7.tmp",
@@ -206,8 +208,6 @@
     "graphify/guty/cache/ast/v0.8.51/0366231220cf97440bcd0452dd123a3ac492c36b0b292bcc91a17a8ee0b54efd.json",
     "graphify/guty/cache/ast/v0.8.51/a21e560ad30ac97756728a7c40072a7c65f72885807903fc7378bf87c4b13fdc.json",
     "graphify/guty/cache/semantic/df21e2a34feb27f1c628a0c9542d5601778cc771e36cc0c8f1df30d99db82c23.json",
-    "graphify/guty/cache/semantic/dbd96443c3e7ec4eca9e3cfdd779fea0ac581d0c80654bd78f76aa0d1a12c2a7.json",
-    "graphify/guty/cache/semantic/cb5e2f3284265c08c88c08f445b96958b13a9115c0afc0a33206c293d1b1c187.json",
     "graphify/guty/2026-06-29/GRAPH_REPORT.md",
     "graphify/guty/GRAPH_REPORT.md",
     "TASKS.md",
