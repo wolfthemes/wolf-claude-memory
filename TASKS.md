@@ -11,9 +11,9 @@
 ## ⚡ Quick wins (small CSS/copy fixes)
 
 - [x] **seijaku-fse: fix newsletter menu position** (P1, from inbox 2026-06-28) — menu position broken in newsletter section
-- [ ] **seijaku-fse: technicals styling (link color)** — default text-link appearance on hover
-- [ ] **seijaku-fse: music themes hero page "explore" button doesn't scroll** (P1 bug) — button in music themes hero section has no scroll behavior
-- [ ] **seijaku-fse: Technicals section category label style** (P1) — category label needs white background style
+- [x] **seijaku-fse: technicals styling (link color)** — default text-link appearance on hover
+- [x] **seijaku-fse: music themes hero page "explore" button doesn't scroll** (P1 bug) — button in music themes hero section has no scroll behavior
+- [x] **seijaku-fse: Technicals section category label style** (P1) — category label needs white background style
 - [ ] **wolf-supertheme: Elementor site width default** (from inbox 2026-06-26) — default site-width setting not applied out of the box
 
 ## By project
@@ -24,7 +24,7 @@
 - [ ] **animation engine** (P3) — subtle entrance and scroll animation. Ideas: animate mobile menu items on panel open; animate home hero text on page load
 - [ ] **home hero twist** (P3) — add a subtle visual element; candidate: brushstroke effect from the Nu theme
 - [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
-- [ ] **music themes testimonials: missing author name** (P2) — testimonials on music themes page are missing the author name
+- [x] **music themes testimonials: missing author name** (P2) — testimonials on music themes page are missing the author name
 - [x] **split deploy tasks in 2 files** (P3) — deployment task is currently one file; split into 2 for clarity
 - [ ] **reorganize SCSS folder** (P3, from inbox 2026-06-27) — forms styles need to move out of current location into a more logical folder
 
@@ -33,8 +33,8 @@
 - [x] **theme card: resized thumbnail variant** (P2, from inbox 2026-06-28) — resized version of thumbnail for the theme card grid
 - [x] **theme card: full-width bug when single result** (P1, from inbox 2026-06-28) — theme card takes full width when only one theme in result set
 - [x] **theme category filter returns nothing intermittently** (P1, from inbox 2026-06-28) — category filter bug; sometimes returns no results
-- [ ] **single theme page mobile spacing** (P2) — spacing issues on mobile viewport
-- [ ] **theme page comparison table badge position** (P2) — mimic the badge position used in service pricing tables
+- [x] **single theme page mobile spacing** (P2) — spacing issues on mobile viewport
+- [x] **theme page comparison table badge position** (P2) — mimic the badge position used in service pricing tables
 - [ ] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **audit filter and overall archive UI** (P2)
 
