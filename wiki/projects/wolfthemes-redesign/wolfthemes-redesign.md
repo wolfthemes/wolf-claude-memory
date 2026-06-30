@@ -34,7 +34,7 @@ See also: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]] (positioning) and 
 | Stats band | 🧪 wolf-blocks in-page testing |
 | Testimonials | 🧪 wolf-blocks in-page testing |
 | Header / Footer | ✅ |
-| Countdown (current site main pages) | ⏳ pending |
+| Countdown (current site main pages) | ✅ |
 
 ### Inner pages
 | Page | Status |
@@ -58,9 +58,10 @@ See also: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]] (positioning) and 
 |---|---|
 | GitHub Actions CI (lint + build) | ✅ |
 | Auto-deploy to SiteGround (SSH rsync) | ✅ |
+| Cache flush on deploy (`wp cache flush` + nginx PURGE) | 🔧 `wp cache flush` done; nginx PURGE pending |
 | PHP patterns system (27+ patterns) | ✅ |
-| Deployment re-test | 🔧 today |
-| Switch to dev branches (pre-production) | ⏳ after deploy test |
+| Deployment re-test | ✅ |
+| Switch to dev branches (pre-production) | ✅ |
 | Performance optimization | ⏳ post-card/archive sprint |
 
 ### Production checklist

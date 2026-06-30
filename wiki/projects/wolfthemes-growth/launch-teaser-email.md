@@ -42,6 +42,18 @@ Founder, WolfThemes
 
 ---
 
+## Results (sent 2026-06-29)
+
+- **Delivered:** 933 / 963 (96.88% delivery rate)
+- **Opens:** 335 (35.91% open rate) — strong for a warm list
+- **Clicks:** 0 (0% CTR) — expected; no link to click was the point
+- **Unsubscribes:** 6 (0.64%) — within normal range; moved to suppression automatically by Brevo
+- **List:** #3 Warm Opt In (963 contacts)
+
+D+2 reminder to non-openers: check non-opener count after launch email sends; if segment is large enough, send reminder on 2026-07-03.
+
+---
+
 ## Notes
 
 - No discount number here on purpose — the number lands at launch, where it can drive urgency. The teaser sells the *date* and the *exclusivity*.

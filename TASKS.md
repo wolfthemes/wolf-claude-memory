@@ -7,7 +7,7 @@
 ## 🎯 Today — pre-launch focus (2026-06-29)
 
 - [ ] **seijaku-fse: hero text animation + brushstroke underline** (P0) — entrance animation on hero heading text + SVG brushstroke underline effect ported from Nu theme
-- [ ] **wolf-store: ThemeCard lazy-load fade-in** (P0) — fade-in animation as cards enter viewport (IntersectionObserver)
+- [x] **wolf-store: ThemeCard lazy-load fade-in** (P0) — fade-in animation as cards enter viewport (IntersectionObserver)
 - [ ] **Full pre-launch QA pass** (P0) — link animations, all pages, content, buy links, all individual theme pages
 
 ---
@@ -22,16 +22,18 @@ Disable coming soon mode in prod - Be suer to check the cached version in incogn
 
 ## 📋 Before Launch
 
-- [x] **Schedule social posts** (P1) — queue launch posts; consider 30% off offer in copy
-
+- [ ] **Add nginx PURGE to deploy workflows** — `curl -D - -sSX PURGE http://127.0.0.1/* -H "Host: wolfthemes.com"` after `wp cache flush` in both deploy-master.yml and deploy-stage.yml
 
 ---
 
 ## 🎉 After Launch
 
 - [ ] **Enable wolfthemes-store-banner in demos**
-- [x] **Send launch newsletter (Brevo)** — warm list; teaser already scheduled Mon 2026-06-29 15:30 Paris. See [[launch-newsletter]]
+- [ ] **Send launch newsletter (Brevo)** — warm list (963); launch day 2026-07-01. See [[launch-newsletter]]
 - [ ] **Post social posts** — execute the scheduled queue
+- [ ] **D+2 non-opener reminder** — check non-opener count after launch email; if segment large enough, send reminder on 2026-07-03
+- [ ] **Check each Brevo segment step by step after each campaign** — verify contact counts, open/click rates, suppression accuracy
+- [ ] **Create Freemius buyer list to exclude from reminder campaigns** — prevent paying customers from receiving opt-in/reminder cold emails
 - [ ] **Redirect staging → wolfthemes.com for non-logged-in visitors** — later: add IP restriction plugin
 - [ ] Replace help center link in footer by contact link - find a solution for TF/Freemius split
 
@@ -41,10 +43,17 @@ Disable coming soon mode in prod - Be suer to check the cached version in incogn
 
 ### seijaku-fse
 
+- [ ] .gitignore .claude, .codex, .vscode
 - [ ] **animation engine** (P3) — subtle entrance and scroll animation; ideas: animate mobile menu items on panel open; animate home hero text on page load
 - [ ] **home hero twist** (P3) — add a subtle visual element; candidate: brushstroke effect from the Nu theme -> working on it
 - [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
 - [ ] **reorganize SCSS folder** (P3) — forms styles need to move out of current location into a more logical folder
+- [ ] **add Terms & Conditions page** (P2)
+- [ ] **buy button color** (P2) — review/fix buy button color
+- [ ] **animated arrow on button** (P3) — add animated arrow effect to CTA buttons
+- [ ] **menu CTA copy** (P2) — change to "Start a custom project" or similar freelance-appealing label
+- [ ] **freelance services page** (P2) — new page similar to services, focused on showcasing freelance services
+- [ ] **convert logo to single SVG** (P3) — one SVG logo for all contexts, flexible color via CSS (replace current light/dark variants)
 
 ### wolf-store
 
@@ -77,7 +86,7 @@ Disable coming soon mode in prod - Be suer to check the cached version in incogn
 
 ## Someday
 
-- [ ] Cache flush automation on deploy for wolfthemes.com
+- [ ] Cache flush automation — nginx PURGE step (moved to Before Launch above)
 - [ ] **wolf-supertheme: Elementor site width default** (P1) — default site-width setting not applied out of the box
 - [ ] Buffer social posting script (Python, source: themeforest positioning DB)
 - [ ] nvim: Spectre keybindings — `<leader>sr` (search/replace), `<leader>R` create entry in a Nvim doc

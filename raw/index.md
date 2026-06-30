@@ -38,3 +38,4 @@ When something from raw/ is distilled into durable knowledge, it goes into `wiki
 | `seijaku-fse/images/screenshots/Wolf-Themes-High-Quality-Premium-Wordpress-Themes-Plugins.png` | Screenshot | wolfthemes.com staging homepage screenshot |
 | `demo-pages/<slug>.json` | Demo page inventory | Per-theme JSON arrays of inner demo-page slugs (47 themes). Drives the demo-screenshot pipeline — which pages to capture for Pinterest/social. See [[demo-screenshot-pipeline]]. |
 | `theme-screenshots/` | Captured screenshots | Output of the screenshot pipeline (Playwright) — theme demo captures for marketing/social. Gitignored. |
+| `theme-screenshots/sable-home-alt.png` | Sable alternate homepage screenshot | Captured alternate homepage view for the Sable theme — marketing/social use. |

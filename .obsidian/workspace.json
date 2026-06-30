@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "TASKS"
             }
           }
         ],
@@ -206,23 +206,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2311faff25eab4d",
+  "active": "63ef1b180d6b1abb",
   "lastOpenFiles": [
-    "graphify/wolf-store/cache/stat-index.vwp4o9p8.tmp",
-    "graphify/wolf-blocks/2026-06-30/manifest.json",
-    "graphify/wolf-blocks/2026-06-30/GRAPH_REPORT.md",
-    "graphify/wolf-blocks/2026-06-30/graph.json",
-    "graphify/wolf-blocks/2026-06-30",
-    "graphify/wolf-store/2026-06-30/manifest.json",
-    "graphify/wolf-store/2026-06-30/GRAPH_REPORT.md",
-    "graphify/wolf-store/2026-06-30/graph.json",
-    "graphify/wolf-store/2026-06-30",
-    "graphify/guty/cache/stat-index.tdbjcq6g.tmp",
-    "graphify/guty/cache/stat-index.jgg3n2cl.tmp",
-    "graphify/guty/cache/ast/v0.8.51/0410e1060f87bcb495d3537be98dfe54f3eb78b5ff545f9ae91a2ad0b69e4b2e.json",
-    "TASKS.md",
     "Inbox.md",
-    "graphify/seijaku-fse/cache/stat-index.69bb2gfr.tmp",
+    "STATUS.md.tmp.164806.4903aa270bd6",
+    "raw/index.md.tmp.164806.eea0e56a7459",
+    "Inbox.md.tmp.164806.a3a004d32670",
+    "TASKS.md.tmp.164806.0b2dd50fe1e9",
+    "TASKS.md.tmp.164806.ade11579952f",
+    "TASKS.md.tmp.164806.e213184705ac",
+    "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.164806.dd45110ef855",
+    "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.164806.2f480ac14225",
+    "wiki/projects/wolfthemes-growth/launch-teaser-email.md.tmp.164806.688c05dbb3b9",
+    "graphify/wolf-store/cache/stat-index.vwp4o9p8.tmp",
+    "graphify/wolf-blocks/2026-06-30/GRAPH_REPORT.md",
+    "graphify/wolf-store/2026-06-30/GRAPH_REPORT.md",
+    "TASKS.md",
     "STATUS.md",
     "agents/analytics.md",
     "Home.md",

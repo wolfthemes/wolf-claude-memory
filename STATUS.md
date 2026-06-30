@@ -15,9 +15,10 @@
 | seijaku-fse: theme card design refinement                   | ⏳ in sprint         | This week          |
 | seijaku-fse: archive filtering + search UI                  | ⏳ in sprint         | This week          |
 | seijaku-fse: overall template + design refinement           | ⏳ in sprint         | This week          |
-| Deployment re-test (staging → SiteGround)                   | ⏳ in sprint         | This week          |
+| Deployment re-test (staging → SiteGround)                   | ✅ done              | This week          |
 | Switch repos to dev branches (pre-production)               | ✅ done              | This week          |
 | Add countdown to current wolfthemes.com main pages          | ✅ done              | This week          |
+| CI/CD cache flush (`wp cache flush` + nginx PURGE)          | 🔧 wp done; nginx pending | This week     |
 | Performance optimization pass                               | ⏳ post-card/archive | This week          |
 | **Production deployment**                                   | 🎯 target           | ⚠️ HARD: 2026-06-30 |
 
@@ -47,7 +48,7 @@
 > Trigger once launch ships. Candidate for a one-off scheduled reminder dated 2026-07-01.
 
 - [ ] Enable wolfthemes-store-banner
-- [ ] Send launch newsletter (Brevo) — warm list, see [[launch-newsletter]]. Teaser already scheduled Mon 2026-06-29 15:30 Paris.
+- [ ] Send launch newsletter (Brevo) — warm list (963), launch day 2026-07-01. Teaser ✅ sent 2026-06-29 (35.9% open, 6 unsubs). See [[launch-newsletter]].
 - [ ] Post social posts
 
 ---
