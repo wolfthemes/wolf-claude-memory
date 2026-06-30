@@ -45,7 +45,7 @@ Disable coming soon mode in prod - Be suer to check the cached version in incogn
 
 - [ ] .gitignore .claude, .codex, .vscode
 - [ ] **animation engine** (P3) — subtle entrance and scroll animation; ideas: animate mobile menu items on panel open; animate home hero text on page load
-- [ ] **home hero twist** (P3) — add a subtle visual element; candidate: brushstroke effect from the Nu theme -> working on it
+- [x] **home hero twist** (P3) — add a subtle visual element; candidate: brushstroke effect from the Nu theme -> working on it
 - [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
 - [ ] **reorganize SCSS folder** (P3) — forms styles need to move out of current location into a more logical folder
 - [ ] **add Terms & Conditions page** (P2)
