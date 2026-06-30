@@ -21,6 +21,12 @@ Run a weekly analytics report every Monday covering revenue, traffic, and social
 - Tag active on wolfthemes.com via Site Kit
 - MCP: Google Analytics (not yet connected — wire up before first run)
 
+### Brevo
+- MCP: Brevo (connected)
+- Fetch email campaigns sent in the last 7 days via `get_email_campaigns`
+- For each campaign: name, subject, sent date, delivered, open rate, click rate, unsubscribe rate
+- Use `campaign_analytics_get_ab_test_campaign_result` for any A/B campaigns
+
 ### Buffer
 - Organization: `66e40cad8a27b612c7a0ccd3`
 - Channels:
@@ -45,18 +51,23 @@ Run a weekly analytics report every Monday covering revenue, traffic, and social
    - Traffic sources (channel breakdown)
    - Bounce rate for wolfthemes.com
 
-3. **Buffer** — fetch for last 7 days:
+3. **Brevo** — fetch for last 7 days:
+   - Campaigns sent (name, subject, send date)
+   - Delivered, open rate, click rate, unsubscribe rate per campaign
+   - Flag any campaign with open rate < 20% or unsubscribe rate > 1%
+
+4. **Buffer** — fetch for last 7 days:
    - Posts sent
    - Best-performing post by engagement (likes + shares + clicks)
 
-4. **Compare** — if a previous report exists in `output/reports/`, diff key metrics week-over-week and include delta in the report.
+5. **Compare** — if a previous report exists in `output/reports/`, diff key metrics week-over-week and include delta in the report.
 
-5. **Alerts** — flag if any condition is met:
+6. **Alerts** — flag if any condition is met:
    - Revenue < $200/week
    - Bounce rate > 80%
    - 0 sales in any 3-day window
 
-6. **Write** report to `output/reports/YYYY-MM-DD.md` (date = Monday of the report week).
+7. **Write** report to `output/reports/YYYY-MM-DD.md` (date = Monday of the report week).
 
 ---
 
@@ -73,6 +84,9 @@ Run a weekly analytics report every Monday covering revenue, traffic, and social
 
 ## Traffic
 [Sessions, pageviews, top 5 pages, sources, bounce rate. WoW delta.]
+
+## Email
+[Campaigns sent, open rate, click rate, unsubscribes. Any alerts.]
 
 ## Social
 [Posts sent, best post (platform + engagement score).]
