@@ -5,6 +5,8 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 
 One line per item. No formatting needed.
 
-After launch check all themes galleries
+After launch check all themes galleries images
+SJ-FSE: re-factor JS theme.js -> some funciton need to be modules
+
 
 
