@@ -4,7 +4,7 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 
 
 One line per item. No formatting needed.
-
+SG cache flush doesn't seem to work super fine
 
 wolfthemes-banner: CTA button hover effect
 
