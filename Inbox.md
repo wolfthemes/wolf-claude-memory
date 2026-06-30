@@ -8,5 +8,7 @@ One line per item. No formatting needed.
 After launch check all themes galleries images
 seijaku-fse: archive filtering + search UI refinements
 
+Define how to handle versioning in CI/CD workflow
+
 
 

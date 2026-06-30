@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STATUS.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STATUS"
+              "title": "Inbox"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "5e2c680b8c5b29bd",
   "lastOpenFiles": [
+    "STATUS.md",
     "TASKS.md",
     "Inbox.md",
-    "STATUS.md",
     "Home.md",
     "graphify/seijaku-fse/cache/stat-index.s2k_1kjv.tmp",
     "graphify/seijaku-fse/cache/stat-index.s5vei3yr.tmp",
