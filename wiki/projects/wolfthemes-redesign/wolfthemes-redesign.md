@@ -5,7 +5,7 @@
  - Replace wolfthemes.com (old Seijaku + Elementor site) with a modern FSE / Gutenberg-only storefront.
  - Create a store to sell Premium WordPress themes, outside of ThemeForest, which is currently the only selling channel
 
-**Status:** Deployed to wolfthemes.com in coming soon mode (2026-06-28). Final testing and CI/CD behind the curtain. Hard launch date: July 1, 2026.
+**Status:** ✅ **Launched 2026-07-01.** Coming soon mode disabled. Launch email (warm list, 963) at 16:00.
 
 ## What this is
 
@@ -22,6 +22,14 @@ See [Design Direction.md](Design Direction.md) for the full brand rationale.
 Summary: light, editorial, minimal. Big negative space, bold typography (Lexend + Rethink Sans), one electric-blue accent (`#0c10ff`). Reference energy: Linear.app, Stripe, Rauno.me.
 
 See also: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]] (positioning) and [[wiki/concepts/fse-stack-architecture|FSE Stack Architecture]] (technical structure).
+
+## Server notes (preview.wolfthemes.store / demo server)
+
+**nginx WP Super Cache + Bedrock fix (2026-07-01):** Pages with query params (`?ref=wolfthemes`, UTM params) weren't hitting the cache. Root cause: `wp-sc-ms.conf` line 2 had `set $cache_uri $request_uri` — the `?` character makes the path invalid on the filesystem so `try_files` never finds the cache file. Fix: change to `set $cache_uri $uri` (path only, no query string). Also replace the blanket `if ($query_string != "")` bypass with a whitelist of params that should bypass cache (`add-to-cart`, `wc-ajax`, `s=`, `p=`, `page_id=`, `preview=`). Add marketing params (`ref`, UTM) to WP Super Cache Tracking Parameters in WP Admin so PHP strips them from the cache key.
+
+SiteGround nginx PURGE (for manual/deploy cache flush): `curl -D - -sSX PURGE http://127.0.0.1/* -H "Host: preview.wolfthemes.store"` — no CLI tool available on this hosting plan.
+
+---
 
 ## Progress
 
@@ -58,7 +66,8 @@ See also: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]] (positioning) and 
 |---|---|
 | GitHub Actions CI (lint + build) | ✅ |
 | Auto-deploy to SiteGround (SSH rsync) | ✅ |
-| Cache flush on deploy (`wp cache flush` + nginx PURGE) | 🔧 `wp cache flush` done; nginx PURGE pending |
+| Cache flush on deploy (`wp cache flush` + nginx PURGE) | ✅ |
+| nginx query-string cache fix | ✅ |
 | PHP patterns system (27+ patterns) | ✅ |
 | Deployment re-test | ✅ |
 | Switch to dev branches (pre-production) | ✅ |
@@ -74,4 +83,4 @@ See also: [[wiki/concepts/wolfthemes-brand|WolfThemes Brand]] (positioning) and 
 | Dev branches merged / ready | ⏳ |
 | Performance pass | ⏳ |
 | Coming soon mode live on wolfthemes.com | ✅ 2026-06-28 |
-| **Production launch (coming soon off)** | 🎯 2026-07-01 |
+| **Production launch (coming soon off)** | ✅ 2026-07-01 |

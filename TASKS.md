@@ -4,30 +4,14 @@
 
 ---
 
-## 🎯 Today — pre-launch focus (2026-06-30)
-
-- [x] **Full pre-launch QA pass** (P0) — link animations, all pages, content, buy links, all individual theme pages
-
----
-
-## 🚀 Launch — 1 July 2026
-
-> ⚠️ **Hard deadline: prod live by the evening of 2026-06-30.** - DONE
-
-Disable coming soon mode in prod - Be sure to check the cached version in incognito. Better deploy a bit earlier before Brevo campaigns hit
-
----
-
 ## 🎉 After Launch
 
-- [x] **Send launch newsletter (Brevo)** — warm list (963); launch day 2026-07-01. See [[launch-newsletter]] _> is arleady schedules_
-- [x] **Enable wolfthemes-store-banner in demos**
 - [ ] **Post social posts** — execute the scheduled queue
 - [ ] **Check all theme gallery images** — audit every single theme page gallery after launch
 - [ ] **D+2 non-opener reminder** — check non-opener count after launch email; if segment large enough, send reminder on 2026-07-03
 - [ ] **Check each Brevo segment step by step after each campaign** — verify contact counts, open/click rates, suppression accuracy
 - [ ] **Create Freemius buyer list to exclude from reminder campaigns** — prevent paying customers from receiving opt-in/reminder cold emails
-- [ ] **Redirect staging → wolfthemes.com for non-logged-in visitors** — later: add IP restriction plugin - Maybe recreat staging to macth exactly new prod
+- [ ] **Redirect staging → wolfthemes.com for non-logged-in visitors** — later: add IP restriction plugin
 
 ---
 
@@ -35,7 +19,9 @@ Disable coming soon mode in prod - Be sure to check the cached version in incogn
 
 ### seijaku-fse
 
-- [ ] **animation engine** (P3) — possibly apply hero text anim to other pages (Music Themes page, Sercies page mostly)
+- [ ] **wolfthemes-banner: CTA button hover effect** (P2)
+- [ ] **wolfthemes-banner: hide banner if referrer is wolfthemes.com** (P2) — don't show the banner to visitors already on the store
+- [ ] **animation engine** (P3) — possibly apply hero text anim to other pages (Music Themes page, Services page mostly)
 - [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
 - [ ] **reorganize SCSS folder** (P3) — forms styles need to move out of current location into a more logical folder
 - [ ] **animated arrow on button** (P3) — add animated arrow effect to CTA buttons
@@ -45,7 +31,6 @@ Disable coming soon mode in prod - Be sure to check the cached version in incogn
 
 ### wolf-store
 
-- [x] **theme card: thumbnail lazy-load fade-in** (P2) — add fade-in animation on lazy-loaded thumbnails
 - [ ] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **audit filter and overall archive UI** (P2)
 
@@ -59,8 +44,6 @@ Disable coming soon mode in prod - Be sure to check the cached version in incogn
 - [ ] **homepage CTA/messaging review** (P2) — missing a clear value/solution hook ("here's the solution to your problem"). Plus a lighter CRO pass on the single theme page
 - [ ] **social posts + newsletter schedule** (P2) — set up proper Buffer posting schedule alongside a separate newsletter cadence
 - [ ] **Blog posts to drive organic traffic** (P2) — write blog content targeting relevant searches; evaluate fit and potential topics
-
-### Performance
 
 ---
 
