@@ -50,15 +50,18 @@ In Brevo the single-buyer (`03`, 3,464) and no-purchase (`04`, 1,204) files were
 
 Two tracks. **Never cross them**: cold leads must opt in before they see a promo.
 
-**Track A — Warm (963, opted-in):**
-0. D-2 (Mon 2026-06-29): [[launch-teaser-email]] — plain-text founder heads-up, no discount; builds anticipation and reserves the launch deal for this list. Scheduled in Brevo.
-1. Launch day (2026-07-01): [[launch-newsletter]] — launch promo, direct. **Discount level still open: draft says 20%, 30% under consideration.**
-2. D+2: last-chance reminder to non-openers.
+**Track A — Warm (963, opted-in):** Brevo campaign IDs in parentheses.
+0. D-2 (2026-06-29): [[launch-teaser-email]] ✅ sent — 39.34% open rate (#1)
+1. Launch day (2026-07-01 16:00): [[launch-newsletter]] — 20% public / **30% for list (code LAUNCH30)**, expires July 15 (#8)
+2. D+2 (2026-07-03 21:00): Reminder — Warm Non-Openers (#11)
+3. D+6 (2026-07-07 16:00): Mid-Period Nudge (#12)
+4. Final day (2026-07-14 16:00): Final Day — Warm List (#13)
 
 **Track B — Cold (6,031 buyers, no marketing consent):**
 1. Import `05_suppression.csv` as a blocklist **first**.
-2. Send [[optin-reengagement-email]] (re-permission, soft) in order: repeat buyers (#4) → single buyers (#5). Repeat-buyers first warms sender reputation.
-3. Only **opt-in confirmers** graduate into the promo list and then receive the [[launch-newsletter]] (+ D+2 reminder).
+2. 2026-07-02 16:00: Launch — Cold Repeat Buyers (#9)
+3. 2026-07-03 16:00: Launch — Cold Single Buyers (#10)
+4. Only **opt-in confirmers** graduate into the promo list and then receive follow-ups.
 
 Rationale: GDPR (FR) — buyers/support contacts never consented to marketing; emailing them a promo cold is both non-compliant and a deliverability/suspension risk for a fresh sender. The opt-in gate converts the 6k into a clean, consented marketing list over time.
 

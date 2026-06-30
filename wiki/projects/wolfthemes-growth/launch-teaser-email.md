@@ -45,7 +45,7 @@ Founder, WolfThemes
 ## Results (sent 2026-06-29)
 
 - **Delivered:** 933 / 963 (96.88% delivery rate)
-- **Opens:** 352 (37.73% open rate) — excellent for a warm list, well above industry average
+- **Opens:** final 39.34% open rate — excellent for a warm list, well above industry average
 - **Clicks:** 0 (0% CTR) — expected; no CTA link in the email by design
 - **Unsubscribes:** 7 (0.75%) — within normal range; suppressed automatically by Brevo
 - **List:** #3 Warm Opt In (963 contacts)
