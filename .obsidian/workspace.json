@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "STATUS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "STATUS"
             }
           }
         ]
@@ -199,6 +199,8 @@
   "lastOpenFiles": [
     "TASKS.md",
     "Inbox.md",
+    "STATUS.md",
+    "Home.md",
     "graphify/seijaku-fse/cache/stat-index.s2k_1kjv.tmp",
     "graphify/seijaku-fse/cache/stat-index.s5vei3yr.tmp",
     "graphify/seijaku-fse/cache/ast/v0.8.51/b09854773c0009565ef3ce62edb062dfb115bd75100054269e81a405a998d91f.json",
@@ -212,9 +214,7 @@
     "wiki/projects/wolfthemes-growth/launch-teaser-email.md",
     "graphify/wolf-blocks/2026-06-30/GRAPH_REPORT.md",
     "graphify/wolf-store/2026-06-30/GRAPH_REPORT.md",
-    "STATUS.md",
     "agents/analytics.md",
-    "Home.md",
     "wiki/concepts/analytics-marketing-stack.md",
     "graphify/guty/GRAPH_REPORT.md",
     "graphify/seijaku-fse/GRAPH_REPORT.md",

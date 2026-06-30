@@ -6,6 +6,7 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 One line per item. No formatting needed.
 
 After launch check all themes galleries images
+seijaku-fse: archive filtering + search UI refinements
 
 
 

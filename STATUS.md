@@ -8,19 +8,19 @@
 
 ## Active Work
 
-| Task                                                        | Status              | Target             |
-| ----------------------------------------------------------- | ------------------- | ------------------ |
-| wolf-blocks: in-page testing (stats, testimonials, pricing) | 🧪 testing          | This week          |
-| wolf-blocks: newsletter sign-up block                       | 🔧 done             | This week          |
-| seijaku-fse: theme card design refinement                   | ⏳ in sprint         | This week          |
-| seijaku-fse: archive filtering + search UI                  | ⏳ in sprint         | This week          |
-| seijaku-fse: overall template + design refinement           | ⏳ in sprint         | This week          |
-| Deployment re-test (staging → SiteGround)                   | ✅ done              | This week          |
-| Switch repos to dev branches (pre-production)               | ✅ done              | This week          |
-| Add countdown to current wolfthemes.com main pages          | ✅ done              | This week          |
-| CI/CD cache flush (`wp cache flush` + nginx PURGE)          | 🔧 wp done; nginx pending | This week     |
-| Performance optimization pass                               | ⏳ post-card/archive | This week          |
-| **Production deployment**                                   | 🎯 target           | ⚠️ HARD: 2026-06-30 |
+| Task                                                        | Status      | Target              |
+| ----------------------------------------------------------- | ----------- | ------------------- |
+| wolf-blocks: in-page testing (stats, testimonials, pricing) | 🧪 testing  | This week           |
+| wolf-blocks: newsletter sign-up block                       | ✅ done      | This week           |
+| seijaku-fse: theme card design refinement                   | ✅ done      | This week           |
+| seijaku-fse: archive filtering + search UI                  | ⏳ in sprint | After launch        |
+| seijaku-fse: overall template + design refinement           | ✅ done      | This week           |
+| Deployment re-test (staging → SiteGround)                   | ✅ done      | This week           |
+| Switch repos to dev branches (pre-production)               | ✅ done      | This week           |
+| Add countdown to current wolfthemes.com main pages          | ✅ done      | This week           |
+| CI/CD cache flush (`wp cache flush` + nginx PURGE)          | ✅ done      | This week           |
+| Performance optimization pass                               | ✅ done      | This week           |
+| **Production deployment**                                   | 🎯 target   | ⚠️ HARD: 2026-06-30 |
 
 ---
 
