@@ -7,3 +7,4 @@ One line per item. No formatting needed.
 
 rehab blog posts, create blog styles and create new posts
 wolfthemes-wiki: check why uncommited local pages
+wolf-store: fix: view on themeforest link in comparison table
