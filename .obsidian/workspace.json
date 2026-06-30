@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "TASKS"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2311faff25eab4d",
+  "active": "5e2c680b8c5b29bd",
   "lastOpenFiles": [
+    "Inbox.md",
     "Inbox.md.tmp.164806.774174b60fdb",
     "TASKS.md.tmp.164806.19b4b71d7946",
     "TASKS.md.tmp.164806.811bdf0b06b6",
@@ -207,9 +208,7 @@
     "TASKS.md",
     "graphify/seijaku-fse/cache/stat-index.gdt920hd.tmp",
     "graphify/seijaku-fse/cache/stat-index.y_g_ugmf.tmp",
-    "Inbox.md",
     "graphify/seijaku-fse/cache/stat-index.pkj5l9ln.tmp",
-    "graphify/seijaku-fse/cache/stat-index.hzknpght.tmp",
     "STATUS.md",
     "Home.md",
     "wiki/projects/wolfthemes-growth/launch-teaser-email.md",

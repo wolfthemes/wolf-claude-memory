@@ -20,7 +20,7 @@ Disable coming soon mode in prod - Be sure to check the cached version in incogn
 
 ## 🎉 After Launch
 
-- [ ] **Send launch newsletter (Brevo)** — warm list (963); launch day 2026-07-01. See [[launch-newsletter]]
+- [x] **Send launch newsletter (Brevo)** — warm list (963); launch day 2026-07-01. See [[launch-newsletter]] _> is arleady schedules_
 - [ ] **Enable wolfthemes-store-banner in demos**
 - [ ] **Post social posts** — execute the scheduled queue
 - [ ] **Check all theme gallery images** — audit every single theme page gallery after launch
@@ -45,7 +45,7 @@ Disable coming soon mode in prod - Be sure to check the cached version in incogn
 
 ### wolf-store
 
-- [ ] **theme card: thumbnail lazy-load fade-in** (P2) — add fade-in animation on lazy-loaded thumbnails
+- [x] **theme card: thumbnail lazy-load fade-in** (P2) — add fade-in animation on lazy-loaded thumbnails
 - [ ] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **audit filter and overall archive UI** (P2)
 
