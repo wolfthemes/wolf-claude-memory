@@ -22,14 +22,14 @@ Disable coming soon mode in prod - Be suer to check the cached version in incogn
 
 ## 📋 Before Launch
 
-- [ ] **Add nginx PURGE to deploy workflows** — `curl -D - -sSX PURGE http://127.0.0.1/* -H "Host: wolfthemes.com"` after `wp cache flush` in both deploy-master.yml and deploy-stage.yml
+- [x] **Add nginx PURGE to deploy workflows** — `curl -D - -sSX PURGE http://127.0.0.1/* -H "Host: wolfthemes.com"` after `wp cache flush` in both deploy-master.yml and deploy-stage.yml
 
 ---
 
 ## 🎉 After Launch
 
 - [ ] **Enable wolfthemes-store-banner in demos**
-- [ ] **Send launch newsletter (Brevo)** — warm list (963); launch day 2026-07-01. See [[launch-newsletter]]
+- [x] **Send launch newsletter (Brevo)** — warm list (963); launch day 2026-07-01. See [[launch-newsletter]]
 - [ ] **Post social posts** — execute the scheduled queue
 - [ ] **D+2 non-opener reminder** — check non-opener count after launch email; if segment large enough, send reminder on 2026-07-03
 - [ ] **Check each Brevo segment step by step after each campaign** — verify contact counts, open/click rates, suppression accuracy
