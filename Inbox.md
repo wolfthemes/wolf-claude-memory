@@ -9,6 +9,8 @@ After launch email , check the Non-openers — Launch Day Warm List contact coun
 Check each segments step by step after each campagins
 Create a Freemius buy list to exlude it from the reminder campaigns
 
+SJ-FSE: add terms and condition
+SJ-FSE: buy button - COULEUR
 SJ-FSE: Add affect to button - animated arrow maybe
 SJ-FSE Menu button: change to "Start a custom project" or some freelance appealing
 SJ-FSE: create a new page similar to services to showcase freelance services
