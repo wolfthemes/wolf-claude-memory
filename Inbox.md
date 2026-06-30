@@ -8,4 +8,4 @@ One line per item. No formatting needed.
 rehab blog posts, create blog styles and create new posts
 wolfthemes-wiki: check why uncommited local pages
 wolf-store: fix: view on themeforest link in comparison table
-wolf-store: taxonomy returns all featured theme. e.g https://wolfthemes.com/theme-post-type/events/
+wolf-store: theme_post_type taxonomy returns all featured theme. e.g https://wolfthemes.com/theme-post-type/events/
