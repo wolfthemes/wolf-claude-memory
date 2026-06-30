@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASKS.md",
+                "file": "wiki/projects/wolfthemes-growth/launch-teaser-email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASKS"
+              "title": "launch-teaser-email"
             }
           }
         ],
@@ -85,7 +85,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,20 +207,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "63ef1b180d6b1abb",
+  "active": "d9cdf47e73ee4b01",
   "lastOpenFiles": [
-    "Inbox.md",
+    "graphify/seijaku-fse/cache/stat-index.k0pm0q_a.tmp",
+    "graphify/seijaku-fse/cache/stat-index.cx070eox.tmp",
+    "graphify/seijaku-fse/cache/stat-index.t8x0uwh2.tmp",
+    "graphify/seijaku-fse/cache/stat-index.mhhbdkp8.tmp",
+    "graphify/seijaku-fse/cache/stat-index.9ul3ub71.tmp",
+    "graphify/seijaku-fse/cache/stat-index.fmthqp8s.tmp",
+    "graphify/seijaku-fse/cache/stat-index.68fz5ir7.tmp",
+    "graphify/seijaku-fse/cache/stat-index.d1f0ezxg.tmp",
+    "graphify/seijaku-fse/cache/stat-index.twbgl_oy.tmp",
     "TASKS.md",
+    "Inbox.md",
     "wiki/projects/wolfthemes-growth/launch-teaser-email.md.tmp.164806.a94024c48d81",
     "graphify/seijaku-fse/cache/stat-index.1_wfnsxt.tmp",
-    "graphify/seijaku-fse/cache/stat-index.e633xtv9.tmp",
-    "graphify/seijaku-fse/cache/stat-index.lh0e9vj9.tmp",
-    "graphify/seijaku-fse/cache/stat-index.i92siabh.tmp",
-    "graphify/seijaku-fse/cache/stat-index.4l8t2jky.tmp",
-    "STATUS.md.tmp.164806.4903aa270bd6",
-    "raw/index.md.tmp.164806.eea0e56a7459",
-    "Inbox.md.tmp.164806.a3a004d32670",
-    "TASKS.md.tmp.164806.0b2dd50fe1e9",
     "graphify/wolf-blocks/2026-06-30/GRAPH_REPORT.md",
     "graphify/wolf-store/2026-06-30/GRAPH_REPORT.md",
     "STATUS.md",
