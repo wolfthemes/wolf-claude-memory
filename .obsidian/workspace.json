@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec7ece29e216b98a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5e2c680b8c5b29bd",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,8 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2311faff25eab4d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
+    "Inbox.md",
     "graphify/seijaku-fse/cache/stat-index.m77ac781.tmp",
     "graphify/seijaku-fse/cache/stat-index.6wjyzkj3.tmp",
     "TASKS.md",
@@ -208,10 +210,7 @@
     "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.164806.679958bf9fb3",
     "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.164806.a90be6c0e51a",
     "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.164806.9358ecb0f38e",
-    "wiki/projects/wolfthemes-redesign/wolfthemes-redesign.md.tmp.164806.704708ad370c",
-    "Inbox.md",
     "STATUS.md",
-    "Home.md",
     "wiki/projects/wolfthemes-growth/launch-teaser-email.md",
     "graphify/wolf-blocks/2026-06-30/GRAPH_REPORT.md",
     "graphify/wolf-store/2026-06-30/GRAPH_REPORT.md",

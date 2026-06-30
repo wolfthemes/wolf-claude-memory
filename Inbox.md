@@ -10,3 +10,4 @@ wolfthemes-wiki: check why uncommited local pages
 wolf-store: fix: view on themeforest link in comparison table
 wolf-store: theme_post_type taxonomy returns all featured theme. e.g https://wolfthemes.com/theme-post-type/events/
 wolf-demos: bug https://preview.wolfthemes.store/notescape/
+wolf-demos: find out why some theme demos redirect landing/?ref=wolftheme to root /landin - most likely a cache issue
