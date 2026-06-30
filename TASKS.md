@@ -16,7 +16,7 @@
 
 > ⚠️ **Hard deadline: prod live by the evening of 2026-06-30.**
 
-Disable coming soon mode in prod - Be suer to check the cached version in incognito. Better deploy a bit earlier before Brevo campaigns hit
+Disable coming soon mode in prod - Be sure to check the cached version in incognito. Better deploy a bit earlier before Brevo campaigns hit
 
 ---
 
@@ -35,7 +35,7 @@ Disable coming soon mode in prod - Be suer to check the cached version in incogn
 - [ ] **Check each Brevo segment step by step after each campaign** — verify contact counts, open/click rates, suppression accuracy
 - [ ] **Create Freemius buyer list to exclude from reminder campaigns** — prevent paying customers from receiving opt-in/reminder cold emails
 - [ ] **Redirect staging → wolfthemes.com for non-logged-in visitors** — later: add IP restriction plugin
-- [ ] Replace help center link in footer by contact link - find a solution for TF/Freemius split
+- [x] Replace help center link in footer by contact link - find a solution for TF/Freemius split
 
 ---
 
@@ -48,7 +48,7 @@ Disable coming soon mode in prod - Be suer to check the cached version in incogn
 - [x] **home hero twist** (P3) — add a subtle visual element; candidate: brushstroke effect from the Nu theme -> working on it
 - [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
 - [ ] **reorganize SCSS folder** (P3) — forms styles need to move out of current location into a more logical folder
-- [ ] **add Terms & Conditions page** (P2)
+- [x] **add Terms & Conditions page** (P2)
 - [ ] **buy button color** (P2) — review/fix buy button color
 - [ ] **animated arrow on button** (P3) — add animated arrow effect to CTA buttons
 - [ ] **menu CTA copy** (P2) — change to "Start a custom project" or similar freelance-appealing label
@@ -74,7 +74,7 @@ Disable coming soon mode in prod - Be suer to check the cached version in incogn
 
 ### Performance
 
-- [ ] **optimization pass** (P3) — after card/archive work; evaluate Autoptimize; check "Includes" label (white checkmark variant)
+- [x] **optimization pass** (P3) — after card/archive work; evaluate Autoptimize; check "Includes" label (white checkmark variant)
 
 ---
 
