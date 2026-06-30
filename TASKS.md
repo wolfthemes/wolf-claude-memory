@@ -6,13 +6,13 @@
 
 ## 🎯 Today — pre-launch focus (2026-06-30)
 
-- [ ] **Full pre-launch QA pass** (P0) — link animations, all pages, content, buy links, all individual theme pages
+- [x] **Full pre-launch QA pass** (P0) — link animations, all pages, content, buy links, all individual theme pages
 
 ---
 
 ## 🚀 Launch — 1 July 2026
 
-> ⚠️ **Hard deadline: prod live by the evening of 2026-06-30.**
+> ⚠️ **Hard deadline: prod live by the evening of 2026-06-30.** - DONE
 
 Disable coming soon mode in prod - Be sure to check the cached version in incognito. Better deploy a bit earlier before Brevo campaigns hit
 
@@ -21,7 +21,7 @@ Disable coming soon mode in prod - Be sure to check the cached version in incogn
 ## 🎉 After Launch
 
 - [x] **Send launch newsletter (Brevo)** — warm list (963); launch day 2026-07-01. See [[launch-newsletter]] _> is arleady schedules_
-- [ ] **Enable wolfthemes-store-banner in demos**
+- [x] **Enable wolfthemes-store-banner in demos**
 - [ ] **Post social posts** — execute the scheduled queue
 - [ ] **Check all theme gallery images** — audit every single theme page gallery after launch
 - [ ] **D+2 non-opener reminder** — check non-opener count after launch email; if segment large enough, send reminder on 2026-07-03
@@ -35,7 +35,7 @@ Disable coming soon mode in prod - Be sure to check the cached version in incogn
 
 ### seijaku-fse
 
-- [ ] **animation engine** (P3) — subtle entrance and scroll animation; ideas: animate mobile menu items on panel open; animate home hero text on page load
+- [ ] **animation engine** (P3) — possibly apply hero text anim to other pages (Music Themes page, Sercies page mostly)
 - [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
 - [ ] **reorganize SCSS folder** (P3) — forms styles need to move out of current location into a more logical folder
 - [ ] **animated arrow on button** (P3) — add animated arrow effect to CTA buttons
