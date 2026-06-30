@@ -5,6 +5,8 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 
 One line per item. No formatting needed.
 
+After launch email , check the Non-openers — Launch Day Warm List contact count, then if it contains enough contact , set it for the D+2 campaign
+
 SJ-FSE: Add affect to button - animated arrow maybe
 SJ-FSE Menu button: change to "Start a custom project" or some freelance appealing
 SJ-FSE: create a new page similar to services to showcase freelance services

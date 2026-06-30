@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASKS.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASKS"
+              "title": "Inbox"
             }
           }
         ],
@@ -208,19 +208,19 @@
   },
   "active": "63ef1b180d6b1abb",
   "lastOpenFiles": [
+    "TASKS.md",
+    "graphify/seijaku-fse/cache/stat-index.69bb2gfr.tmp",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/97bea625e66865510f1d7ce57eb6537cf0ed1ed336ec8f81e51addf53595b3cd.json",
+    "graphify/seijaku-fse/cache/stat-index.2_y2n_jg.tmp",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/90a8e37f6d51bbded3bb68bea26c94775a816c6c69d303e164177fe4653a590e.json",
+    "graphify/seijaku-fse/cache/stat-index.tbi6s12e.tmp",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/f5f290af1cc41b850fe59596c0eb0cf317bebf26a72c540f6d0365161231b882.json",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/f5f290af1cc41b850fe59596c0eb0cf317bebf26a72c540f6d0365161231b882.upuvajwb.tmp",
+    "graphify/seijaku-fse/cache/stat-index.iqx9l21j.tmp",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/3d541a738ce762eb936acfb20714700217795ebc54aa4b897d41b227182d84b2.json",
+    "graphify/seijaku-fse/cache/ast/v0.8.51/3d541a738ce762eb936acfb20714700217795ebc54aa4b897d41b227182d84b2.ju71p_wu.tmp",
     "STATUS.md",
     "agents/analytics.md",
-    "graphify/seijaku-fse/cache/stat-index._wj39bu3.tmp",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/6ac4163f348a76903c2ddf8b79cd9afe901f7cad900a272fb96c5bd9fbe758bd.json",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/6ac4163f348a76903c2ddf8b79cd9afe901f7cad900a272fb96c5bd9fbe758bd.j07isnx2.tmp",
-    "agents/analytics.md.tmp.164806.09381d57de81",
-    "agents/analytics.md.tmp.164806.05b24e0563ee",
-    "agents/analytics.md.tmp.164806.db31366b38dc",
-    "agents/analytics.md.tmp.164806.ab7b63f9386d",
-    "agents/analytics.md.tmp.164806.6c0572875ce5",
-    "TASKS.md",
-    "graphify/seijaku-fse/cache/stat-index.l5ha9o9w.tmp",
-    "graphify/seijaku-fse/cache/ast/v0.8.51/5c0f4342156831d52dd6dbe1960cf6f07460a40a4f465a105511846f7d5dd5b8.json",
     "Inbox.md",
     "Home.md",
     "wiki/concepts/analytics-marketing-stack.md",
@@ -243,7 +243,6 @@
     "wiki/projects/projects.md",
     "node_modules/playwright-core/lib/tools/cli-client/skill/references/storage-state.md",
     "wiki/projects/wolfthemes-growth/launch-teaser-email.md",
-    "wiki/projects/wolfthemes-growth/optin-reengagement-email.md",
     "raw/theme-screenshots/sable-home-alt.png",
     "raw/themes/zample/thumbs/05.jpg",
     "raw/themes/zample/thumbs/04.jpg",
