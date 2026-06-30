@@ -12,5 +12,6 @@ Create a Freemius buy list to exlude it from the reminder campaigns
 SJ-FSE: Add affect to button - animated arrow maybe
 SJ-FSE Menu button: change to "Start a custom project" or some freelance appealing
 SJ-FSE: create a new page similar to services to showcase freelance services
+SJ-FSE: logo : convert it to SVG with SVG, one logo for all, more flexible color change
 
 
