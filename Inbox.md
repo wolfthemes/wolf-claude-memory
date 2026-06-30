@@ -12,3 +12,4 @@ wolf-store: theme_post_type taxonomy returns all featured theme. e.g https://wol
 wolf-demos: bug https://preview.wolfthemes.store/notescape/
 wolf-demos: find out why some theme demos redirect landing/?ref=wolftheme to root /landin - most likely a cache issue
 wolfthemes.com: double check IP exclusion from analytics
+wolfthemes.com: assets.wolfthemes.cloud image cache optmization - https://pagespeed.web.dev/analysis/https-wolfthemes-com/9xa8wsbq7j?form_factor=desktop&hl=fr
