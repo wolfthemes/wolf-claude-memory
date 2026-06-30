@@ -6,7 +6,7 @@
 
 ## 🎯 Today — pre-launch focus (2026-06-29)
 
-- [ ] **seijaku-fse: hero text animation + brushstroke underline** (P0) — entrance animation on hero heading text + SVG brushstroke underline effect ported from Nu theme
+- [ ] **seijaku-fse: hero text animation resize fix** + move musician underline slightly below to fit the others
 - [x] **wolf-store: ThemeCard lazy-load fade-in** (P0) — fade-in animation as cards enter viewport (IntersectionObserver)
 - [ ] **Full pre-launch QA pass** (P0) — link animations, all pages, content, buy links, all individual theme pages
 
