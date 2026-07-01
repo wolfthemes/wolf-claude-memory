@@ -31,7 +31,7 @@
 
 ### wolf-store
 
-- [ ] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
+- [x] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **audit filter and overall archive UI** (P2)
 - [ ] **Fix ThemeForest link in comparison table** - "view on ThemeForest" link broken in comparison table
 - [ ] **Fix theme_post_type taxonomy returning all featured themes** - e.g. https://wolfthemes.com/theme-post-type/events/ returns all featured themes instead of a filtered set
