@@ -20,7 +20,7 @@
 ### seijaku-fse
 
 - [x] **wolfthemes-banner: CTA button hover effect** (P2)
-- [ ] **wolfthemes-banner: hide banner if referrer is wolfthemes.com** (P2) — don't show the banner to visitors already on the store
+- [x] **wolfthemes-banner: hide banner if referrer is wolfthemes.com** (P2) — don't show the banner to visitors already on the store
 - [ ] **animation engine** (P3) — possibly apply hero text anim to other pages (Music Themes page, Services page mostly)
 - [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
 - [ ] **reorganize SCSS folder** (P3) — forms styles need to move out of current location into a more logical folder
