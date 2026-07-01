@@ -33,6 +33,8 @@
 
 - [ ] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **audit filter and overall archive UI** (P2)
+- [ ] **Fix ThemeForest link in comparison table** - "view on ThemeForest" link broken in comparison table
+- [ ] **Fix theme_post_type taxonomy returning all featured themes** - e.g. https://wolfthemes.com/theme-post-type/events/ returns all featured themes instead of a filtered set
 
 ### wolf-blocks
 
@@ -44,6 +46,21 @@
 - [ ] **homepage CTA/messaging review** (P2) — missing a clear value/solution hook ("here's the solution to your problem"). Plus a lighter CRO pass on the single theme page
 - [ ] **social posts + newsletter schedule** (P2) — set up proper Buffer posting schedule alongside a separate newsletter cadence
 - [ ] **Blog posts to drive organic traffic** (P2) — write blog content targeting relevant searches; evaluate fit and potential topics
+- [ ] **Rehab blog posts** - create blog styles and new posts
+
+### wolfthemes-wiki
+
+- [ ] **Check uncommitted local pages** - investigate why wolfthemes-wiki has uncommitted local pages
+
+### wolf-demos
+
+- [ ] **Fix demo bug** - https://preview.wolfthemes.store/notescape/
+- [ ] **Investigate demo redirect issue** - some theme demos redirect landing/?ref=wolftheme to root /landin, most likely a cache issue
+
+### wolfthemes.com
+
+- [ ] **Double-check IP exclusion from analytics**
+- [ ] **Optimize assets.wolfthemes.cloud image cache** - see PageSpeed report: https://pagespeed.web.dev/analysis/https-wolfthemes-com/9xa8wsbq7j?form_factor=desktop&hl=fr
 
 ---
 

@@ -4,12 +4,3 @@ Raw capture only. Dictate or jot a line here for anything you don't have time to
 
 
 One line per item. No formatting needed.
-
-rehab blog posts, create blog styles and create new posts
-wolfthemes-wiki: check why uncommited local pages
-wolf-store: fix: view on themeforest link in comparison table
-wolf-store: theme_post_type taxonomy returns all featured theme. e.g https://wolfthemes.com/theme-post-type/events/
-wolf-demos: bug https://preview.wolfthemes.store/notescape/
-wolf-demos: find out why some theme demos redirect landing/?ref=wolftheme to root /landin - most likely a cache issue
-wolfthemes.com: double check IP exclusion from analytics
-wolfthemes.com: assets.wolfthemes.cloud image cache optmization - https://pagespeed.web.dev/analysis/https-wolfthemes-com/9xa8wsbq7j?form_factor=desktop&hl=fr

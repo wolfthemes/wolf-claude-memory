@@ -10,7 +10,8 @@
       "Bash(git -C \"C:/Users/Constantin/dev/wolf-claude-memory\" push)",
       "mcp__claude_ai_Buffer__get_account",
       "Bash(git push *)",
-      "mcp__claude_ai_Claude_Code_Remote__list_triggers"
+      "mcp__claude_ai_Claude_Code_Remote__list_triggers",
+      "Skill(schedule)"
     ]
   }
 }
