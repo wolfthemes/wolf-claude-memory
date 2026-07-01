@@ -24,7 +24,7 @@
 - [ ] **animation engine** (P3) — possibly apply hero text anim to other pages (Music Themes page, Services page mostly)
 - [ ] **freelance availability: services page + footer CTA** (P3) — emphasize freelance availability in the services section; add a small CTA in the footer
 - [ ] **reorganize SCSS folder** (P3) — forms styles need to move out of current location into a more logical folder
-- [ ] **animated arrow on button** (P3) — add animated arrow effect to CTA buttons
+- [x] **animated arrow on button** (P3) — add animated arrow effect to CTA buttons
 - [ ] **menu CTA copy** (P2) — change to "Start a custom project" or similar freelance-appealing label
 - [ ] **freelance services page** (P2) — new page similar to services, focused on showcasing freelance services
 - [ ] **convert logo to single SVG** (P3) — one SVG logo for all contexts, flexible color via CSS (replace current light/dark variants)
