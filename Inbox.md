@@ -7,5 +7,6 @@ One line per item. No formatting needed.
 
 Compta: _Acompte de TVA_, à compléter avant le **21 juillet 2026**
 Compta: URSSAF jusqu'au 20 juillet 2026 à 12h00 pour télédéclarer revenu prévisionnel
+Perso: Banque Important: envoiyer document: voir mail
 
 wolfthemes.com: create theme installtion video tutorial
