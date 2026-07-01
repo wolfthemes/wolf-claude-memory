@@ -6,12 +6,12 @@
 
 ## 🎉 After Launch
 
-- [ ] **Post social posts** — execute the scheduled queue
+- [x] **Post social posts** — execute the scheduled queue
 - [ ] **Check all theme gallery images** — audit every single theme page gallery after launch
 - [ ] **D+2 non-opener reminder** — check non-opener count after launch email; if segment large enough, send reminder on 2026-07-03
 - [ ] **Check each Brevo segment step by step after each campaign** — verify contact counts, open/click rates, suppression accuracy
 - [ ] **Create Freemius buyer list to exclude from reminder campaigns** — prevent paying customers from receiving opt-in/reminder cold emails
-- [ ] **Redirect staging → wolfthemes.com for non-logged-in visitors** — later: add IP restriction plugin
+- [x] **Redirect staging → wolfthemes.com for non-logged-in visitors** — later: add IP restriction plugin
 
 ---
 
@@ -33,8 +33,8 @@
 
 - [x] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **audit filter and overall archive UI** (P2)
-- [ ] **Fix ThemeForest link in comparison table** - "view on ThemeForest" link broken in comparison table
-- [ ] **Fix theme_post_type taxonomy returning all featured themes** - e.g. https://wolfthemes.com/theme-post-type/events/ returns all featured themes instead of a filtered set
+- [x] **Fix ThemeForest link in comparison table** - "view on ThemeForest" link broken in comparison table
+- [x] **Fix theme_post_type taxonomy returning all featured themes** - e.g. https://wolfthemes.com/theme-post-type/events/ returns all featured themes instead of a filtered set
 
 ### wolf-blocks
 
