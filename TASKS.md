@@ -61,6 +61,7 @@
 
 - [ ] **Double-check IP exclusion from analytics**
 - [ ] **Optimize assets.wolfthemes.cloud image cache** - see PageSpeed report: https://pagespeed.web.dev/analysis/https-wolfthemes-com/9xa8wsbq7j?form_factor=desktop&hl=fr
+- [ ] **wolfthemes.com: rendre le site traduisible** (P2) — internationalisation du site principal wolfthemes.com (i18n/l10n)
 
 ---
 
