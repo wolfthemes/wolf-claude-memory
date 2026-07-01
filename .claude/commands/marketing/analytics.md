@@ -21,14 +21,22 @@ Objectif : identifier quelles pages de thèmes génèrent le plus de trafic et d
 
 Utilise `mcp__Buffer__get_aggregated_post_metrics` avec :
 - **organizationId** : `66e40cad8a27b612c7a0ccd3`
-- **channels** : tous (Facebook `66e40ccdca3dab3e0a3c25e2`, Twitter `66e40e3aca3dab3e0a56dc9c`, Instagram `66e40ce7ca3dab3e0a3d7bc0`)
+- **channels** : tous (Facebook `66e40ccdca3dab3e0a3c25e2`, Instagram `66e40ce7ca3dab3e0a3d7bc0`, Pinterest `6a3c3fca5ab6d2f1066a9e7f`)
 - **startDateTime** et **endDateTime** au format ISO 8601 (ex : `2026-05-25T00:00:00Z`)
 
 Note : utiliser `startDateTime`/`endDateTime` (pas `startDate`/`endDate`).
 
 Ensuite `mcp__Buffer__list_posts` pour voir les posts récents et leur engagement individuel.
 
-### 3. Rédige le rapport
+### 3. Brevo — Performance newsletter
+
+Utilise `mcp__Brevo__email_campaign_management_get_email_campaigns` pour lister les campagnes envoyées sur les 30 derniers jours (statut `sent`).
+
+Pour chaque campagne pertinente, `mcp__Brevo__email_campaign_management_get_email_campaign` donne le détail : délivrés, taux d'ouverture, clics, conversions, désinscriptions.
+
+Objectif : voir quelles campagnes/segments performent, et si les clics de newsletter se retrouvent dans le trafic GA4 (comparer les dates d'envoi aux pics de sessions sur `sessionSource`/`sessionMedium` contenant `email`/`newsletter`/`brevo`).
+
+### 4. Rédige le rapport
 
 Écris le rapport dans `output/reports/YYYY-MM-DD.md` (date du jour) avec cette structure :
 
@@ -50,8 +58,14 @@ Ensuite `mcp__Buffer__list_posts` pour voir les posts récents et leur engagemen
 ## Buffer — Posts les plus performants
 [Liste des 5 meilleurs posts avec métriques]
 
+## Brevo — Performance newsletter
+[Tableau : campagne | délivrés | taux ouverture | clics | conversions]
+
 ## Thèmes qui génèrent du trafic
 [Quels slugs de thèmes apparaissent le plus dans les pages vues]
+
+## Dynamique newsletter ↔ site ↔ social
+[Est-ce qu'un envoi Brevo produit un pic de sessions GA4 ou d'engagement Buffer dans les jours suivants ?]
 
 ## Insights
 [3-5 observations actionnables basées sur les données]
@@ -60,6 +74,6 @@ Ensuite `mcp__Buffer__list_posts` pour voir les posts récents et leur engagemen
 [2-3 actions concrètes]
 ```
 
-### 4. Met à jour le wiki
+### 5. Met à jour le wiki
 
 Si le rapport révèle un changement significatif de tendance (nouveau thème qui performe, source de trafic inattendue), mets à jour `wiki/concepts/analytics-marketing-stack.md`.

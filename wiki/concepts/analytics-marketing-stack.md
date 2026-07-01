@@ -14,7 +14,8 @@ See `raw/wolfthemes/stack.md` for the full ID/key reference.
 | Revenue | Freemius | Store ID 15308. REST API. Secret key in `.env` only. |
 | Web analytics | GA4 + Site Kit | Property "WolfThemes Store" — `properties/543096202` on wolfthemes.com. |
 | Tag management | GTM | Demo sites only (GTM-WSKJDHHW). Not on wolfthemes.com. |
-| Social scheduling | Buffer | Org 66e40cad8a27b612c7a0ccd3. Channels: Facebook, Instagram, Pinterest. X/Twitter removed 2026-06-25 (replaced by Pinterest pro account). |
+| Social scheduling | Buffer | Org 66e40cad8a27b612c7a0ccd3. Channels: Facebook `66e40ccdca3dab3e0a3c25e2`, Instagram `66e40ce7ca3dab3e0a3d7bc0`, Pinterest `6a3c3fca5ab6d2f1066a9e7f`. X/Twitter removed 2026-06-25 (replaced by Pinterest pro account). |
+| Email marketing | Brevo | Campaign sends + open/click/conversion stats via MCP. Not yet correlated with GA4 automatically — read manually per campaign for now. |
 | Security | Jetpack | Kept for brute force protection only. Stats module disabled. |
 
 ---
