@@ -195,8 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c2311faff25eab4d",
   "lastOpenFiles": [
+    "graphify/wolf-store/cache/stat-index.kcc_4b2t.tmp",
+    "graphify/wolf-store/cache/stat-index.8k1p9z9a.tmp",
     "graphify/wolf-store/cache/stat-index.iwnpl63p.tmp",
     "graphify/wolf-store/cache/stat-index.o2x9k7eo.tmp",
     "graphify/wolf-store/cache/ast/v0.8.51/f9a5727679ea027f2d675c495bc7e6c1597cd4e43e148405bf4311dd66f7272e.json",
@@ -207,8 +209,6 @@
     "graphify/wolf-store/cache/stat-index.i2w9q8mv.tmp",
     "graphify/wolf-store/2026-07-01/manifest.json",
     "graphify/wolf-store/2026-07-01/GRAPH_REPORT.md",
-    "graphify/wolf-store/2026-07-01/graph.json",
-    "graphify/wolf-store/2026-07-01",
     "Inbox.md",
     "output/reports/2026-07-01.md",
     "TASKS.md",
