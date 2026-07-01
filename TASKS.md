@@ -33,6 +33,7 @@
 
 - [x] **audit single theme pages** (P2) — meticulous, pixel-level design/QA pass (spacing, alignment, responsive, polish)
 - [ ] **audit filter and overall archive UI** (P2)
+- [ ] **single theme page: stack image gallery on mobile** (P1) — gallery images should stack vertically on mobile instead of horizontal scroll/grid
 - [x] **Fix ThemeForest link in comparison table** - "view on ThemeForest" link broken in comparison table
 - [x] **Fix theme_post_type taxonomy returning all featured themes** - e.g. https://wolfthemes.com/theme-post-type/events/ returns all featured themes instead of a filtered set
 
