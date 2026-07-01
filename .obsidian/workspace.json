@@ -195,8 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2311faff25eab4d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Inbox.md",
+    "TASKS.md",
     "graphify/wolf-store/cache/stat-index.kcc_4b2t.tmp",
     "graphify/wolf-store/cache/stat-index.8k1p9z9a.tmp",
     "graphify/wolf-store/cache/stat-index.iwnpl63p.tmp",
@@ -207,11 +209,8 @@
     "graphify/wolf-store/cache/ast/v0.8.51/04b8866f296d9754bce5ea230bc57b0349ab1b384e78811fa4bca9a1ffd81808.json",
     "graphify/wolf-store/cache/ast/v0.8.51/04b8866f296d9754bce5ea230bc57b0349ab1b384e78811fa4bca9a1ffd81808.bf2z__1i.tmp",
     "graphify/wolf-store/cache/stat-index.i2w9q8mv.tmp",
-    "graphify/wolf-store/2026-07-01/manifest.json",
     "graphify/wolf-store/2026-07-01/GRAPH_REPORT.md",
-    "Inbox.md",
     "output/reports/2026-07-01.md",
-    "TASKS.md",
     "Home.md",
     "STATUS.md",
     "wiki/projects/wolfthemes-growth/launch-teaser-email.md",
